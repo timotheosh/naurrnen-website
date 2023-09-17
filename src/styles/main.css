@@ -1,0 +1,73 @@
+body {
+    background-color: #1c1d26;
+    color: #999999;
+}
+
+h1.title {
+    margin-top: 60px;
+    font-family: "Oldenburg";
+    text-align: center;
+}
+
+
+.figure p {
+    text-align: center;
+}
+
+img#pic-header {
+    width: 100%;
+}
+
+div#content {
+    padding: 30px;
+    font-family: "Oldenburg";
+    font-size: 18px;
+}
+
+div#navigation ul {
+    list-style-type: none;
+    width: 90%;
+}
+
+div#navigation  ul li {
+    display: inline;
+    padding: 10px;
+}
+
+div#navigation ul li a {
+    text-decoration: none;
+    color: #999999;
+    font-family: "Dosis";
+    font-size: 22px;
+}
+
+div#navigation ul li a:hover {
+    color:red;
+}
+
+div#navigation {
+    position: fixed;
+    top: 0;
+    background-color: #262831;
+    width: 100%;
+    text-align: right;
+    line-height: 15px;
+    z-index: 100;
+}
+
+div#subtopic {
+    width: 400px; /* Adjust the width as needed */
+    height: 400px; /* Adjust the height as needed */
+    float: left; /* Float the image to the left */
+    margin-right: 20px; /* Add some space between the image and text */
+    margin-left: 30px;
+    margin-bottom: 5px;
+    margin-top: 50px;
+}
+
+img#small-frame {
+    border-radius: 10px; /* Adjust the radius to control the roundness */
+    max-width: 100%; /* Ensure the image doesn't exceed its container */
+    display: block; /* Remove extra spacing below the image */
+
+}
