@@ -1,3 +1,4 @@
+#+OPTIONS: caption: ()
 #+HTML_HEAD: <meta name="viewport" content="width=device-width, initial-scale=1">
 #+HTML_HEAD: <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oldenburg">
 #+HTML_HEAD: <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Dosis">

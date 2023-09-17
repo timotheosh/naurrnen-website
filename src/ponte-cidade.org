@@ -3,8 +3,9 @@
 #+startup: inlineimages
 #+include: setup.org
 
+#+caption: The great city of Ponte Cidade
 #+attr_org: :width 800
-#+attr_html: :id pic-banner :width 100%
+#+attr_html: :id pic-banner :alt City of Ponte Cidade :width 100%
 #+attr_latex: :width 350px
 [[./img/Ponte_Cidade2.png]]
 

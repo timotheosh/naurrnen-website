@@ -2,8 +2,9 @@
 #+startup: inlineimages
 #+include: setup.org
 
+#+caption: The Main Entrance to the Library Laurië Citime
 #+attr_org: :width 800
-#+attr_html: :id pic-banner :width 100%
+#+attr_html: :id pic-banner :alt Main Entrance to Laurië Citime :width 100%
 #+attr_latex: :width 350px
 [[./img/Laurie_Citime.png]]
 

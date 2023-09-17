@@ -2,12 +2,27 @@
 #+startup: inlineimages
 #+include: setup.org
 
+#+HTML: <style type="text/css">
+#+HTML:<!--/*--><![CDATA[/*><!--*/
+#+HTML: div.figure {
+#+HTML:   float:right;
+#+HTML:   padding: 0.5em;
+#+HTML:   max-width: 45%;
+#+HTML:   word-wrap: normal;
+#+HTML: }
+#+HTML: div.figure p {
+#+HTML:   display: inline;
+#+HTML: }
+#+HTML: /*]]>*/-->
+#+HTML: </style>
+
+* Elira Naethanor
+#+caption:  Statue of Elirandel Naethanor in the library of the University of Naethanor
 #+attr_org: :width 300
-#+attr_html: :width 500px; :style float:right;
+#+attr_html: :alt Image of a statue of Elirandel Naethanor :width 100%
 #+attr_latex: :width 200px
 [[./img/Elirandel-Naethanor.png]]
 
-***** Elira Naethanor
 Born to the prestigious royal line of Eärendelion, Elirandel was a prodigy among Elven scholars. She attended the esteemed Laurië Citime, where she studied a diverse range of subjects, from ancient lore to the arts of magic. Her future seemed predestined to be one of comfort and high standing within the Elven Empire of Átaremma.
 
 Gifted in history, philosophy, and magical arts, she was poised for a future of influence and leadership within the empire. However, her life took a drastic turn when she befriended Cormac, an Adama slave serving at the institution. Intrigued by his curiosity about the Elven texts he couldn't read and drawn by his quiet yet profound intelligence, Elirandel made the daring decision to teach him how to read the Elven script.
@@ -21,11 +36,13 @@ When it became increasingly clear that their intellectual pursuits and growing e
 Elirandel's departure sent ripples through Elven society, marking her both as a traitor and a revolutionary icon. It was a price she was willing to pay. Together with Cormac, she would go on to challenge the might of Aerithia and lay the groundwork for what would become the Gran Imperio, forever changing the course of Naurrnen's history.
 #+html: <br style="clear:both;" />
 
+* Cormac Naethanor
+#+caption:  Statue of Cormac Naethanor in the Auditorium at the University of Naethanor
 #+attr_org: :width 300
-#+attr_html: :width 500px; :style float:right;
+#+attr_html: :alt Image of a statue of Elirandel Naethanor :width 100%
 #+attr_latex: :width 200px
 [[./img/Cormac-Naethanor.png]]
-***** Cormac Naethanor
+
 Cormac was born into slavery, an Adama living under the oppressive rule of the Elven empire Aerithia. However, his life would diverge from the path of servitude most of his people walked when he was assigned to work at Laurië Citime, the foremost academic institution among the Elves. Although he started as a mere custodian of ancient tomes and scrolls, Cormac possessed an unquenchable thirst for knowledge and an innate intelligence that couldn't be ignored.
 
 It was at Laurië Citime that Cormac met Elirandel Elenariel, a young Elven scholar of royal descent. Intrigued by his persistent questions and drawn to his untapped intellect, Elirandel took the risky step of teaching him how to read the Elven script. As he learned to decipher the intricate letters and understand complex philosophies, Cormac's worldview expanded, fueling his desire for social reform and justice for his people. He began to formulate innovative ideas that would later shape revolutionary strategies, greatly influencing Elirandel in return.

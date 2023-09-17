@@ -9,9 +9,12 @@ h1.title {
     text-align: center;
 }
 
+.figure-number { display: none; }
 
 .figure p {
     text-align: center;
+    font-style: italic;
+    color: white;
 }
 
 img#pic-header {
