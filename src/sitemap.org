@@ -1,7 +1,12 @@
 #+TITLE: Sitemap for project naurrnen-website
 
-- [[file:laurie-citime.org][Laurië Citime]]
-- [[file:legend-of-naethanor.org][Legend Of Naethanor]]
-- [[file:ponte-cidade.org][Ponte Cidade]]
-- [[file:university-of-naethanor.org][University Of Naethanor]]
 - [[file:index.org][Welcome to Naurrnen]]
+- Places
+  - [[file:Places/laurie-citime.org][Laurië Citime]]
+  - [[file:Places/legend-of-naethanor.org][Legend Of Naethanor]]
+  - [[file:Places/ponte-cidade.org][Ponte Cidade]]
+  - [[file:Places/university-of-naethanor.org][University Of Naethanor]]
+  - [[file:Places/index.org][Welcome to Naurrnen]]
+- Secrets
+  - [[file:Secrets/index.org][Naurrnen's Forgotten Past]]
+  - [[file:Secrets/syscon-37221.org][Syscon 37221 Lost]]

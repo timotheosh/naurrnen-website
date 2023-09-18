@@ -1,6 +1,6 @@
 #+title: University Of Naethanor
 #+startup: inlineimages
-#+include: setup.org
+#+include: navbar.org
 
 #+caption: The Quadrangle in the University of Naethanor
 #+attr_org: :width 800

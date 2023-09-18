@@ -1,6 +1,6 @@
 #+title: Legend Of Naethanor
 #+startup: inlineimages
-#+include: setup.org
+#+include: navbar.org
 
 #+HTML: <style type="text/css">
 #+HTML:<!--/*--><![CDATA[/*><!--*/

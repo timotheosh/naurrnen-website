@@ -2,10 +2,4 @@
 #+HTML_HEAD: <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oldenburg">
 #+HTML_HEAD: <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Dosis">
 #+HTML_HEAD: <link rel="stylesheet" href="/styles/main.css" />
-#+HTML: <div id="navigation">
-- [[file:index.org][Welcome to Naurrnen]]
-- [[file:laurie-citime.org][Laurië Citime]]
-- [[file:ponte-cidade.org][Ponte Cidade]]
-- [[file:university-of-naethanor.org][University Of Naethanor]]
-- [[file:legend-of-naethanor.org][Legend Of Naethanor]]
-#+HTML: </div>
+#+HTML_HEAD: <script src="/js/main.js"></script>

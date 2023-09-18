@@ -1,7 +1,6 @@
 #+title: Ponte Cidade
-
 #+startup: inlineimages
-#+include: setup.org
+#+include: navbar.org
 
 #+caption: The great city of Ponte Cidade
 #+attr_org: :width 800

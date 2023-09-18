@@ -1,0 +1,6 @@
+#+include: setup.org
+#+HTML: <div id="navigation">
+- [[file:index.org][Welcome]]
+- [[file:Places/index.org][Places]]
+- [[file:Secrets/index.org][Secrets]]
+#+HTML: </div>
