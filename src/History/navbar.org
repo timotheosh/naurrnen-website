@@ -4,4 +4,7 @@
 #+HTML:    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
 - [[../index.org][Home]]
 - [[file:index.org][Introduction: History]]
+- [[file:First Era.org][First Era: The Amearans]]
+- [[file:Second Era.org][The Second Era: The Átaremma Elves]]
+- [[file:Third Era.org][The Third Era: The Age of Reconciliation]]
 #+HTML: </div>

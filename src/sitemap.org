@@ -10,7 +10,10 @@
   - [[file:Characters/Faelinoril Galathil.org][Faelinoril Galathil]]
   - [[file:Characters/legend-of-naethanor.org][Legend Of Naethanor]]
 - History
+  - [[file:History/First Era.org][First Era]]
   - [[file:History/index.org][Introduction to Naurrnen's History]]
+  - [[file:History/Second Era.org][Second Era]]
+  - [[file:History/Third Era.org][The Third Era: The Age of Reconciliation]]
 - Places
   - [[file:Places/laurie-citime.org][Laurië Citime]]
   - [[file:Places/ponte-cidade.org][Ponte Cidade]]
