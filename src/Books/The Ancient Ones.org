@@ -1,0 +1,7 @@
+#+title: The Ancient Ones
+#+startup: inlineimages
+#+include: navbar.org
+
+
+* The Ameara (or "The Ancient Ones") by [[../Characters/Bayetti Falasha.org][Bayetti Falasha]]
+One of [[../Characters/Bayetti Falasha.org][Bayetti Falasha]]'s most renown poetic work. There are many works by the ancient elves with encrypted messages regarding the many Amearan ruins, and their lost ancient tongue. But this became the most famous.

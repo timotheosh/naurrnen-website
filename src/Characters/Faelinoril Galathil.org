@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       190d4e5a-21d6-4d00-9bc3-9508808a8396
+:END:
+#+title: Faelinoril Galathil
+#+startup: inlineimages
+#+include: navbar.org
+
+#+HTML: <style type="text/css">
+#+HTML:<!--/*--><![CDATA[/*><!--*/
+#+HTML: div.figure {
+#+HTML:   float: right;
+#+HTML:   padding: 0.5em;
+#+HTML:   max-width: 45%;
+#+HTML:   word-wrap: normal;
+#+HTML: }
+#+HTML: div.figure p {
+#+HTML:   display: inline;
+#+HTML: }
+#+HTML: /*]]>*/-->
+#+HTML: </style>
+
+** Faelinoril Galathil
+
+#+caption: Faelinoril Galathil in his study
+#+attr_org: :width 300
+#+attr_html: :alt Image Faelinoril Galathil :width 100%;
+#+attr_latex: :width 200p
+[[./img/Faelinoril_Galathil.png]]
+
+- Age ::
+    Elder (but not old)
+- Race ::
+    Hallashim
+- Occupation ::
+    Head Master of the Hallashim Archiver's Guild
+- Home ::
+    Laurië Citime, in the city of Tanquende
+- Eneagram Scale ::
+    Investigator
+- Background ::
+The second era Elves did lay traps throughout the Athalorion underground passages, to dissuade others from discovering their secrets.
+The third era elves are generally not as stingy, but the riddles of Falasha's writings are as much a mystery to them as they are to others.
+There is an old, wise Hallashim, by the name of Faelinoril Galathil. He is the headmaster of the Transcript guild at Laurië Citime. He has dedicated most of his life trying to unravel Falasha's encrypted words and the secrets burried in the Athalorian ruins.
+
+Faelinoril's magnum ops, "In Átaremma's Footsteps", he reveals some the success the old elves had in translating enough of the Amearan tongue to form some simple phrases. He further was able to cross-reference these phrases in Falasha's poems. This was a huge breakthrough in the research of the Amearans.
+#+html: <br style="clear:both;" />

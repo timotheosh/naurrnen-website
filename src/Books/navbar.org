@@ -3,8 +3,6 @@
 #+HTML: <div id="side-nav" class="sidenav">
 #+HTML:    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
 - [[../index.org][Home]]
-- [[file:index.org][Places: Introduction]]
-- [[file:laurie-citime.org][Laurië Citime]]
-- [[file:ponte-cidade.org][Ponte Cidade]]
-- [[file:university-of-naethanor.org][University Of Naethanor]]
+- [[file:index.org][Introduction: Books]]
+- [[file:The Ancient Ones.org][The Ancient Ones]]
 #+HTML: </div>

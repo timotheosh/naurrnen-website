@@ -2,5 +2,8 @@
 #+HTML: <div id="navigation">
 - [[file:index.org][Welcome]]
 - [[file:Places/index.org][Places]]
+- [[file:History/index.org][History]]
+- [[file:Characters/index.org][Characters]]
+- [[file:Books/index.org][Books]]
 - [[file:Secrets/index.org][Secrets]]
 #+HTML: </div>

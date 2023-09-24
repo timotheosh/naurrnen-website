@@ -17,6 +17,8 @@
 #+HTML: </style>
 
 * Elira Naethanor
+#+NAME: Elira-Naethanor
+
 #+caption:  Statue of Elirandel Naethanor in the library of the University of Naethanor
 #+attr_org: :width 300
 #+attr_html: :alt Image of a statue of Elirandel Naethanor :width 100%

@@ -1,9 +1,18 @@
 #+TITLE: Sitemap for project naurrnen-website
 
 - [[file:index.org][Welcome to Naurrnen]]
+- Books
+  - [[file:Books/index.org][Books]]
+  - [[file:Books/The Ancient Ones.org][The Ancient Ones]]
+- Characters
+  - [[file:Characters/Bayetti Falasha.org][Bayetti Falasha]]
+  - [[file:Characters/index.org][Characters]]
+  - [[file:Characters/Faelinoril Galathil.org][Faelinoril Galathil]]
+  - [[file:Characters/legend-of-naethanor.org][Legend Of Naethanor]]
+- History
+  - [[file:History/index.org][Introduction to Naurrnen's History]]
 - Places
   - [[file:Places/laurie-citime.org][Laurië Citime]]
-  - [[file:Places/legend-of-naethanor.org][Legend Of Naethanor]]
   - [[file:Places/ponte-cidade.org][Ponte Cidade]]
   - [[file:Places/university-of-naethanor.org][University Of Naethanor]]
   - [[file:Places/index.org][Welcome to Naurrnen]]
