@@ -31,6 +31,17 @@ div#content {
     font-size: 18px;
 }
 
+div#content p a {
+  text-decoration: none;
+  color: #ffffff;
+  font-style: bold;
+}
+
+div#content p a:hover {
+  text-decoration: underline;
+  color: red;
+}
+
 /* The side navigation menu */
 .sidenav {
   height: 100%; /* 100% Full-height */

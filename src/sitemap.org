@@ -15,6 +15,7 @@
   - [[file:History/Second Era.org][Second Era]]
   - [[file:History/Third Era.org][The Third Era: The Age of Reconciliation]]
 - Places
+  - [[file:Places/Kauklatan Desert.org][Kauklatan Desert]]
   - [[file:Places/laurie-citime.org][Laurië Citime]]
   - [[file:Places/ponte-cidade.org][Ponte Cidade]]
   - [[file:Places/university-of-naethanor.org][University Of Naethanor]]

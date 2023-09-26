@@ -31,17 +31,6 @@ div#content {
     font-size: 18px;
 }
 
-/*
-div#navigation ul {
-    list-style-type: none;
-    width: 90%;
-}
-
-div#navigation  ul li {
-    display: inline;
-    padding: 10px;
-}
-
 div#content p a {
   text-decoration: none;
   color: #ffffff;
@@ -52,29 +41,6 @@ div#content p a:hover {
   text-decoration: underline;
   color: red;
 }
-*/
-/*
-div#navigation ul li a {
-    text-decoration: none;
-    color: #999999;
-    font-family: "Dosis";
-    font-size: 22px;
-}
-
-div#navigation ul li a:hover {
-    color:red;
-}
-
-div#navigation {
-    position: fixed;
-    top: 0;
-    background-color: #262831;
-    width: 100%;
-    text-align: right;
-    line-height: 15px;
-    z-index: 100;
-}
-*/
 
 /* The side navigation menu */
 .sidenav {
