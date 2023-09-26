@@ -4,7 +4,7 @@ body {
 }
 
 h1.title {
-    margin-top: 60px;
+   /*margin-top: 60px;*/
     font-family: "Oldenburg";
     text-align: center;
 }
@@ -31,6 +31,7 @@ div#content {
     font-size: 18px;
 }
 
+/*
 div#navigation ul {
     list-style-type: none;
     width: 90%;
@@ -51,7 +52,8 @@ div#content p a:hover {
   text-decoration: underline;
   color: red;
 }
-
+*/
+/*
 div#navigation ul li a {
     text-decoration: none;
     color: #999999;
@@ -72,6 +74,7 @@ div#navigation {
     line-height: 15px;
     z-index: 100;
 }
+*/
 
 /* The side navigation menu */
 .sidenav {
@@ -83,7 +86,7 @@ div#navigation {
   left: 0;
   background-color: #111; /* Black*/
   overflow-x: hidden; /* Disable horizontal scroll */
-  padding-top: 60px; /* Place content 60px from the top */
+  /*padding-top: 60px; /* Place content 60px from the top */
   transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
 }
 
@@ -103,44 +106,17 @@ div#navigation {
 }
 
 .openbtn {
-    position: absolute;
-    top: 60px;
+    position: fixed;
+    top: 25px;
 }
 
 /* Position and style the close button (top right corner) */
 .sidenav .closebtn {
   position: absolute;
-  top: 40px;
+  top: 20px;
   right: 25px;
   font-size: 36px;
   margin-left: 50px;
-}
-
-/* Tooltip container */
-.tooltip {
-  position: relative;
-  display: inline-block;
-  border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
-}
-
-/* Tooltip text */
-.tooltip::after {
-  visibility: hidden;
-  width: 300px;
-  background-color: black;
-  color: #fff;
-  text-align: center;
-  padding: 5px 0;
-  border-radius: 6px;
-
-  /* Position the tooltip text - see examples below! */
-  position: absolute;
-  z-index: 1;
-}
-
-/* Show the tooltip text when you mouse over the tooltip container */
-.tooltip:hover::after {
-  visibility: visible;
 }
 
 /* Style page content - use this if you want to push the page content to the right when you open the side navigation */

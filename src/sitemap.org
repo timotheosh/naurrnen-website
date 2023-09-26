@@ -19,6 +19,8 @@
   - [[file:Places/ponte-cidade.org][Ponte Cidade]]
   - [[file:Places/university-of-naethanor.org][University Of Naethanor]]
   - [[file:Places/index.org][Welcome to Naurrnen]]
+- Races
+  - [[file:Races/index.org][Races]]
 - Secrets
   - [[file:Secrets/index.org][Naurrnen's Forgotten Past]]
   - [[file:Secrets/syscon-37221.org][Syscon 37221 Lost]]
