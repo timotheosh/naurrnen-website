@@ -15,10 +15,11 @@
   - [[file:History/Second Era.org][Second Era]]
   - [[file:History/Third Era.org][The Third Era: The Age of Reconciliation]]
 - Places
-  - [[file:Places/Kauklatan Desert.org][Kauklatan Desert]]
+  - [[file:Places/Kaukloutan Desert.org][Kaukloutan Desert]]
   - [[file:Places/laurie-citime.org][Laurië Citime]]
   - [[file:Places/ponte-cidade.org][Ponte Cidade]]
   - [[file:Places/university-of-naethanor.org][University Of Naethanor]]
+  - [[file:Places/Vaabhath.org][Vaabhath]]
   - [[file:Places/index.org][Welcome to Naurrnen]]
 - Races
   - [[file:Races/index.org][Races]]
