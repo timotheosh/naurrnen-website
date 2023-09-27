@@ -9,5 +9,6 @@
 - [[file:Races/index.org][Races]]
 - [[file:Characters/index.org][Characters]]
 - [[file:Books/index.org][Books]]
+- [[file:Metals/index.org][Metals]]
 - [[file:Secrets/index.org][Secrets]]
 #+HTML: </div>

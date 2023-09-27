@@ -14,6 +14,8 @@
   - [[file:History/index.org][Introduction to Naurrnen's History]]
   - [[file:History/Second Era.org][Second Era]]
   - [[file:History/Third Era.org][The Third Era: The Age of Reconciliation]]
+- Metals
+  - [[file:Metals/index.org][Metals of Naurrnen]]
 - Places
   - [[file:Places/Kaukloutan Desert.org][Kaukloutan Desert]]
   - [[file:Places/laurie-citime.org][Laurië Citime]]
