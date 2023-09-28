@@ -5,4 +5,5 @@
 - [[../index.org][Home]]
 - [[file:index.org][Introduction: Books]]
 - [[file:The Ancient Ones.org][The Ancient Ones]]
+- [[file:In Átaremmas Footsteps.org][In Átaremma's Footsteps]]
 #+HTML: </div>

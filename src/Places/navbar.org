@@ -7,6 +7,8 @@
 - [[file:laurie-citime.org][Laurië Citime]]
 - [[file:ponte-cidade.org][Ponte Cidade]]
 - [[file:university-of-naethanor.org][University Of Naethanor]]
+- [[file:Ornasion library.org][Ornasion Library]]
+- [[file:Athelorion ruins.org][Athelorion ruins]]
 - [[file:Kaukloutan Desert.org][Kaukloutan Desert]]
 - [[file:Vaabhath.org][City of Vaabhath]]
 #+HTML: </div>

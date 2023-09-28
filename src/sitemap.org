@@ -3,6 +3,7 @@
 - [[file:index.org][Welcome to Naurrnen]]
 - Books
   - [[file:Books/index.org][Books]]
+  - [[file:Books/In Átaremmas Footsteps.org][In Átaremma's Footsteps]]
   - [[file:Books/The Ancient Ones.org][The Ancient Ones]]
 - Characters
   - [[file:Characters/Bayetti Falasha.org][Bayetti Falasha]]
@@ -17,8 +18,10 @@
 - Metals
   - [[file:Metals/index.org][Metals of Naurrnen]]
 - Places
+  - [[file:Places/Athelorion ruins.org][Athelorion Ruins]]
   - [[file:Places/Kaukloutan Desert.org][Kaukloutan Desert]]
   - [[file:Places/laurie-citime.org][Laurië Citime]]
+  - [[file:Places/Ornasion library.org][Ornasion Library]]
   - [[file:Places/ponte-cidade.org][Ponte Cidade]]
   - [[file:Places/university-of-naethanor.org][University Of Naethanor]]
   - [[file:Places/Vaabhath.org][Vaabhath]]

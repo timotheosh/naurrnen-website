@@ -31,7 +31,7 @@ div#content {
     font-size: 18px;
 }
 
-div#content p a {
+a {
   text-decoration: none;
   color: #ffffff;
   font-style: bold;
