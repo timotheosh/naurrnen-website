@@ -1,34 +1,31 @@
 body {
-    background-color: #1c1d26;
-    color: #999999;
+  background-color: #1c1d26;
+  color: #999999;
+  font-family: "Oldenburg";
 }
 
 h1.title {
-   /*margin-top: 60px;*/
-    font-family: "Oldenburg";
-    text-align: center;
+  text-align: center;
 }
 
 div.outline-2 h2 {
-    font-family: "Oldenburg";
-    text-align: center;
+  text-align: center;
 }
 
 .figure-number { display: none; }
 
 .figure p {
-    text-align: center;
-    font-style: italic;
-    color: white;
+  text-align: center;
+  font-style: italic;
+  color: white;
 }
 
 img#pic-header {
-    width: 100%;
+  width: 100%;
 }
 
 div#content {
-    font-family: "Oldenburg";
-    font-size: 18px;
+  font-size: 18px;
 }
 
 a {
@@ -72,8 +69,8 @@ div#content p a:hover {
 }
 
 .openbtn {
-    position: fixed;
-    top: 25px;
+  position: fixed;
+  top: 25px;
 }
 
 /* Position and style the close button (top right corner) */
@@ -83,6 +80,63 @@ div#content p a:hover {
   right: 25px;
   font-size: 36px;
   margin-left: 50px;
+}
+
+dl {
+  padding: 0.5em;
+}
+
+dt {
+  float: left;
+  text-align: right;
+  font-weight: bold;
+  color: white;
+}
+
+dt::after {
+  content: ":";
+}
+
+dd {
+  margin: 0 0 0 175px;
+  padding: 0 0 0.5em 0;
+}
+
+.content .collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-family: "Oldenburg";
+  font-size: 20px;
+}
+
+.content .active, .collapsible:hover {
+  background-color: #555;
+}
+
+.content .collapsible:after {
+  content: '\002B';
+  color: white;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.content .active:after {
+  content: "\2212";
+}
+
+.content .collapsible-content {
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: #111;
 }
 
 /* Style page content - use this if you want to push the page content to the right when you open the side navigation */
