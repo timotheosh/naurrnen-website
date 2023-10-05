@@ -102,6 +102,32 @@ dd {
   padding: 0 0 0.5em 0;
 }
 
+div.wrap-left-img div.figure {
+  float: left;
+  padding: 0.5em;
+  max-width: 45%;
+  word-wrap: normal;
+}
+
+div.wrap-right-img div.figure {
+  float: right;
+  padding: 0.5em;
+  max-width: 45%;
+  word-wrap: normal;
+}
+
+div.wrap-img div.figure p {
+  display: inline;
+}
+
+div.outline-2 h2.absent {
+  display: none;
+}
+
+div.outline-2 div.outline-text-2 button.collapsible {
+  font-weight: bold;
+}
+
 .content .collapsible {
   background-color: #777;
   color: white;

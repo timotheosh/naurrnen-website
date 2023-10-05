@@ -2,23 +2,10 @@
 #+startup: inlineimages
 #+include: navbar.org
 
-#+HTML: <style type="text/css">
-#+HTML:<!--/*--><![CDATA[/*><!--*/
-#+HTML: div.figure {
-#+HTML:   float:right;
-#+HTML:   padding: 0.5em;
-#+HTML:   max-width: 45%;
-#+HTML:   word-wrap: normal;
-#+HTML: }
-#+HTML: div.figure p {
-#+HTML:   display: inline;
-#+HTML: }
-#+HTML: /*]]>*/-->
-#+HTML: </style>
-
 * Elira Naethanor
 #+NAME: Elira-Naethanor
 
+#+html: <div class="wrap-left-img">
 #+caption:  Statue of Elirandel Naethanor in the library of the University of Naethanor
 #+attr_org: :width 300
 #+attr_html: :alt Image of a statue of Elirandel Naethanor :width 100%
@@ -39,6 +26,7 @@ Elirandel's departure sent ripples through Elven society, marking her both as a 
 #+html: <br style="clear:both;" />
 
 * Cormac Naethanor
+#+html: <div class="wrap-right-img">
 #+caption:  Statue of Cormac Naethanor in the Auditorium at the University of Naethanor
 #+attr_org: :width 300
 #+attr_html: :alt Image of a statue of Elirandel Naethanor :width 100%
