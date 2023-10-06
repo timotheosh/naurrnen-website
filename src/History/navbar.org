@@ -5,6 +5,6 @@
 - [[../index.org][Home]]
 - [[file:index.org][Introduction: History]]
 - [[file:First Era.org][First Era: The Amearans]]
-- [[file:Second Era.org][The Second Era: The Átaremma Elves]]
+- [[file:Second Era.org][The Second Era: The Áyliaremma Elves]]
 - [[file:Third Era.org][The Third Era: The Age of Reconciliation]]
 #+HTML: </div>

@@ -3,7 +3,7 @@
 - [[file:index.org][Welcome to Naurrnen]]
 - Books
   - [[file:Books/index.org][Books]]
-  - [[file:Books/In Átaremmas Footsteps.org][In Átaremma's Footsteps]]
+  - [[file:Books/In Áyliaremmas Footsteps.org][In Áyliaremma's Footsteps]]
   - [[file:Books/The Ancient Ones.org][The Ancient Ones]]
 - Characters
   - [[file:Characters/Bayetti Falasha.org][Bayetti Falasha]]

@@ -12,7 +12,7 @@
 #+attr_latex: :width 200px
 [[./img/Elirandel-Naethanor.png]]
 
-Born to the prestigious royal line of Eärendelion, Elirandel was a prodigy among Elven scholars. She attended the esteemed Laurië Citime, where she studied a diverse range of subjects, from ancient lore to the arts of magic. Her future seemed predestined to be one of comfort and high standing within the Elven Empire of Átaremma.
+Born to the prestigious royal line of Eärendelion, Elirandel was a prodigy among Elven scholars. She attended the esteemed Laurië Citime, where she studied a diverse range of subjects, from ancient lore to the arts of magic. Her future seemed predestined to be one of comfort and high standing within the Elven Empire of Áyliaremma.
 
 Gifted in history, philosophy, and magical arts, she was poised for a future of influence and leadership within the empire. However, her life took a drastic turn when she befriended Cormac, an Adama slave serving at the institution. Intrigued by his curiosity about the Elven texts he couldn't read and drawn by his quiet yet profound intelligence, Elirandel made the daring decision to teach him how to read the Elven script.
 
