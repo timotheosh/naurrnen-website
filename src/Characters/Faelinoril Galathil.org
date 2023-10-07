@@ -1,31 +1,14 @@
-:PROPERTIES:
-:ID:       190d4e5a-21d6-4d00-9bc3-9508808a8396
-:END:
 #+title: Faelinoril Galathil
 #+startup: inlineimages
-#+include: navbar.org
-
-#+HTML: <style type="text/css">
-#+HTML:<!--/*--><![CDATA[/*><!--*/
-#+HTML: div.figure {
-#+HTML:   float: right;
-#+HTML:   padding: 0.5em;
-#+HTML:   max-width: 45%;
-#+HTML:   word-wrap: normal;
-#+HTML: }
-#+HTML: div.figure p {
-#+HTML:   display: inline;
-#+HTML: }
-#+HTML: /*]]>*/-->
-#+HTML: </style>
-
-** Faelinoril Galathil
-
+#+include: ../navbar.org
+* Faelinoril Galathil
+#+html: <div class="wrap-right-img">
 #+caption: Faelinoril Galathil in his study
 #+attr_org: :width 300
 #+attr_html: :alt Image Faelinoril Galathil :width 100%;
 #+attr_latex: :width 200p
 [[./img/Faelinoril_Galathil.png]]
+#+html: </div>
 
 - Age ::
     Elder

@@ -1,7 +1,7 @@
 #+title: Athelorion Ruins
 #+startup: inlineimages
-#+include: navbar.org
-
+#+include: ../navbar.org
+* Athelorion Ruins
 #+caption: The Main Entrance to the ancient city Aeritha (a.k.a the Athelorion ruins)
 #+attr_org: :width 800
 #+attr_html: :id pic-banner :alt Main Entrance to the ancient city :width 100%

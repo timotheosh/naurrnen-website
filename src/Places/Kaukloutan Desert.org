@@ -1,7 +1,7 @@
 #+title: Kaukloutan Desert
 #+startup: inlineimages
-#+include: navbar.org
-
+#+include: ../navbar.org
+* Kaukloutan Desert
 #+caption: A trade caravan traveling the trail of tears in the Kaukloutan Desert
 #+attr_org: :width 800
 #+attr_html: :id pic-banner :alt Image of caravan in the Kaukloutan Desert :width 100%

@@ -1,28 +1,15 @@
 #+title: Bayetti Falasha
 #+startup: inlineimages
-#+include: navbar.org
-
-#+HTML: <style type="text/css">
-#+HTML:<!--/*--><![CDATA[/*><!--*/
-#+HTML: div.figure {
-#+HTML:   float: right;
-#+HTML:   padding: 0.5em;
-#+HTML:   max-width: 45%;
-#+HTML:   word-wrap: normal;
-#+HTML: }
-#+HTML: div.figure p {
-#+HTML:   display: inline;
-#+HTML: }
-#+HTML: /*]]>*/-->
-#+HTML: </style>
+#+include: ../navbar.org
 
 * Bayetti Falasha
-
+#+html: <div class="wrap-right-img">
 #+caption: Faelinoril Galathil in his study
 #+attr_org: :width 300
 #+attr_html: :alt Image Faelinoril Galathil :width 100%;
 #+attr_latex: :width 200p
 [[file:img/Bayetti Falasha.png]]
+#+html: </div>
 
 - Age ::
     Deceased late Second Era

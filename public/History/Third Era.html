@@ -15,21 +15,151 @@
 </head>
 <body>
 <div id="content" class="content">
-<h1 class="title">The Third Era: The Age of Reconciliation</h1>
 <span class="openbtn" style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
 <div id="side-nav" class="sidenav">
+<div id="outline-container-org97983cb" class="outline-2">
+<h2 id="org97983cb" class="absent">Home</h2>
+<div class="outline-text-2" id="text-org97983cb">
 <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+<a href="/index.html" class="dropdown-btn">Welcome to Naurrnen</a>
+</div>
+</div>
+<div id="outline-container-org8596905" class="outline-2">
+<h2 id="org8596905" class="absent">Books</h2>
+<div class="outline-text-2" id="text-org8596905">
+<button class="dropdown-btn" id="Books">Books
+<i class="fa fa-caret-down"></i>
+</button>
+<div class="dropdown-container">
 <ul class="org-ul">
-<li><a href="../index.html">Home</a></li>
-<li><a href="index.html">Introduction: History</a></li>
-<li><a href="First Era.html">First Era: The Amearans</a></li>
-<li><a href="Second Era.html">The Second Era: The Áyliaremma Elves</a></li>
-<li><a href="Third Era.html">The Third Era: The Age of Reconciliation</a></li>
+<li><a href="../Books/index.html">Introduction: Books</a></li>
+<li><a href="../Books/The Ancient Ones.html">The Ameara (or &ldquo;The Ancient Ones&rdquo;) by Bayetti Falasha</a></li>
+<li><a href="../Books/In Áyliaremmas Footsteps.html">In Áyliaremma&rsquo;s Footsteps</a></li>
 </ul>
 </div>
+</div>
+</div>
+<div id="outline-container-org3a3ba45" class="outline-2">
+<h2 id="org3a3ba45" class="absent">Characters</h2>
+<div class="outline-text-2" id="text-org3a3ba45">
+<button class="dropdown-btn" id="Characters">Characters
+<i class=fa fa-caret-down"></i>
+</button>
+<div class="dropdown-container">
+<p>
+<a href="../Characters/index.html">Introduction: Characters</a>
+<a href="../Characters/Bayetti Falasha.html">Bayetti Falasha</a>
+<a href="../Characters/Faelinoril Galathil.html">Faelinoril Galathil</a>
+<a href="../Characters/legend-of-naethanor.html">Legend Of Naethanor</a>
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org5c6e13b" class="outline-2">
+<h2 id="org5c6e13b" class="absent">History</h2>
+<div class="outline-text-2" id="text-org5c6e13b">
+<button class="dropdown-btn" id="History">History
+<i class=fa fa-caret-down"></i>
+</button>
+<div class="dropdown-container">
+<p>
+<a href="index.html">Introduction to Naurrnen&rsquo;s History</a>
+<a href="First Era.html">First Era</a>
+<a href="Second Era.html">Second Era</a>
+<a href="Third Era.html">The Third Era: The Age of Reconciliation</a>
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-orge0d391c" class="outline-2">
+<h2 id="orge0d391c" class="absent">Metals</h2>
+<div class="outline-text-2" id="text-orge0d391c">
+<button class="dropdown-btn" id="Metals">Metals
+<i class=fa fa-caret-down"></i>
+</button>
+<div class="dropdown-container">
+<p>
+<a href="../Metals/index.html">Metals of Naurrnen</a>
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org647dc3b" class="outline-2">
+<h2 id="org647dc3b" class="absent">Places</h2>
+<div class="outline-text-2" id="text-org647dc3b">
+<button class="dropdown-btn" id="Places">Places
+<i class=fa fa-caret-down"></i>
+</button>
+<div class="dropdown-container">
+<p>
+<a href="../Places/index.html">Introduction to places</a>
+<a href="../Places/Athelorion ruins.html">Athelorion Ruins</a>
+<a href="../Places/Kaukloutan Desert.html">Kaukloutan Desert</a>
+<a href="../Places/laurie-citime.html">Laurië Citime</a>
+<a href="../Places/Ornasion library.html">Ornasion Library</a>
+<a href="../Places/ponte-cidade.html">Ponte Cidade</a>
+<a href="../Places/university-of-naethanor.html">University Of Naethanor</a>
+<a href="../Places/Vaabhath.html">Vaabhath</a>
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-orgd0683ce" class="outline-2">
+<h2 id="orgd0683ce" class="absent">Races</h2>
+<div class="outline-text-2" id="text-orgd0683ce">
+<button class="dropdown-btn" id="Races">Races
+<i class=fa fa-caret-down"></i>
+</button>
+<div class="dropdown-container">
+<p>
+<a href="../Races/index.html">Races</a>
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-orgac1d25c" class="outline-2">
+<h2 id="orgac1d25c" class="absent">Secrets</h2>
+<div class="outline-text-2" id="text-orgac1d25c">
+<button class="dropdown-btn" id="Secrets">Secrets
+<i class=fa fa-caret-down"></i>
+</button>
+<div class="dropdown-container">
+<p>
+<a href="../Secrets/index.html">Naurrnen&rsquo;s Forgotten Past</a>
+</p>
+</div>
 
+</div>
+<script>
+// My dogfood
+let path = getRootDir();
+if (path.length > 0) {
+let element = document.getElementById(path);
+element.classList.toggle("active");
+element.nextElementSibling.style.display = "block";
+}
+// Code copy-pasted from w3schools
+var dropdown = document.getElementsByClassName("dropdown-btn");
+var i;
+for (i = 0; i < dropdown.length; i++) {
+dropdown[i].addEventListener("click", function() {
+this.classList.toggle("active");
+var dropdownContent = this.nextElementSibling;
+if (dropdownContent.style.display === "block") {
+dropdownContent.style.display = "none";
+} else {
+dropdownContent.style.display = "block";
+}
+});
+}
+</script>
+</div>
+</div>
+<div id="outline-container-org8b3e0a2" class="outline-2">
+<h2 id="org8b3e0a2">The Third Era: The Age of Reconciliation</h2>
+<div class="outline-text-2" id="text-org8b3e0a2">
 
-<div id="org14f9358" class="figure">
+<div id="org619e143" class="figure">
 <p><img src="img/Ponte Cidade 2.png" alt="Image of Ponte Cidade" id="pic-banner" width="100%" />
 </p>
 <p><span class="figure-number">Figure 1: </span>Ponte Cidade, capital city of the Gran Imperio, and economic heart of Naurrnen.</p>
@@ -58,6 +188,8 @@ Yet, it wasn&rsquo;t just material or academic wealth that defined this era; it 
 <p>
 As idyllic as the Third Era may seem, it was not without its challenges. There were those who resisted the Naethanor rule, clinging to old hierarchies and prejudices. Moreover, the empire had its own share of internal conflicts, political intrigues, and border disputes to contend with. Yet, it was precisely these complexities that rendered the Age of Naethanor Ascendancy a compelling chapter in Naurrnen’s history—a dynamic landscape upon which heroes were forged, destinies realized, and tales worth a lifetime unfolded. It was an era that invited exploration, beckoned for quests to be undertaken, and begged for stories to be told. Indeed, the Third Era was not just a chapter in a book; it was an open book itself, waiting to be written by the diverse and hopeful people of Naurrnen.
 </p>
+</div>
+</div>
 </div>
 </body>
 </html>

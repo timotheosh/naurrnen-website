@@ -15,18 +15,146 @@
 </head>
 <body>
 <div id="content" class="content">
-<h1 class="title">In Áyliaremma&rsquo;s Footsteps</h1>
 <span class="openbtn" style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
 <div id="side-nav" class="sidenav">
+<div id="outline-container-orgeb75f0a" class="outline-2">
+<h2 id="orgeb75f0a" class="absent">Home</h2>
+<div class="outline-text-2" id="text-orgeb75f0a">
 <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+<a href="/index.html" class="dropdown-btn">Welcome to Naurrnen</a>
+</div>
+</div>
+<div id="outline-container-orgb93ecf0" class="outline-2">
+<h2 id="orgb93ecf0" class="absent">Books</h2>
+<div class="outline-text-2" id="text-orgb93ecf0">
+<button class="dropdown-btn" id="Books">Books
+<i class="fa fa-caret-down"></i>
+</button>
+<div class="dropdown-container">
 <ul class="org-ul">
-<li><a href="../index.html">Home</a></li>
 <li><a href="index.html">Introduction: Books</a></li>
-<li><a href="The Ancient Ones.html">The Ancient Ones</a></li>
+<li><a href="The Ancient Ones.html">The Ameara (or &ldquo;The Ancient Ones&rdquo;) by Bayetti Falasha</a></li>
 <li><a href="In Áyliaremmas Footsteps.html">In Áyliaremma&rsquo;s Footsteps</a></li>
 </ul>
 </div>
+</div>
+</div>
+<div id="outline-container-orga86b55c" class="outline-2">
+<h2 id="orga86b55c" class="absent">Characters</h2>
+<div class="outline-text-2" id="text-orga86b55c">
+<button class="dropdown-btn" id="Characters">Characters
+<i class=fa fa-caret-down"></i>
+</button>
+<div class="dropdown-container">
+<p>
+<a href="../Characters/index.html">Introduction: Characters</a>
+<a href="../Characters/Bayetti Falasha.html">Bayetti Falasha</a>
+<a href="../Characters/Faelinoril Galathil.html">Faelinoril Galathil</a>
+<a href="../Characters/legend-of-naethanor.html">Legend Of Naethanor</a>
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org1041009" class="outline-2">
+<h2 id="org1041009" class="absent">History</h2>
+<div class="outline-text-2" id="text-org1041009">
+<button class="dropdown-btn" id="History">History
+<i class=fa fa-caret-down"></i>
+</button>
+<div class="dropdown-container">
+<p>
+<a href="../History/index.html">Introduction to Naurrnen&rsquo;s History</a>
+<a href="../History/First Era.html">First Era</a>
+<a href="../History/Second Era.html">Second Era</a>
+<a href="../History/Third Era.html">The Third Era: The Age of Reconciliation</a>
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-orgaf4c86f" class="outline-2">
+<h2 id="orgaf4c86f" class="absent">Metals</h2>
+<div class="outline-text-2" id="text-orgaf4c86f">
+<button class="dropdown-btn" id="Metals">Metals
+<i class=fa fa-caret-down"></i>
+</button>
+<div class="dropdown-container">
+<p>
+<a href="../Metals/index.html">Metals of Naurrnen</a>
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-orga54d67f" class="outline-2">
+<h2 id="orga54d67f" class="absent">Places</h2>
+<div class="outline-text-2" id="text-orga54d67f">
+<button class="dropdown-btn" id="Places">Places
+<i class=fa fa-caret-down"></i>
+</button>
+<div class="dropdown-container">
+<p>
+<a href="../Places/index.html">Introduction to places</a>
+<a href="../Places/Athelorion ruins.html">Athelorion Ruins</a>
+<a href="../Places/Kaukloutan Desert.html">Kaukloutan Desert</a>
+<a href="../Places/laurie-citime.html">Laurië Citime</a>
+<a href="../Places/Ornasion library.html">Ornasion Library</a>
+<a href="../Places/ponte-cidade.html">Ponte Cidade</a>
+<a href="../Places/university-of-naethanor.html">University Of Naethanor</a>
+<a href="../Places/Vaabhath.html">Vaabhath</a>
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org9258b13" class="outline-2">
+<h2 id="org9258b13" class="absent">Races</h2>
+<div class="outline-text-2" id="text-org9258b13">
+<button class="dropdown-btn" id="Races">Races
+<i class=fa fa-caret-down"></i>
+</button>
+<div class="dropdown-container">
+<p>
+<a href="../Races/index.html">Races</a>
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org917bc0a" class="outline-2">
+<h2 id="org917bc0a" class="absent">Secrets</h2>
+<div class="outline-text-2" id="text-org917bc0a">
+<button class="dropdown-btn" id="Secrets">Secrets
+<i class=fa fa-caret-down"></i>
+</button>
+<div class="dropdown-container">
+<p>
+<a href="../Secrets/index.html">Naurrnen&rsquo;s Forgotten Past</a>
+</p>
+</div>
 
+</div>
+<script>
+// My dogfood
+let path = getRootDir();
+if (path.length > 0) {
+let element = document.getElementById(path);
+element.classList.toggle("active");
+element.nextElementSibling.style.display = "block";
+}
+// Code copy-pasted from w3schools
+var dropdown = document.getElementsByClassName("dropdown-btn");
+var i;
+for (i = 0; i < dropdown.length; i++) {
+dropdown[i].addEventListener("click", function() {
+this.classList.toggle("active");
+var dropdownContent = this.nextElementSibling;
+if (dropdownContent.style.display === "block") {
+dropdownContent.style.display = "none";
+} else {
+dropdownContent.style.display = "block";
+}
+});
+}
+</script>
+</div>
+</div>
 
 <div id="outline-container-orgbd2d8b0" class="outline-2">
 <h2 id="orgbd2d8b0">In Áyliaremma&rsquo;s Footsteps by <a href="../Characters/Faelinoril Galathil.html">Faelinoril Galathil</a></h2>

@@ -1,7 +1,7 @@
 #+title: University Of Naethanor
 #+startup: inlineimages
-#+include: navbar.org
-
+#+include: ../navbar.org
+* University of Naethanor
 #+caption: The Quadrangle in the University of Naethanor
 #+attr_org: :width 800
 #+attr_html: :id pic-banner :alt Quadrangle of Naethanor :width 100%

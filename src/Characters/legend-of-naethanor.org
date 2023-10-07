@@ -1,6 +1,6 @@
 #+title: Legend Of Naethanor
 #+startup: inlineimages
-#+include: navbar.org
+#+include: ../navbar.org
 
 * Elira Naethanor
 #+NAME: Elira-Naethanor
@@ -11,8 +11,9 @@
 #+attr_html: :alt Image of a statue of Elirandel Naethanor :width 100%
 #+attr_latex: :width 200px
 [[./img/Elirandel-Naethanor.png]]
+#+html: </div>
 
-Born to the prestigious royal line of Eärendelion, Elirandel was a prodigy among Elven scholars. She attended the esteemed Laurië Citime, where she studied a diverse range of subjects, from ancient lore to the arts of magic. Her future seemed predestined to be one of comfort and high standing within the Elven Empire of Áyliaremma.
+Born to the prestigious royal line of Eärendelion, Elirandel was a prodigy among Elven scholars. She attended the estarts of magic. Her future seemed predestined to be one of comfort and high standing within the Elven Empire of Áyliaremma.
 
 Gifted in history, philosophy, and magical arts, she was poised for a future of influence and leadership within the empire. However, her life took a drastic turn when she befriended Cormac, an Adama slave serving at the institution. Intrigued by his curiosity about the Elven texts he couldn't read and drawn by his quiet yet profound intelligence, Elirandel made the daring decision to teach him how to read the Elven script.
 
@@ -32,6 +33,7 @@ Elirandel's departure sent ripples through Elven society, marking her both as a 
 #+attr_html: :alt Image of a statue of Elirandel Naethanor :width 100%
 #+attr_latex: :width 200px
 [[./img/Cormac-Naethanor.png]]
+#+html: </div>
 
 Cormac was born into slavery, an Adama living under the oppressive rule of the Elven empire Aerithia. However, his life would diverge from the path of servitude most of his people walked when he was assigned to work at Laurië Citime, the foremost academic institution among the Elves. Although he started as a mere custodian of ancient tomes and scrolls, Cormac possessed an unquenchable thirst for knowledge and an innate intelligence that couldn't be ignored.
 

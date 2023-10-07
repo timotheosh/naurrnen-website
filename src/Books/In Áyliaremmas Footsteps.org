@@ -1,7 +1,6 @@
 #+title: In Áyliaremma's Footsteps
 #+startup: inlineimages
-#+include: navbar.org
-
+#+include: ../navbar.org
 
 * In Áyliaremma's Footsteps by [[file:../Characters/Faelinoril Galathil.org][Faelinoril Galathil]]
 "In Áyliaremma's Footsteps" stands as a testament to the unyielding pursuit of knowledge within the mystical realm of Naurrnen. Penned by the venerable Hallashim scholar [[file:../Characters/Faelinoril Galathil.org][Faelinoril Galathil]], this magnum opus is a beacon of enlightenment in a world shrouded in ancient mysteries.

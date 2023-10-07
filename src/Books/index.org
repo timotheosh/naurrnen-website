@@ -1,7 +1,7 @@
-#+title: Books
+#+title: Introduction: Books
 #+startup: inlineimages
-#+include: navbar.org
-
+#+include: ../navbar.org
+* Introduction: Books
 #+caption: Main lobby inside the Great Library of Ornasion
 #+attr_org: :width 800
 #+attr_html: :id pic-banner :alt Great Library of Ornasion :width 100%

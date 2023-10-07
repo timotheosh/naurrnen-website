@@ -1,8 +1,6 @@
-#+title: The Ancient Ones
+#+title: The Ameara (or "The Ancient Ones") by [[../Characters/Bayetti Falasha.org][Bayetti Falasha]]
 #+startup: inlineimages
-#+include: navbar.org
-
-
+#+include: ../navbar.org
 * The Ameara (or "The Ancient Ones") by [[../Characters/Bayetti Falasha.org][Bayetti Falasha]]
 In the annals of Naurrnen's history, few literary works hold the mystique and enigma that surrounds [[../Characters/Bayetti Falasha.org][Bayetti Falasha]]'s magnum opus, "The Ameara." This ancient tome, penned by the brilliant Elven scholar during the early second era, stands as a testament to her profound intellect and insatiable curiosity.
 

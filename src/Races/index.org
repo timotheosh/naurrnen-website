@@ -1,6 +1,7 @@
 #+title: Races
 #+startup: inlineimages
-#+include: navbar.org
+#+include: ../navbar.org
+* Races
 ** Primary Races
 The races within Naurrnen are fairly equal. Although Elves are known for their skills in magic, music, and crafting instruments and enchanted items, that does not mean one will find elves doing hard labor, exercising what strength they have. Orcs are generally favored for that sort of labor, as they tend to be more physically suited for the task. But not every Orc is physically built for this task, as not every Elf is well suited to the arts. Their are Orcs who take an interest in magic or music, as well. They are generally not as well suited as the Elves, but that is not to say, their are not Orcs that have better ears, or eyes than many Elves, or better minds for magic. These exceptions are generally blamed on half-breeds. Half-breeding has become so common in the age of man, no one really knows for sure who is a half-breed, or if one, who might think themselves as a pure-bred, is really a fourth or fifth generation mixed breed. What separates the races more than anything are their cultural identities.
 *** Anashim or Elf

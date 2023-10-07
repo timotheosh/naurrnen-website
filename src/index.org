@@ -2,6 +2,10 @@
 #+startup: inlineimages
 #+include: navbar.org
 
+* Welcome to Naurrnen
+:PROPERTIES:
+:HTML_HEADLINE_CLASS: absent
+:END:
 #+caption: Main port of the city Ponte Cidade
 #+attr_org: :width 800
 #+attr_html: :id pic-banner :alt Main port in Ponte Cidade :width 100%

@@ -1,7 +1,7 @@
 #+title: Ponte Cidade
 #+startup: inlineimages
-#+include: navbar.org
-
+#+include: ../navbar.org
+* Ponte Cidade
 #+caption: The great city of Ponte Cidade
 #+attr_org: :width 800
 #+attr_html: :id pic-banner :alt City of Ponte Cidade :width 100%

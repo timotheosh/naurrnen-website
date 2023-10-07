@@ -1,7 +1,7 @@
 #+title: Vaabhath
 #+startup: inlineimages
-#+include: navbar.org
-
+#+include: ../navbar.org
+* Vaabhath
 #+caption: Glimkaren river from inside city limits of Vaabhath
 #+attr_org: :width 800
 #+attr_html: :id pic-banner :alt Image of Glimkaren river :width 100%
