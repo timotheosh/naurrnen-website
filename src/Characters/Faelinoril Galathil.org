@@ -27,3 +27,46 @@ There is an old, wise Hallashim, by the name of Faelinoril Galathil. He is the h
 
 Faelinoril's magnum ops, "[[../Books/In Áyliaremmas Footsteps.org][In Áyliaremma's Footsteps]]", he reveals some the success the old elves had in translating enough of the [[../History/First Era.org][Amearan]] tongue to form some simple phrases. He further was able to cross-reference these phrases in Falasha's poems. This was a huge breakthrough in the research of the [[../History/First Era.org][Amearans]].
 #+html: <br style="clear:both;" />
+
+* Preface to "In Áyliaremma's Footsteps"
+:PROPERTIES:
+:HTML_HEADLINE_CLASS: absent
+:END:
+#+html: <button type="button" class="collapsible">
+#+html: Preface to "In Áyliaremma's Footsteps"
+#+html: </button>
+#+html: <div class="collapsible-content">
+
+In the esteemed halls of Laurië Citime, as I stand amidst the towering shelves of ancient tomes and scrolls, I find myself humbled by the weight of knowledge and the mysteries that lay hidden within the pages of time. It is here that I, Faelinoril Galathil, a humble scholar of the Hallashim, embark on a journey that has consumed the better part of my long years—an exploration into the enigmatic world of the Amearans and their elusive tongue.
+
+What you now have in your hands is not just a culmination of research, but a testament to the relentless pursuit of understanding. The Amearans, those beings of myth and legend, have intrigued and eluded us for millennia. Their civilization, their knowledge, and their very existence have remained veiled in obscurity, leaving us with mere fragments of their legacy.
+
+My quest, akin to the work of a linguist deciphering an ancient script or a philosopher unraveling the threads of thought, has led me to unlock the secrets of their language, a key to their world. The Amearan tongue, long considered an insurmountable barrier, has yielded its secrets, albeit in fragments. These fragments, like pieces of a grand puzzle, have allowed me to glimpse into the minds of the Amearans and understand their culture, their beliefs, and their aspirations.
+
+In the pages of this magnum opus, I do not claim to have unraveled all the mysteries of the Amearans, for their legacy is vast and profound. Instead, I present to you a journey—a journey through the remnants of their language and the echoes of their thoughts. Through careful analysis and cross-referencing, I have reconstructed simple phrases, akin to the deciphering of cryptic poetry.
+
+These phrases, embedded within the verses of the esteemed Falasha's works, offer us a glimpse into the Amearan way of life, their values, and perhaps even their hopes and fears. While we may never fully resurrect their civilization, we can, through these linguistic breadcrumbs, gain a deeper appreciation for their contributions to our world.
+
+As I share these discoveries with you, dear reader, I implore you to approach them with the reverence they deserve. The Amearans were not mere legends; they were a people who touched the fabric of our world in ways we are only beginning to fathom. Their knowledge, their technology, and their wisdom hold the potential to reshape our understanding of history and culture.
+
+In the spirit of intellectual pursuit, let us embark on this journey together. Let us follow in the footsteps of those who came before us, seeking to unravel the enigma of the Amearans. Through the lens of their language, let us glimpse the shadows of their civilization, and in doing so, illuminate the path to a richer, more profound understanding of our world's history.
+
+In these pages, the past meets the present, and the whispers of the Amearans echo through the ages. Welcome, dear reader, to the exploration of Áyliaremma's secrets—a journey that will forever alter the course of our intellectual pursuit.
+
+#+html: </div>
+#+HTML: <script>
+#+HTML: var coll = document.getElementsByClassName("collapsible");
+#+HTML: var i;
+#+HTML:
+#+HTML: for (i = 0; i < coll.length; i++) {
+#+HTML:   coll[i].addEventListener("click", function() {
+#+HTML:     this.classList.toggle("active");
+#+HTML:     var content = this.nextElementSibling;
+#+HTML:     if (content.style.maxHeight){
+#+HTML:       content.style.maxHeight = null;
+#+HTML:     } else {
+#+HTML:       content.style.maxHeight = content.scrollHeight + "px";
+#+HTML:     }
+#+HTML:   });
+#+HTML: }
+#+HTML: </script>

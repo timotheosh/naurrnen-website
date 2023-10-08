@@ -203,6 +203,13 @@ div.outline-2 div.outline-text-2 button.collapsible {
   padding: 20px;
 }
 
+div#postamble {
+  border: 2px solid #999999;
+  border-radius: 10px;
+  text-align: center;
+  text-size: 8px;
+}
+
 /* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
