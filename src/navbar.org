@@ -27,10 +27,10 @@
 #+HTML:   <i class=fa fa-caret-down"></i>
 #+HTML: </button>
 #+HTML: <div class="dropdown-container">
-  [[file:Characters/index.org][Introduction: Characters]]
-  [[file:Characters/Bayetti Falasha.org][Bayetti Falasha]]
-  [[file:Characters/Faelinoril Galathil.org][Faelinoril Galathil]]
-  [[file:Characters/legend-of-naethanor.org][Legend Of Naethanor]]
+- [[file:Characters/index.org][Introduction: Characters]]
+- [[file:Characters/Bayetti Falasha.org][Bayetti Falasha]]
+- [[file:Characters/Faelinoril Galathil.org][Faelinoril Galathil]]
+- [[file:Characters/legend-of-naethanor.org][Legend Of Naethanor]]
 #+HTML: </div>
 * History
 :PROPERTIES:
@@ -40,10 +40,10 @@
 #+HTML:   <i class=fa fa-caret-down"></i>
 #+HTML: </button>
 #+HTML: <div class="dropdown-container">
-  [[file:History/index.org][Introduction to Naurrnen's History]]
-  [[file:History/First Era.org][First Era]]
-  [[file:History/Second Era.org][Second Era]]
-  [[file:History/Third Era.org][The Third Era: The Age of Reconciliation]]
+- [[file:History/index.org][Introduction to Naurrnen's History]]
+- [[file:History/First Era.org][First Era]]
+- [[file:History/Second Era.org][Second Era]]
+- [[file:History/Third Era.org][The Third Era: The Age of Reconciliation]]
 #+HTML: </div>
 * Metals
 :PROPERTIES:
@@ -53,7 +53,7 @@
 #+HTML:   <i class=fa fa-caret-down"></i>
 #+HTML: </button>
 #+HTML: <div class="dropdown-container">
-  [[file:Metals/index.org][Metals of Naurrnen]]
+- [[file:Metals/index.org][Metals of Naurrnen]]
 #+HTML: </div>
 * Places
 :PROPERTIES:
@@ -63,14 +63,14 @@
 #+HTML:   <i class=fa fa-caret-down"></i>
 #+HTML: </button>
 #+HTML: <div class="dropdown-container">
-  [[file:Places/index.org][Introduction to places]]
-  [[file:Places/Athelorion ruins.org][Athelorion Ruins]]
-  [[file:Places/Kaukloutan Desert.org][Kaukloutan Desert]]
-  [[file:Places/laurie-citime.org][Laurië Citime]]
-  [[file:Places/Ornasion library.org][Ornasion Library]]
-  [[file:Places/ponte-cidade.org][Ponte Cidade]]
-  [[file:Places/university-of-naethanor.org][University Of Naethanor]]
-  [[file:Places/Vaabhath.org][Vaabhath]]
+- [[file:Places/index.org][Introduction to places]]
+- [[file:Places/Athelorion ruins.org][Athelorion Ruins]]
+- [[file:Places/Kaukloutan Desert.org][Kaukloutan Desert]]
+- [[file:Places/laurie-citime.org][Laurië Citime]]
+- [[file:Places/Ornasion library.org][Ornasion Library]]
+- [[file:Places/ponte-cidade.org][Ponte Cidade]]
+- [[file:Places/university-of-naethanor.org][University Of Naethanor]]
+- [[file:Places/Vaabhath.org][Vaabhath]]
 #+HTML: </div>
 * Races
 :PROPERTIES:
@@ -80,7 +80,7 @@
 #+HTML:   <i class=fa fa-caret-down"></i>
 #+HTML: </button>
 #+HTML: <div class="dropdown-container">
-  [[file:Races/index.org][Races]]
+- [[file:Races/index.org][Races]]
 #+HTML: </div>
 * Secrets
 :PROPERTIES:
@@ -90,7 +90,7 @@
 #+HTML:   <i class=fa fa-caret-down"></i>
 #+HTML: </button>
 #+HTML: <div class="dropdown-container">
-  [[file:Secrets/index.org][Naurrnen's Forgotten Past]]
+- [[file:Secrets/index.org][Naurrnen's Forgotten Past]]
 #+HTML: </div>
 
 #+HTML: </div>
