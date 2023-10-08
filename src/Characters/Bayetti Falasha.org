@@ -22,3 +22,4 @@
 - Eneagram Scale ::
     Thought to be an odd mixture of the Individualist and the Loyalist
 Bayetti Falasha was an elven scholar, dated as far back as the early second era. She was a court scholar of the great Elven empire. She wrote many books on philosophy and poetry that are still used extensively and held in the highest regard amongst Elven folk. Bayetti is, perhaps, the best known scholar of Naurnen's ancient history. Her most famous work was called "[[../Books/The Ancient Ones.org][The Ameara]]"or "[[../Books/The Ancient Ones.org][The Ancient Ones]]".
+#+html: <br style="clear:both;" />
