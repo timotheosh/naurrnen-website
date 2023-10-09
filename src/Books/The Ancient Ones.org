@@ -10,6 +10,15 @@ At first glance, it appears as an eccentric blend of tales and poetry. Yet, bene
 
 [[../Characters/Bayetti Falasha.org][Bayetti Falasha]], the renowned court scholar of the Elven empire, left an indelible mark with her work on Naurrnen's ancient history. "The Ameara" invites the curious and the learned on a journey through time, beckoning them to uncover the greatest riddle in Naurrnen's history. It stands as a testament to Falasha's unquenchable thirst for knowledge in a world where history's twists surpass even the wildest tales.
 
+* Excerpt from "The Ameara": On Aeritha (Athalorion)
+:PROPERTIES:
+:HTML_HEADLINE_CLASS: absent
+:END:
+#+html: <button type="button" class="collapsible">
+#+html: Excerpt from "The Ameara": On Aeritha (Athalorion)
+#+html: </button>
+#+html: <div class="collapsible-content">
+
 #+begin_quote
 Beneath the starry skies, their secrets softly gleam,
 The Amearans, a faded memory it seems.
@@ -31,3 +40,8 @@ Whispered 'neath the stars, in rhythm and rhyme.
 With gentle echo, they beckon, so sublime,
 To realms unknown, through portals we'll climb.
 #+end_quote
+
+#+html: </div>
+#+HTML: <script>
+#+HTML: window.onload = collapsableContainers();
+#+HTML: </script>

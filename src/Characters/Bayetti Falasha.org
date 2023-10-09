@@ -4,9 +4,9 @@
 
 * Bayetti Falasha
 #+html: <div class="wrap-right-img">
-#+caption: Faelinoril Galathil in his study
+#+caption: Famous oil painting of Bayetti Falasha
 #+attr_org: :width 300
-#+attr_html: :alt Image Faelinoril Galathil :width 100%;
+#+attr_html: :alt Image of oil painting of Bayetti Falasha :width 100%;
 #+attr_latex: :width 200p
 [[file:img/Bayetti Falasha.png]]
 #+html: </div>

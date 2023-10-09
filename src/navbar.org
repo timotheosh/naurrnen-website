@@ -18,6 +18,8 @@
 - [[file:Books/index.org][Introduction: Books]]
 - [[file:Books/The Ancient Ones.org][The Ameara (or "The Ancient Ones") by Bayetti Falasha]]
 - [[file:Books/In Áyliaremmas Footsteps.org][In Áyliaremma's Footsteps]]
+- [[file:Books/Trade Winds of Prosperity: A Treatise on the Dynamics of Commerce.org][Trade Winds of Prosperity]]
+- [[file:Books/Verbal Tapestry: Exploring the Philosophy of Language.org][Verbal Tapestry]]
 #+HTML: </div>
 * Characters
 :PROPERTIES:
@@ -30,6 +32,7 @@
 - [[file:Characters/index.org][Introduction: Characters]]
 - [[file:Characters/Bayetti Falasha.org][Bayetti Falasha]]
 - [[file:Characters/Faelinoril Galathil.org][Faelinoril Galathil]]
+- [[file:Characters/Siobhán MacAuley.org][Siobhán MacAuley]]
 - [[file:Characters/legend-of-naethanor.org][Legend Of Naethanor]]
 #+HTML: </div>
 * History
