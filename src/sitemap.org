@@ -20,6 +20,8 @@
   - [[file:History/Third Era.org][The Third Era: The Age of Reconciliation]]
 - Metals
   - [[file:Metals/index.org][Metals of Naurrnen]]
+- Nations
+  - [[file:Nations/index.org][Introduction: Nations of Naurrnen]]
 - Places
   - [[file:Places/Athelorion ruins.org][Athelorion Ruins]]
   - [[file:Places/Kaukloutan Desert.org][Kaukloutan Desert]]

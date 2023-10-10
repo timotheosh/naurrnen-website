@@ -1,4 +1,9 @@
 #+INCLUDE: setup.org
+#+HTML: <script>
+#+HTML: addEventListener("load", expandRootMenu);
+#+HTML: addEventListener("load", toggleContainer);
+#+HTML: </script>
+
 #+HTML: <span class="openbtn" style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
 #+HTML: <div id="side-nav" class="sidenav">
 * Home
@@ -97,27 +102,3 @@
 #+HTML: </div>
 
 #+HTML: </div>
-#+HTML: <script>
-#+HTML: // My dogfood
-#+HTML: let path = getRootDir();
-#+HTML: if (path.length > 0) {
-#+HTML:    let element = document.getElementById(path);
-#+HTML:    element.classList.toggle("active");
-#+HTML:    element.nextElementSibling.style.display = "block";
-#+HTML: }
-#+HTML: // Code copy-pasted from w3schools
-#+HTML: var dropdown = document.getElementsByClassName("dropdown-btn");
-#+HTML: var i;
-#+HTML:
-#+HTML: for (i = 0; i < dropdown.length; i++) {
-#+HTML:   dropdown[i].addEventListener("click", function() {
-#+HTML:     this.classList.toggle("active");
-#+HTML:     var dropdownContent = this.nextElementSibling;
-#+HTML:     if (dropdownContent.style.display === "block") {
-#+HTML:       dropdownContent.style.display = "none";
-#+HTML:     } else {
-#+HTML:       dropdownContent.style.display = "block";
-#+HTML:     }
-#+HTML:   });
-#+HTML: }
-#+HTML: </script>

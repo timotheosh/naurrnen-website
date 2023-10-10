@@ -16,6 +16,11 @@
 </head>
 <body>
 <div id="content" class="content">
+<script>
+addEventListener("load", expandRootMenu);
+addEventListener("load", toggleContainer);
+</script>
+
 <span class="openbtn" style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
 <div id="side-nav" class="sidenav">
 <div id="outline-container-org78fdc35" class="outline-2">
@@ -134,36 +139,13 @@
 </div>
 
 </div>
-<script>
-// My dogfood
-let path = getRootDir();
-if (path.length > 0) {
-let element = document.getElementById(path);
-element.classList.toggle("active");
-element.nextElementSibling.style.display = "block";
-}
-// Code copy-pasted from w3schools
-var dropdown = document.getElementsByClassName("dropdown-btn");
-var i;
-for (i = 0; i < dropdown.length; i++) {
-dropdown[i].addEventListener("click", function() {
-this.classList.toggle("active");
-var dropdownContent = this.nextElementSibling;
-if (dropdownContent.style.display === "block") {
-dropdownContent.style.display = "none";
-} else {
-dropdownContent.style.display = "block";
-}
-});
-}
-</script>
 </div>
 </div>
 <div id="outline-container-org9e05090" class="outline-2">
 <h2 id="org9e05090">Vaabhath</h2>
 <div class="outline-text-2" id="text-org9e05090">
 
-<div id="org1ee753c" class="figure">
+<div id="org9cc51ee" class="figure">
 <p><img src="img/Glimkarun River in Vaabhath.png" alt="Image of Glimkaren river" id="pic-banner" width="100%" />
 </p>
 <p><span class="figure-number">Figure 1: </span>Glimkaren river from inside city limits of Vaabhath</p>

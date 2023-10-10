@@ -1,6 +1,9 @@
 #+title: In Áyliaremma's Footsteps
 #+startup: inlineimages
 #+include: ../navbar.org
+#+HTML: <script>
+#+HTML: addEventListener("load", collapsableContainers);
+#+HTML: </script>
 
 * In Áyliaremma's Footsteps by [[file:../Characters/Faelinoril Galathil.org][Faelinoril Galathil]]
 "In Áyliaremma's Footsteps" stands as a testament to the unyielding pursuit of knowledge within the mystical realm of Naurrnen. Penned by the venerable Hallashim scholar [[file:../Characters/Faelinoril Galathil.org][Faelinoril Galathil]], this magnum opus is a beacon of enlightenment in a world shrouded in ancient mysteries.
@@ -38,6 +41,3 @@ In the spirit of intellectual pursuit, let us embark on this journey together. L
 In these pages, the past meets the present, and the whispers of the Amearans echo through the ages. Welcome, dear reader, to the exploration of Áyliaremma's secrets—a journey that will forever alter the course of our intellectual pursuit.
 
 #+html: </div>
-#+HTML: <script>
-#+HTML: window.onload = collapsableContainers();
-#+HTML: </script>

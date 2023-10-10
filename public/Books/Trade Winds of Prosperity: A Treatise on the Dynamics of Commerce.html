@@ -16,6 +16,11 @@
 </head>
 <body>
 <div id="content" class="content">
+<script>
+addEventListener("load", expandRootMenu);
+addEventListener("load", toggleContainer);
+</script>
+
 <span class="openbtn" style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
 <div id="side-nav" class="sidenav">
 <div id="outline-container-org6f5f61e" class="outline-2">
@@ -134,36 +139,13 @@
 </div>
 
 </div>
-<script>
-// My dogfood
-let path = getRootDir();
-if (path.length > 0) {
-let element = document.getElementById(path);
-element.classList.toggle("active");
-element.nextElementSibling.style.display = "block";
-}
-// Code copy-pasted from w3schools
-var dropdown = document.getElementsByClassName("dropdown-btn");
-var i;
-for (i = 0; i < dropdown.length; i++) {
-dropdown[i].addEventListener("click", function() {
-this.classList.toggle("active");
-var dropdownContent = this.nextElementSibling;
-if (dropdownContent.style.display === "block") {
-dropdownContent.style.display = "none";
-} else {
-dropdownContent.style.display = "block";
-}
-});
-}
-</script>
 </div>
 </div>
 <div id="outline-container-org75db6cc" class="outline-2">
 <h2 id="org75db6cc">Trade Winds Of Prosperity A Treatise On The Dynamics Of Commerce by <a href="../Characters/Siobhán MacAuley.html">Siobhán MacAuley</a></h2>
 <div class="outline-text-2" id="text-org75db6cc">
 <p>
-In the heart of Naurrnen, where bustling markets intersect with intellectual discourse, one name has emerged as a beacon of enlightenment amidst the cacophony of trade: <a href="../Characters/Siobhán MacAuley.html">Siobhán MacAuley</a>. Her seminal work, &ldquo;Trade Winds of Prosperity: A Treatise on the Dynamics of Commerce,&rdquo; stands as a testament to her unrivaled expertise in both the practical and philosophical realms of economics.
+In the heart of Naurrnen, where bustling markets intersect with intellectual discourse, one name has emerged as a luminary amidst the cacophony of trade: <a href="../Characters/Siobhán MacAuley.html">Siobhán MacAuley</a>. Her seminal work, &ldquo;Trade Winds of Prosperity: A Treatise on the Dynamics of Commerce,&rdquo; stands as a testament to her unrivaled expertise in both the practical and philosophical realms of market and trade.
 </p>
 
 <p>
