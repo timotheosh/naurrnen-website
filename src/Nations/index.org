@@ -5,15 +5,32 @@
 ** Gran Imperio
 - Capital City :: [[file:../Places/ponte-cidade.org][Ponte Cidade]]
 - Ruler :: Emperor [[../Characters/Eradan Dadhain.org][Eradan Dadhain]]
-The "human empire". Though many would argue that it is not purely human, but a truly pluralistic and inclusive society. It is an empire with a relatively strong monarchy.
-The capital city of [[file:~/Documents/Sync/org-files/Projects/naurrnen-website/src/Places/ponte-cidade.org][Ponte Cidade]] borders the Elven lands and the lands of men. Trade routes extend from the western most parts of the Elven lands to the far eastern deserts of the ground dwellers. Ponte Cidade is the trade center of Naurrnen.
+In the heart of Naurrnen lies the Gran Imperio, often referred to as the "human empire." However, it's a realm that defies easy classification, as it embodies true pluralism and inclusivity, welcoming various races and cultures within its borders. This mighty empire is characterized by a relatively robust monarchy that governs its diverse populace.
 
-Just outside of Ponte Cidade is the prestegious [[../Places/university-of-naethanor.org][University of Naethanor]]. Ands several hundred kilometers south lies the great library citadel, the [[../Places/Ornasion library.org][Ornasion library]]. Ornasion is the largest library in Naurrnen.
+The capital city of [[../Places/ponte-cidade.org][Ponte Cidade]] stands as a remarkable testament to the empire's strategic location. Nestled at the crossroads between Elven territories and the lands of men, it serves as a bustling hub where trade routes stretch from the western reaches of Elven lands to the far eastern deserts inhabited by ground-dwelling races. [[../Places/ponte-cidade.org][Ponte Cidade]] is the pulsating heart of commerce in Naurrnen, where merchants, scholars, and adventurers converge to exchange goods, ideas, and knowledge.
+
+Just beyond the city's boundaries lies the prestigious [[../Places/university-of-naethanor.org][University of Naethanor]], an institution of higher learning renowned for its rigorous academic programs in trade, philosophy, and various other fields of study. It is a place where aspiring scholars from across Naurrnen gather to expand their horizons and engage in intellectual discourse.
+
+Several hundred kilometers to the south of [[file:../Places/ponte-cidade.org][Ponte Cidade]], one finds the awe-inspiring [[../Places/Ornasion library.org][Ornasion library]], a citadel of knowledge unparalleled in its grandeur. Ornasion is the largest library in all of Naurrnen, housing an extensive collection of texts, manuscripts, and scrolls from various ages and civilizations. Within its hallowed halls, seekers of wisdom and enlightenment can delve into the vast reservoir of human and non-human knowledge, uncovering the secrets of history, magic, and philosophy.
+
+The Gran Imperio is a realm where the pursuit of knowledge and the exchange of goods thrive side by side, fostering a unique synergy between trade and academia. Its dynamic culture, influenced by the diverse races that call it home, makes it a place of vibrant exchange and opportunity in the world of Naurrnen.
+
 ** Kingdom of Tanquende
 - Capital City :: [[../Places/City of Tanquende.org][Tanquende]]
-Elven kingdom, primarilly the Hallashim (a.k.a. High Elves). Territory to the far west of the known world. The captial city hosts the oldest library in Naurrnen, the [[../Places/laurie-citime.org][Laurië Citime]].
+Welcome to the Kingdom of Tanquende, a realm nestled in the far west of the known world. This Elven kingdom is primarily inhabited by the Hallashim, often referred to as the High Elves, who have a rich and storied history in the annals of Naurrnen.
+
+The heart of Tanquende is the City of Tanquende, its magnificent capital, where Elven culture and tradition flourish. Here, amidst the graceful spires and verdant gardens, the Elven Matriarch Mother governs with wisdom and grace, guiding the destiny of her people.
+
+At the heart of the capital stands [[../Places/laurie-citime.org][Laurië Citime]], a venerable institution and the oldest library in all of Naurrnen. Within its hallowed halls, ancient tomes and scrolls from bygone eras are meticulously preserved, making it a sanctuary of knowledge and a bastion of Elven heritage. Scholars, historians, and seekers of wisdom from all corners of the realm gather here to study the wisdom of ages past.
+
+Tanquende, like many territories beyond the borders of the Gran Imperio, holds a complex relationship with non-native races, often relegating them to second-class citizenship. However, among the Elven intellectual elite, there is a spirit of acceptance and openness towards outsiders, and some members of the Elven nobility have embraced this perspective as well.
+
+The City of Tanquende, besides being a center of culture and learning, plays a crucial role as a major trade hub in the western reaches of Naurrnen. Its bustling markets and thriving commerce draw merchants, adventurers, and traders from across the land, creating a vibrant tapestry of cultures and opportunities.
+
+The Kingdom of Tanquende, with its rich history, grand traditions, and vibrant trade, stands as a bastion of Elven civilization in the west, where the past meets the present, and where the future is shaped by the wisdom of ages past.
+
 ** Vulwin Horde
-Nomadic tribes of the Taurashim (Wood Elves).
+Nomadic tribes of the Taurashim (Wood Elves) borders the Kingom of Tanqunde on the west.
 ** Tribes of Nigrumia
 Tribes of the Orpa (a.k.a the Orcs).
 ** Dathakhian Empire
