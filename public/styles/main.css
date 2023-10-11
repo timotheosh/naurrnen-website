@@ -152,7 +152,7 @@ div.wrap-img div.figure p {
   display: inline;
 }
 
-div.outline-2 h2.absent {
+.absent {
   display: none;
 }
 

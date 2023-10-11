@@ -12,6 +12,16 @@
 :END:
 #+HTML:    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
 #+HTML: <a href="/index.html" class="dropdown-btn">Welcome to Naurrnen</a>
+* Nations
+:PROPERTIES:
+:HTML_HEADLINE_CLASS: absent
+:END:
+#+HTML: <button class="dropdown-btn" id="Nations">Nations
+#+HTML:   <i class="fa fa-caret-down"></i>
+#+HTML: </button>
+#+HTML: <div class="dropdown-container">
+- [[file:Nations/index.org][Summary: Nations]]
+#+HTML: </div>
 * Books
 :PROPERTIES:
 :HTML_HEADLINE_CLASS: absent
@@ -25,6 +35,7 @@
 - [[file:Books/In Áyliaremmas Footsteps.org][In Áyliaremma's Footsteps]]
 - [[file:Books/Trade Winds of Prosperity: A Treatise on the Dynamics of Commerce.org][Trade Winds of Prosperity]]
 - [[file:Books/Verbal Tapestry: Exploring the Philosophy of Language.org][Verbal Tapestry]]
+- [[file:Books/The Chronicles of Athalorion.org][The Chronicles of Athalorion]]
 #+HTML: </div>
 * Characters
 :PROPERTIES:
@@ -36,6 +47,7 @@
 #+HTML: <div class="dropdown-container">
 - [[file:Characters/index.org][Introduction: Characters]]
 - [[file:Characters/Bayetti Falasha.org][Bayetti Falasha]]
+- [[file:Characters/Eradan Dadhain.org][Eradan Dadhain]]
 - [[file:Characters/Faelinoril Galathil.org][Faelinoril Galathil]]
 - [[file:Characters/Siobhán MacAuley.org][Siobhán MacAuley]]
 - [[file:Characters/legend-of-naethanor.org][Legend Of Naethanor]]
@@ -77,6 +89,7 @@
 - [[file:Places/laurie-citime.org][Laurië Citime]]
 - [[file:Places/Ornasion library.org][Ornasion Library]]
 - [[file:Places/ponte-cidade.org][Ponte Cidade]]
+- [[file:Places/City of Tanquende.org][City of Tanquende]]
 - [[file:Places/university-of-naethanor.org][University Of Naethanor]]
 - [[file:Places/Vaabhath.org][Vaabhath]]
 #+HTML: </div>
@@ -89,6 +102,16 @@
 #+HTML: </button>
 #+HTML: <div class="dropdown-container">
 - [[file:Races/index.org][Races]]
+#+HTML: </div>
+* Stories
+:PROPERTIES:
+:HTML_HEADLINE_CLASS: absent
+:END:
+#+HTML: <button class="dropdown-btn" id="Stories">Stories
+#+HTML:   <i class=fa fa-caret-down"></i>
+#+HTML: </button>
+#+HTML: <div class="dropdown-container">
+- [[file:Stories/index.org][Stories]]
 #+HTML: </div>
 * Secrets
 :PROPERTIES:

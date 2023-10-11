@@ -1,0 +1,11 @@
+#+title: City Of Tanquende
+#+startup: inlineimages
+#+include: ../navbar.org
+* Ponte Cidade
+#+caption: City of Tanquende
+#+attr_org: :width 800
+#+attr_html: :id pic-banner :alt City of Tanquende :width 100%
+#+attr_latex: :width 350px
+[[file:img/Tanquende.png]]
+
+The city of Tanquende is the capital city of the Elven Kingdom of Tanquende. The Kingdom is ruled by the Mother Monarch, the Elven queen of Tanquende. The city is also a trade center within the kingdom, only a few hundred kilometers west from Ponte Cidade and the border of the Gran Imperio. The city also hosts the oldest library in Naurrnen, [[file:laurie-citime.org][Laurië Citime]].

@@ -1,0 +1,27 @@
+#+title: Stories
+#+startup: inlineimages
+#+include: ../navbar.org
+#+HTML: <script>
+#+HTML: addEventListener("load", collapsableContainers);
+#+HTML: </script>
+
+* Traveling Scholar
+:PROPERTIES:
+:HTML_HEADLINE_CLASS: absent
+:END:
+#+html: <button type="button" class="collapsible">
+#+html: Traveling Scholar
+#+html: </button>
+#+html: <div class="collapsible-content">
+
+#+html: <div class="wrap-left-img">
+#+caption:  Traveling Scholar.
+#+attr_org: :width 300
+#+attr_html: :alt Traveling Scholar :width 100%
+#+attr_latex: :width 200px
+[IMAGE]
+#+html: </div>
+
+
+#+html: <br style="clear:both;" />
+#+html: </div>

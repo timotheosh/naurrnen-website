@@ -1,10 +1,17 @@
 #+title: Introduction: Nations of Naurrnen
-
+#+startup: inlineimages
+#+include: ../navbar.org
 * Introduction: Nations of Naurrnen
 ** Gran Imperio
-The human empire. Though many would argue that it is not purely human, but a truly pluralistic and inclusive society. It is an empire with a relatively strong monarchy.
+- Capital City :: [[file:../Places/ponte-cidade.org][Ponte Cidade]]
+- Ruler :: Emperor [[../Characters/Eradan Dadhain.org][Eradan Dadhain]]
+The "human empire". Though many would argue that it is not purely human, but a truly pluralistic and inclusive society. It is an empire with a relatively strong monarchy.
+The capital city of [[file:~/Documents/Sync/org-files/Projects/naurrnen-website/src/Places/ponte-cidade.org][Ponte Cidade]] borders the Elven lands and the lands of men. Trade routes extend from the western most parts of the Elven lands to the far eastern deserts of the ground dwellers. Ponte Cidade is the trade center of Naurrnen.
+
+Just outside of Ponte Cidade is the prestegious [[../Places/university-of-naethanor.org][University of Naethanor]]. Ands several hundred kilometers south lies the great library citadel, the [[../Places/Ornasion library.org][Ornasion library]]. Ornasion is the largest library in Naurrnen.
 ** Kingdom of Tanquende
-Elven kingdom, primarilly the Hallashim (a.k.a. High Elves). Territory to the far west of the known world.
+- Capital City :: [[../Places/City of Tanquende.org][Tanquende]]
+Elven kingdom, primarilly the Hallashim (a.k.a. High Elves). Territory to the far west of the known world. The captial city hosts the oldest library in Naurrnen, the [[../Places/laurie-citime.org][Laurië Citime]].
 ** Vulwin Horde
 Nomadic tribes of the Taurashim (Wood Elves).
 ** Tribes of Nigrumia
