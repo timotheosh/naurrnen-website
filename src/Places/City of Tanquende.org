@@ -1,7 +1,7 @@
 #+title: City Of Tanquende
 #+startup: inlineimages
 #+include: ../navbar.org
-* Ponte Cidade
+* City of Tanquende
 #+caption: City of Tanquende
 #+attr_org: :width 800
 #+attr_html: :id pic-banner :alt City of Tanquende :width 100%

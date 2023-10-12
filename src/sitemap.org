@@ -2,23 +2,30 @@
 
 - [[file:index.org][Welcome to Naurrnen]]
 - Books
-  - [[file:Books/index.org][Books]]
   - [[file:Books/In Áyliaremmas Footsteps.org][In Áyliaremma's Footsteps]]
-  - [[file:Books/The Ancient Ones.org][The Ancient Ones]]
+  - [[file:Books/index.org][Introduction: Books]]
+  - [[file:Books/The Ancient Ones.org][The Ameara (or "The Ancient Ones") by [[file:../Characters/Bayetti Falasha.org][Bayetti Falasha]]]]
   - [[file:Books/The Chronicles of Athalorion.org][The Chronicles of Athalorion: Unveiling the Secrets of an Ancient Civilization]]
   - [[file:Books/Trade Winds of Prosperity: A Treatise on the Dynamics of Commerce.org][Trade Winds Of Prosperity A Treatise On The Dynamics Of Commerce]]
   - [[file:Books/Verbal Tapestry: Exploring the Philosophy of Language.org][Verbal Tapestry: Exploring The Philosophy Of Language]]
 - Characters
+  - [[file:Characters/Aravenna Leafwhisper.org][Aravenna Leafwhisper]]
   - [[file:Characters/Bayetti Falasha.org][Bayetti Falasha]]
   - [[file:Characters/index.org][Characters]]
+  - [[file:Characters/Chieftan Verenar Darkthorn.org][Chieftan Verenar Darkthorn]]
   - [[file:Characters/Eradan Dadhain.org][Eradan Dadhain Faelinoril Galathil]]
   - [[file:Characters/Faelinoril Galathil.org][Faelinoril Galathil]]
   - [[file:Characters/legend-of-naethanor.org][Legend Of Naethanor]]
+  - [[file:Characters/Malorin Swiftshadow.org][Malorin Swiftshadow]]
   - [[file:Characters/Siobhán MacAuley.org][Siobhán MacAuley]]
+- Factions
+  - [[file:Factions/Horde Caelithra.org][Horde Caelithra]]
+  - [[file:Factions/Horde Gwennath.org][Horde Gwennath]]
+  - [[file:Factions/Horde Thalrindor.org][Horde Thalrindor]]
 - History
-  - [[file:History/First Era.org][First Era]]
+  - [[file:History/First Era.org][First Era: The Amearans]]
   - [[file:History/index.org][Introduction to Naurrnen's History]]
-  - [[file:History/Second Era.org][Second Era]]
+  - [[file:History/Second Era.org][The Second Era: The Áyliaremma Elves]]
   - [[file:History/Third Era.org][The Third Era: The Age of Reconciliation]]
 - Metals
   - [[file:Metals/index.org][Metals of Naurrnen]]
@@ -30,10 +37,11 @@
   - [[file:Places/Kaukloutan Desert.org][Kaukloutan Desert]]
   - [[file:Places/laurie-citime.org][Laurië Citime]]
   - [[file:Places/Ornasion library.org][Ornasion Library]]
+  - [[file:Places/index.org][Places: Introduction]]
   - [[file:Places/ponte-cidade.org][Ponte Cidade]]
+  - [[file:Places/Silvethra.org][Silvethra City Of Tanquende]]
   - [[file:Places/university-of-naethanor.org][University Of Naethanor]]
   - [[file:Places/Vaabhath.org][Vaabhath]]
-  - [[file:Places/index.org][Welcome to Naurrnen]]
 - Races
   - [[file:Races/index.org][Races]]
 - Secrets

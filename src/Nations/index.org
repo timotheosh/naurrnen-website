@@ -30,7 +30,23 @@ The City of Tanquende, besides being a center of culture and learning, plays a c
 The Kingdom of Tanquende, with its rich history, grand traditions, and vibrant trade, stands as a bastion of Elven civilization in the west, where the past meets the present, and where the future is shaped by the wisdom of ages past.
 
 ** Vulwin Horde
-Nomadic tribes of the Taurashim (Wood Elves) borders the Kingom of Tanqunde on the west.
+- Capiral City :: [[../Places/Silvethra.org][Silvethra]]
+Nestled on the western border of the Kingdom of Tanquende, the Vulwin Horde is a community of Taurashim, also known as Wood Elves. They are renowned for their deep connection with the ancient forests that blanket their territory, particularly the Great Forest, an enigmatic and awe-inspiring realm of towering trees and mysterious creatures.
+
+*Bellgrald (The Great Forest)*: At the heart of the Vulwin Horde's territory lies the Bellgrald, an expanse of woodland unlike any other in Naurrnen. Its colossal trees reach for the heavens, their massive trunks cloaked in moss and vines. It is said that within the depths of this forest dwell creatures of both wonder and terror, their existence shrouded in myth and legend. Among these woods, ancient and sacred groves are scattered, where the Taurashim conduct their most profound rituals and commune with the spirits of the land.
+
+The Three Major Hords: The Vulwin Horde is divided into three major hords, each with its own distinct traditions, leaders, and territories within the Great Forest. These hords are named after revered Wood Elf ancestors and are known for their unique skills and roles within the Horde. The names of the hords are lost in the whispering leaves of the Great Forest, known only to those who dwell among the trees.
+
+*[[../Factions/Horde Gwennath.org][Horde Gwennath]]:* This hord is known for its exceptional hunting skills and foraging expertise. Members of Horde Gwennath are often the providers of the Horde, responsible for securing food and resources from the bountiful forest.
+
+*[[../Factions/Horde Thalrindor.org][Horde Thalrindor]]:* Horde Thalrindor is renowned for its spiritual connection to the Great Forest. Its members include powerful druids and guardians of the sacred groves. They are the keepers of ancient lore and the protectors of the forest's secrets.
+
+*[[../Factions/Horde Caelithra.org][Horde Caelithra]]:* Horde Caelithra specializes in diplomacy and trade. They are the bridge between the Vulwin Horde and the outside world, maintaining essential relationships with nearby settlements and trading partners.
+
+Minor Tribes and Interactions: Beyond the major hords, the Vulwin Horde encompasses several minor tribes, each with its own unique traditions and contributions to the Horde's way of life. Some of these minor tribes have intermingled with the Mochveneba, creating a blend of cultures and knowledge that enriches the Taurashim society.
+
+As the Vulwin Horde navigates the intricate tapestry of the Great Forest and interacts with neighboring kingdoms like Tanquende, their way of life remains both mysterious and captivating. The Taurashim of the Vulwin Horde stand as guardians of the ancient woodland, protectors of its secrets, and stewards of its bountiful resources.
+
 ** Tribes of Nigrumia
 Tribes of the Orpa (a.k.a the Orcs).
 ** Dathakhian Empire

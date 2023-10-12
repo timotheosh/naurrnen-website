@@ -46,11 +46,32 @@
 #+HTML: </button>
 #+HTML: <div class="dropdown-container">
 - [[file:Characters/index.org][Introduction: Characters]]
-- [[file:Characters/Bayetti Falasha.org][Bayetti Falasha]]
-- [[file:Characters/Eradan Dadhain.org][Eradan Dadhain]]
-- [[file:Characters/Faelinoril Galathil.org][Faelinoril Galathil]]
-- [[file:Characters/Siobhán MacAuley.org][Siobhán MacAuley]]
-- [[file:Characters/legend-of-naethanor.org][Legend Of Naethanor]]
+- Historical
+  - [[file:Characters/Bayetti Falasha.org][Bayetti Falasha]]
+  - [[file:Characters/legend-of-naethanor.org][Legend Of Naethanor]]
+- Factions
+  - Political: Gran Imperio
+    - [[file:Characters/Eradan Dadhain.org][Eradan Dadhain]]
+    - [[file:Characters/Siobhán MacAuley.org][Siobhán MacAuley]]
+  - Political: Vulwin Horde
+    - [[file:Characters/Chieftan Verenar Darkthorn.org][Chieftan Verenar Darkthorn]]
+    - [[file:Characters/Malorin Swiftshadow.org][Malorin Swiftshadow]]
+    - [[file:Characters/Aravenna Leafwhisper.org][Aravenna Leafwhisper]]
+  - Intellectual
+    - [[file:Characters/Faelinoril Galathil.org][Faelinoril Galathil]]
+
+#+HTML: </div>
+* Factions
+:PROPERTIES:
+:HTML_HEADLINE_CLASS: absent
+:END:
+#+HTML: <button class="dropdown-btn" id="Factions">Factions
+#+HTML:   <i class=fa fa-caret-down"></i>
+#+HTML: </button>
+#+HTML: <div class="dropdown-container">
+- [[file:Factions/Horde Caelithra.org][Horde Caelithra]]
+- [[file:Factions/Horde Gwennath.org][Horde Gwennath]]
+- [[file:Factions/Horde Thalrindor.org][Horde Thalrindor]]
 #+HTML: </div>
 * History
 :PROPERTIES:
