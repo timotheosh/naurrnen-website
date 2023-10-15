@@ -21,6 +21,9 @@
 #+HTML: </button>
 #+HTML: <div class="dropdown-container">
 - [[file:Nations/index.org][Summary: Nations]]
+- [[file:Nations/Gran Imperio.org][Gran Imperio]]
+- [[file:Nations/Tanquende.org][Tanquende]]
+- [[file:Nations/Vulwin Horde.org][Vulwin Horde]]
 #+HTML: </div>
 * Books
 :PROPERTIES:
@@ -53,6 +56,8 @@
   - Political: Gran Imperio
     - [[file:Characters/Eradan Dadhain.org][Eradan Dadhain]]
     - [[file:Characters/Siobhán MacAuley.org][Siobhán MacAuley]]
+  - Political: Tanquende
+    - [[file:Characters/Elenya Ilírelya.org][Elenya Ilírelya]]
   - Political: Vulwin Horde
     - [[file:Characters/Chieftan Verenar Darkthorn.org][Chieftan Verenar Darkthorn]]
     - [[file:Characters/Malorin Swiftshadow.org][Malorin Swiftshadow]]
@@ -143,6 +148,7 @@
 #+HTML: </button>
 #+HTML: <div class="dropdown-container">
 - [[file:Secrets/index.org][Naurrnen's Forgotten Past]]
+- [[file:Secrets/Technologies.org][Technologies of the Setsafar Commonwealth]]
 #+HTML: </div>
 
 #+HTML: </div>

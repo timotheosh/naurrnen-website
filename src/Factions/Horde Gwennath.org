@@ -4,6 +4,8 @@
 
 * Horde Gwennath
 - Leader :: [[file:../Characters/Chieftan Verenar Darkthorn.org][Chieftan Verenar Darkthorn]]
+
+
 The hunting clan of the Taurashim.
 
 - Survival Experts: Horde Gwennath is renowned for its exceptional hunting and foraging skills. Members of this hord are experts in tracking and capturing game, finding edible plants, and navigating the dense forest.

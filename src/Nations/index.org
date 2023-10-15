@@ -2,51 +2,6 @@
 #+startup: inlineimages
 #+include: ../navbar.org
 * Introduction: Nations of Naurrnen
-** Gran Imperio
-- Capital City :: [[file:../Places/ponte-cidade.org][Ponte Cidade]]
-- Ruler :: Emperor [[../Characters/Eradan Dadhain.org][Eradan Dadhain]]
-In the heart of Naurrnen lies the Gran Imperio, often referred to as the "human empire." However, it's a realm that defies easy classification, as it embodies true pluralism and inclusivity, welcoming various races and cultures within its borders. This mighty empire is characterized by a relatively robust monarchy that governs its diverse populace.
-
-The capital city of [[../Places/ponte-cidade.org][Ponte Cidade]] stands as a remarkable testament to the empire's strategic location. Nestled at the crossroads between Elven territories and the lands of men, it serves as a bustling hub where trade routes stretch from the western reaches of Elven lands to the far eastern deserts inhabited by ground-dwelling races. [[../Places/ponte-cidade.org][Ponte Cidade]] is the pulsating heart of commerce in Naurrnen, where merchants, scholars, and adventurers converge to exchange goods, ideas, and knowledge.
-
-Just beyond the city's boundaries lies the prestigious [[../Places/university-of-naethanor.org][University of Naethanor]], an institution of higher learning renowned for its rigorous academic programs in trade, philosophy, and various other fields of study. It is a place where aspiring scholars from across Naurrnen gather to expand their horizons and engage in intellectual discourse.
-
-Several hundred kilometers to the south of [[file:../Places/ponte-cidade.org][Ponte Cidade]], one finds the awe-inspiring [[../Places/Ornasion library.org][Ornasion library]], a citadel of knowledge unparalleled in its grandeur. Ornasion is the largest library in all of Naurrnen, housing an extensive collection of texts, manuscripts, and scrolls from various ages and civilizations. Within its hallowed halls, seekers of wisdom and enlightenment can delve into the vast reservoir of human and non-human knowledge, uncovering the secrets of history, magic, and philosophy.
-
-The Gran Imperio is a realm where the pursuit of knowledge and the exchange of goods thrive side by side, fostering a unique synergy between trade and academia. Its dynamic culture, influenced by the diverse races that call it home, makes it a place of vibrant exchange and opportunity in the world of Naurrnen.
-
-** Kingdom of Tanquende
-- Capital City :: [[../Places/City of Tanquende.org][Tanquende]]
-Welcome to the Kingdom of Tanquende, a realm nestled in the far west of the known world. This Elven kingdom is primarily inhabited by the Hallashim, often referred to as the High Elves, who have a rich and storied history in the annals of Naurrnen.
-
-The heart of Tanquende is the City of Tanquende, its magnificent capital, where Elven culture and tradition flourish. Here, amidst the graceful spires and verdant gardens, the Elven Matriarch Mother governs with wisdom and grace, guiding the destiny of her people.
-
-At the heart of the capital stands [[../Places/laurie-citime.org][Laurië Citime]], a venerable institution and the oldest library in all of Naurrnen. Within its hallowed halls, ancient tomes and scrolls from bygone eras are meticulously preserved, making it a sanctuary of knowledge and a bastion of Elven heritage. Scholars, historians, and seekers of wisdom from all corners of the realm gather here to study the wisdom of ages past.
-
-Tanquende, like many territories beyond the borders of the Gran Imperio, holds a complex relationship with non-native races, often relegating them to second-class citizenship. However, among the Elven intellectual elite, there is a spirit of acceptance and openness towards outsiders, and some members of the Elven nobility have embraced this perspective as well.
-
-The City of Tanquende, besides being a center of culture and learning, plays a crucial role as a major trade hub in the western reaches of Naurrnen. Its bustling markets and thriving commerce draw merchants, adventurers, and traders from across the land, creating a vibrant tapestry of cultures and opportunities.
-
-The Kingdom of Tanquende, with its rich history, grand traditions, and vibrant trade, stands as a bastion of Elven civilization in the west, where the past meets the present, and where the future is shaped by the wisdom of ages past.
-
-** Vulwin Horde
-- Capiral City :: [[../Places/Silvethra.org][Silvethra]]
-Nestled on the western border of the Kingdom of Tanquende, the Vulwin Horde is a community of Taurashim, also known as Wood Elves. They are renowned for their deep connection with the ancient forests that blanket their territory, particularly the Great Forest, an enigmatic and awe-inspiring realm of towering trees and mysterious creatures.
-
-*Bellgrald (The Great Forest)*: At the heart of the Vulwin Horde's territory lies the Bellgrald, an expanse of woodland unlike any other in Naurrnen. Its colossal trees reach for the heavens, their massive trunks cloaked in moss and vines. It is said that within the depths of this forest dwell creatures of both wonder and terror, their existence shrouded in myth and legend. Among these woods, ancient and sacred groves are scattered, where the Taurashim conduct their most profound rituals and commune with the spirits of the land.
-
-The Three Major Hords: The Vulwin Horde is divided into three major hords, each with its own distinct traditions, leaders, and territories within the Great Forest. These hords are named after revered Wood Elf ancestors and are known for their unique skills and roles within the Horde. The names of the hords are lost in the whispering leaves of the Great Forest, known only to those who dwell among the trees.
-
-*[[../Factions/Horde Gwennath.org][Horde Gwennath]]:* This hord is known for its exceptional hunting skills and foraging expertise. Members of Horde Gwennath are often the providers of the Horde, responsible for securing food and resources from the bountiful forest.
-
-*[[../Factions/Horde Thalrindor.org][Horde Thalrindor]]:* Horde Thalrindor is renowned for its spiritual connection to the Great Forest. Its members include powerful druids and guardians of the sacred groves. They are the keepers of ancient lore and the protectors of the forest's secrets.
-
-*[[../Factions/Horde Caelithra.org][Horde Caelithra]]:* Horde Caelithra specializes in diplomacy and trade. They are the bridge between the Vulwin Horde and the outside world, maintaining essential relationships with nearby settlements and trading partners.
-
-Minor Tribes and Interactions: Beyond the major hords, the Vulwin Horde encompasses several minor tribes, each with its own unique traditions and contributions to the Horde's way of life. Some of these minor tribes have intermingled with the Mochveneba, creating a blend of cultures and knowledge that enriches the Taurashim society.
-
-As the Vulwin Horde navigates the intricate tapestry of the Great Forest and interacts with neighboring kingdoms like Tanquende, their way of life remains both mysterious and captivating. The Taurashim of the Vulwin Horde stand as guardians of the ancient woodland, protectors of its secrets, and stewards of its bountiful resources.
-
 ** Tribes of Nigrumia
 Tribes of the Orpa (a.k.a the Orcs).
 ** Dathakhian Empire

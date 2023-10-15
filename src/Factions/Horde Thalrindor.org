@@ -4,6 +4,8 @@
 
 * Horde Thalrinder
 - Leader :: [[../Characters/Malorin Swiftshadow.org][Malorin Swiftshadow]]
+
+
 - Stealth and Agility: Members of Horde Thalrinder are renowned for their exceptional stealth and agility. They move through the dense undergrowth and towering trees of the Bellgrald Forest with the grace and silence of the forest's own inhabitants.
 - Mastery of Archery: The Silent Sentinels are expert archers, their keen eyes and steady hands capable of sending arrows unerringly towards their targets. They are skilled in both hunting and combat, using their bows to deadly effect when necessary.
 - Connection to Nature: Thalrinder are deeply attuned to the natural world. They can read the signs of the forest with uncanny precision, predicting changes in weather, the movements of wildlife, and the presence of intruders.

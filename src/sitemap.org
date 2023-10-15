@@ -13,6 +13,7 @@
   - [[file:Characters/Bayetti Falasha.org][Bayetti Falasha]]
   - [[file:Characters/index.org][Characters]]
   - [[file:Characters/Chieftan Verenar Darkthorn.org][Chieftan Verenar Darkthorn]]
+  - [[file:Characters/Elenya Ilírelya.org][Elenya Ilírely]]
   - [[file:Characters/Eradan Dadhain.org][Eradan Dadhain Faelinoril Galathil]]
   - [[file:Characters/Faelinoril Galathil.org][Faelinoril Galathil]]
   - [[file:Characters/legend-of-naethanor.org][Legend Of Naethanor]]
@@ -30,7 +31,10 @@
 - Metals
   - [[file:Metals/index.org][Metals of Naurrnen]]
 - Nations
+  - [[file:Nations/Gran Imperio.org][Gran Imperio]]
   - [[file:Nations/index.org][Introduction: Nations of Naurrnen]]
+  - [[file:Nations/Tanquende.org][Tanquende]]
+  - [[file:Nations/Vulwin Horde.org][Vulwin Horde]]
 - Places
   - [[file:Places/Athelorion ruins.org][Athelorion Ruins]]
   - [[file:Places/City of Tanquende.org][City Of Tanquende]]
@@ -46,5 +50,6 @@
   - [[file:Races/index.org][Races]]
 - Secrets
   - [[file:Secrets/index.org][Naurrnen's Forgotten Past]]
+  - [[file:Secrets/Technologies.org][Technologies of the Setsafar Commonwealth]]
 - Stories
   - [[file:Stories/index.org][Stories]]
