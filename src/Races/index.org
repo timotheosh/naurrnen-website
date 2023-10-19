@@ -10,7 +10,7 @@ The races within Naurrnen are fairly equal. Although Elves are known for their s
 #+attr_org: :width 300
 #+attr_html: :alt Hallishim male :width 100%
 #+attr_latex: :width 200px
-[[./img/hallishim-male.png]]
+[[./img/hallishim-male.jpg]]
 
 **** Language
 Anashim language has several dialects. The most common being that of the Hallashim.
@@ -34,7 +34,7 @@ Anashim language has several dialects. The most common being that of the Hallash
 #+attr_org: :width 300
 #+attr_html: :alt Taurashim female :width 100%
 #+attr_latex: :width 200px
-[[./img/Taurashim-female-ranger.png]]
+[[./img/Taurashim-female-ranger.jpg]]
 **** Pantheon
 | *Anor*   | Highest father of vengeance.                    |
 | *Ithil*  | Highest mother of justice. The great protector. |
@@ -49,7 +49,7 @@ Anashim language has several dialects. The most common being that of the Hallash
 #+attr_org: :width 300
 #+attr_html: :alt Edama merchant :width 100%
 #+attr_latex: :width 200px
-[[./img/Edama-male-merchant.png]]
+[[./img/Edama-male-merchant.jpg]]
 
 **** Language
 Men's language had been historically Hallashim, as man had been the slaves of certain High Elf empires. But they did have a language of their own that differentiated them from their captors. That slave language evolved into a full-blown Adaman language or language of man. That language became known by the early third era as Malairt or "trade" language.
@@ -67,7 +67,7 @@ Men's language had been historically Hallashim, as man had been the slaves of ce
 #+attr_org: :width 300
 #+attr_html: :alt Durama scout :width 100%
 #+attr_latex: :width 200px
-[[./img/Durama-male-scout.png]]
+[[./img/Durama-male-scout.jpg]]
 **** Pantheon
 | *Dagda*     | Highest father vengeance and justice.     |
 | *Morrigaan* | Highest mother, nuture and nature.        |
@@ -82,7 +82,7 @@ Men's language had been historically Hallashim, as man had been the slaves of ce
 #+attr_org: :width 300
 #+attr_html: :alt Orc chieftan :width 100%
 #+attr_latex: :width 200px
-[[./img/Orc-chieftan.png]]
+[[./img/Orc-chieftan.jpg]]
 
 Known in elvish as Osunus, and to the humans as Orcs.
 **** Strengths
@@ -106,7 +106,7 @@ Known in elvish as Osunus, and to the humans as Orcs.
 #+attr_org: :width 300
 #+attr_html: :alt Mochveneba warrior :width 100%
 #+attr_latex: :width 200px
-[[./img/Mochveneba-warrior.png]]
+[[./img/Mochveneba-warrior.jpg]]
 
 Mochveneba or "ghost people" are a minority ethnicity within Naurrnen. They are elf-like, in that they share many of the features that elven folk have, but they are well known for their physical prowness. Their skin is a deep red, with stripes. Similar to tiger stripes. In fact, legend outside the Mochveneba tribes, say they are crossbred elves with tigers. In reality, they are more than likely half-breeds. More than likely, half-elf, and half-something else. They have unusual stamina, so some speculate half-orc, though their uncommon beauty seems to indicate otherwise.
 

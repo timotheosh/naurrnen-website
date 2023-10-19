@@ -6,7 +6,7 @@
 #+attr_org: :width 800
 #+attr_html: :id pic-banner :alt Image of caravan in the Kaukloutan Desert :width 100%
 #+attr_latex: :width 350px
-[[file:img/Caravan-traveling-the-perilous-Kaukloutan-Desert.png]]
+[[file:img/Caravan-traveling-the-perilous-Kauklatan-Desert.jpg]]
 
 The Kaukloutan Desert, often referred to as the "Sea of Cursed Silence," is a sprawling expanse of arid land that stretches across the heart of Naurrnen. It is a place wrapped in legend, whispered about in hushed tones in the far corners of bustling bazaars and ancient libraries. Thought to be a remnant of a long-gone civilization, perhaps even the elusive Amearans, its barren landscape is punctuated by arcane ruins and incomprehensible inscriptions.
 

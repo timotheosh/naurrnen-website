@@ -2,33 +2,43 @@
 #+startup: inlineimages
 #+include: ../navbar.org
 * Metals of Naurrnen
-** Saruleum
+** Garunzal
 #+html: <div class="wrap-left-img">
-#+caption:  Pillars of Saruleum, formed during the early spring in the Kaukloutan Desert
+#+caption:  Pool of Garunzal in the Kaukloutan Desert
 #+attr_org: :width 300
-#+attr_html: :alt Image of Saruleum pillars :width 100%
+#+attr_html: :alt Image of Garunzal pool :width 100%
 #+attr_latex: :width 200px
-[[file:img/Saruleum Pillars.png]]
+[[file:img/saruleum.jpg]]
 #+html: </div>
 
-1. From the ancient tongue (similar to Latin), meaning "blue".
-2. Color is silver with streaks of blue light
-3. Primary source of magicka
-4. Primary source of energy
-5. Is mined
-6. Sometimes used as currency, but since it is generally softer than gold, it is not ideal for coinage.
+1. Color is silver with streaks of blue light
+2. Primary source of magicka
+3. Primary source of energy
+4. Is mined
+5. Sometimes used as currency, but since it is generally softer than gold, it is not ideal for coinage.
 
-Saruleum is a soft metal and is an extremely inefficient energy source for magic, but an extremely efficient source of energy for mechanical contraptions. This means that cultures will view the resource as scarce, and better used for non-magical applications. Of course, the wizard guilds will want an unlimited supply of the resource so they can explore and learn more about magic.
+Garunzal is a soft metal and is an extremely efficient energy source for magic and mechanical contraptions. This means that cultures will view the resource as scarce. Of course, the wizard guilds will want an unlimited supply of the resource so they can explore and learn more about magic.
 #+html: <br style="clear:both;" />
 
-** Baruleum
-#+html: <div class="wrap-left-img">
-#+caption:  Deposits of Baruleum in the Kaukloutan Desert
+** Sangorn
+#+html: <div class="wrap-right-img">
+#+caption:  Deposits of Sangorn near a dormant lava flow in the Kaukloutan Desert
 #+attr_org: :width 300
-#+attr_html: :alt Image of Baruleum deposits :width 100%
+#+attr_html: :alt Image of Sangorn deposits :width 100%
 #+attr_latex: :width 200px
-[[file:img/Baruleum Deposits.png]]
+[[file:img/Baruleum Deposits.jpg]]
 #+html: </div>
 
 A hard and heavy metal. Can be used as armor but is too heavy to make full suits of armor. Usually a plate of the metal will be used in conjunction with steel. It is most commonly used in constructs for production that need sturdy materials in order to function.
+#+html: <br style="clear:both;" />
+** Valmaur
+#+html: <div class="wrap-left-img">
+#+caption:  Statue made of Valmaur
+#+attr_org: :width 300
+#+attr_html: :alt Image of a statue made of Valmaur :width 100%
+#+attr_latex: :width 200px
+[[./img/Valmaur Statue.jpg]]
+#+html: </div>
+
+Valmaur is a unique stone-like metal, as malleable as clay yet as durable as steel. Despite its high melting point, it cools rapidly, making it ideal for both craftsmanship and magical use. Its poor heat conductivity means it's slow to melt but quick to solidify, lending itself to a wide array of applications.
 #+html: <br style="clear:both;" />

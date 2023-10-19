@@ -4,9 +4,9 @@
 
 * Elenya Ilírely
 #+html: <div class="wrap-right-img">
-#+caption: Chieftan Verenar Darkthorn
+#+caption: Elenya Ilírely
 #+attr_org: :width 300
-#+attr_html: :alt Image of Chieftan Verenar Darkthorn :width 100%;
+#+attr_html: :alt Image of Elenya Ilírely :width 100%;
 #+attr_latex: :width 200p
 [[file:img/Elenya Ilírelya.jpg]]
 #+html: </div>
@@ -19,7 +19,7 @@
     Tanamil (High Matriarch) of Tanquende
 - Home ::
     Tanquende (City of)
-- Eneagram Scale ::
+- Enneagram Scale ::
   Type 8: The Peace Maker
 ** Characteristics
 1. Desire: Elenya's desire is to maintain inner and outer peace within Tanquende and among its people. She seeks harmony, unity, and tranquility in all aspects of her leadership.
