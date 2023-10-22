@@ -64,6 +64,9 @@
     - [[file:Characters/Aravenna Leafwhisper.org][Aravenna Leafwhisper]]
   - Intellectual
     - [[file:Characters/Faelinoril Galathil.org][Faelinoril Galathil]]
+  - Merchants
+    - [[file:Characters/Elias Vashdro.org][Elias Vashdro]]
+    - [[file:Characters/Lunara Vashdro.org][Lunara Vashdro]]
 
 #+HTML: </div>
 * Factions

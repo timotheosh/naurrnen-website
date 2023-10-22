@@ -14,9 +14,11 @@
   - [[file:Characters/index.org][Characters]]
   - [[file:Characters/Chieftan Verenar Darkthorn.org][Chieftan Verenar Darkthorn]]
   - [[file:Characters/Elenya Ilírelya.org][Elenya Ilírely]]
+  - [[file:Characters/Elias Vashdro.org][Elias Vashdro]]
   - [[file:Characters/Eradan Dadhain.org][Eradan Dadhain Faelinoril Galathil]]
   - [[file:Characters/Faelinoril Galathil.org][Faelinoril Galathil]]
   - [[file:Characters/legend-of-naethanor.org][Legend Of Naethanor]]
+  - [[file:Characters/Lunara Vashdro.org][Lunara Vashdro]]
   - [[file:Characters/Malorin Swiftshadow.org][Malorin Swiftshadow]]
   - [[file:Characters/Siobhán MacAuley.org][Siobhán MacAuley]]
 - Factions
