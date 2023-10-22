@@ -116,7 +116,11 @@ The Mochveneba tribes are religious, and perhaps to most of the civilized world,
 2. Known for physical strength.
 3. Warlike, but peace-loving.
 **** Pantheon
-Unknown
+1. Animism: They believe spirit is in all things. But they also believe that consciousness is a higher form of spirit.
+2. Believe in balance betweem "pah" and "foh". Good/Evil. Hot/Cold, etc.
+3. Believe their ancestors live beyond the vale, and they will one day join them in death.
+4. Presence, meditation, seeking inner peace and clarity is essential. Past and future, do not matter. Only the present.
+5. Cycle of life:  spirit lives and dies, and is renewed again. Consciousness, on the other hand, goes to the ancestral grove, the spirit world, after death, and does not return.
 #+html: <br style="clear:both;" />
 ** Languages
 *** Adaman, the trade tongue

@@ -7,7 +7,7 @@
 #+attr_org: :width 300
 #+attr_html: :alt Image Faelinoril Galathil :width 100%;
 #+attr_latex: :width 200p
-[[./img/Faelinoril_Galathil.png]]
+[[./img/Faelinoril_Galathil.jpg]]
 #+html: </div>
 
 - Age ::

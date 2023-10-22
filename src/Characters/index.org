@@ -7,7 +7,7 @@
 #+attr_org: :width 300
 #+attr_html: :alt Image of Treasure Hunters :width 100%;
 #+attr_latex: :width 200p
-[[./img/adventurers-in-the-desert.png]]
+[[./img/adventurers-in-the-desert.jpg]]
 
 In the enchanting world of Naurrnen, characters from diverse backgrounds and realms come to life, each bringing a unique perspective to the ever-unfolding tapestry of history, politics, and magic. From the illustrious halls of the University of Naethanor to the hidden chambers of Laurië Citime, scholars, heroes, and enigmatic figures each have a role to play.
 

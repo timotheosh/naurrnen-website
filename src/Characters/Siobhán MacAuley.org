@@ -7,7 +7,7 @@
 #+attr_org: :width 300
 #+attr_html: :alt Image of Siobhán MacAuley :width 100%;
 #+attr_latex: :width 200p
-[[./img/Siobhán MacAuley.png]]
+[[./img/Siobhán MacAuley.jpg]]
 #+html: </div>
 
 - Age ::

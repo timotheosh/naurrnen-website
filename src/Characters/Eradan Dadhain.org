@@ -8,7 +8,7 @@
 #+attr_org: :width 300
 #+attr_html: :alt Image of Emperor Eradan Dadhain :width 100%;
 #+attr_latex: :width 200p
-[[./img/Eradan Dadhain.png]]
+[[./img/Eradan Dadhain.jpg]]
 #+html: </div>
 
 - Age ::

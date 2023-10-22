@@ -6,7 +6,7 @@
 #+attr_org: :width 800
 #+attr_html: :id pic-banner :alt Image of Glimkaren river :width 100%
 #+attr_latex: :width 350px
-[[file:img/Glimkarun River in Vaabhath.png]]
+[[file:img/Glimkarun River in Vaabhath.jpg]]
 
 Nestled amidst the endless sands of the [[file:Kaukloutan Desert.org][Kaukloutan Desert]], the oasis city of Vaabhath stands as a resplendent jewel in the harsh wilderness. It is the gateway to the mysterious lands of the Gathashim, a place where ancient traditions and cutting-edge discoveries coexist, and where the promise of wealth and knowledge beckons adventurers from far and wide.
 

@@ -6,7 +6,7 @@
 #+attr_org: :width 800
 #+attr_html: :id pic-banner :alt Inside Ornasion Library :width 100%
 #+attr_latex: :width 350px
-[[./img/Ornasion-library-2.png]]
+[[./img/Ornasion Library.jpg]]
 
 This is the largest library in Naurrnen. It consists of a large citidel, with a castle and towers. It is primarily run by the Gran Imperio's Archivist Guild. The citidel consists of thousands of rooms deep under the surface of the city, and far into the chambers above the ground. Most of the transcriptions of the ancient books in Laurië Citime have been purchased and stored at this library.
 

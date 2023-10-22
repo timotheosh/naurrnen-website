@@ -8,7 +8,7 @@
 #+attr_org: :width 300
 #+attr_html: :alt Image of oil painting of Bayetti Falasha :width 100%;
 #+attr_latex: :width 200p
-[[file:img/Bayetti Falasha.png]]
+[[file:img/Bayetti Falasha.jpg]]
 #+html: </div>
 
 - Age ::

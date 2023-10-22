@@ -6,7 +6,7 @@
 #+attr_org: :width 800
 #+attr_html: :id pic-banner :alt Quadrangle of Naethanor :width 100%
 #+attr_latex: :width 350px
-[[./img/University-of-Naethanor.png]]
+[[./img/University-of-Naethanor.jpg]]
 
 Nestled amidst lush emerald hills a few miles south of Ponte Cidade, the University of Naethanor stands as a beacon of knowledge and innovation. A sprawling campus featuring a seamless blend of historic and modern architecture, the institution is a testament to the ever-evolving pursuit of wisdom. Established over three centuries ago, the University is named in honor of Naethanor, a luminary figure whose influence on academics and culture is unparalleled.
 

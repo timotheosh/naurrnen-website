@@ -6,7 +6,7 @@
 #+attr_org: :width 800
 #+attr_html: :id pic-banner :alt Main Entrance to Laurië Citime :width 100%
 #+attr_latex: :width 350px
-[[./img/Laurie_Citime.png]]
+[[./img/Laurie_Citime.jpg]]
 
 Welcome to Laurië Citime, the hallowed repository of knowledge in the heart of Naurrnen. This ancient library stands as a testament to the enduring thirst for wisdom and the preservation of history. With its towering spires and labyrinthine corridors, Laurië Citime is more than just a collection of books; it is a living testament to the boundless curiosity of the inhabitants of Naurrnen.
 
