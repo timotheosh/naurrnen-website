@@ -50,6 +50,7 @@
 #+HTML: <div class="dropdown-container">
 - [[file:Characters/index.org][Introduction: Characters]]
 - Historical
+  - [[file:Characters/Valandur.org][Valandur]]
   - [[file:Characters/Bayetti Falasha.org][Bayetti Falasha]]
   - [[file:Characters/legend-of-naethanor.org][Legend Of Naethanor]]
 - Factions
@@ -77,9 +78,15 @@
 #+HTML:   <i class=fa fa-caret-down"></i>
 #+HTML: </button>
 #+HTML: <div class="dropdown-container">
-- [[file:Factions/Horde Caelithra.org][Horde Caelithra]]
-- [[file:Factions/Horde Gwennath.org][Horde Gwennath]]
-- [[file:Factions/Horde Thalrindor.org][Horde Thalrindor]]
+- Nations
+  - Gran Imperio
+    - [[file:Factions/Archivists Guild.org][Archivists Guild]]
+  - Tanquende
+    - [[file:Factions/Transcript Guild.org][Transcript Guild]]
+  - Vulwin Horde
+    - [[file:Factions/Horde Caelithra.org][Horde Caelithra]]
+    - [[file:Factions/Horde Gwennath.org][Horde Gwennath]]
+    - [[file:Factions/Horde Thalrindor.org][Horde Thalrindor]]
 #+HTML: </div>
 * History
 :PROPERTIES:

@@ -21,10 +21,13 @@
   - [[file:Characters/Lunara Vashdro.org][Lunara Vashdro]]
   - [[file:Characters/Malorin Swiftshadow.org][Malorin Swiftshadow]]
   - [[file:Characters/Siobhán MacAuley.org][Siobhán MacAuley]]
+  - [[file:Characters/Valandur.org][Valandur]]
 - Factions
+  - [[file:Factions/Archivists Guild.org][Archivists Guild]]
   - [[file:Factions/Horde Caelithra.org][Horde Caelithra]]
   - [[file:Factions/Horde Gwennath.org][Horde Gwennath]]
   - [[file:Factions/Horde Thalrindor.org][Horde Thalrindor]]
+  - [[file:Factions/Transcript Guild.org][Transcript Guild]]
 - History
   - [[file:History/First Era.org][First Era: The Amearans]]
   - [[file:History/index.org][Introduction to Naurrnen's History]]
