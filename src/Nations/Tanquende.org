@@ -3,6 +3,12 @@
 #+include: ../navbar.org
 
 * Kingdom of Tanquende
+#+caption: City of Tanquende, the capital of Tanquende
+#+attr_org: :width 800
+#+attr_html: :id pic-banner :alt Tanquende :width 100%
+#+attr_latex: :width 350px
+[[file:img/Kingdom of Tanquende.jpg]]
+
 - Capital City :: [[../Places/City of Tanquende.org][Tanquende]]
 - Ruler :: Tanamil [[../Characters/Elenya Ilírelya.org][Elenya Ilírelya]]
 Welcome to the Kingdom of Tanquende, a realm nestled in the far west of the known world. This Elven kingdom is primarily inhabited by the Hallashim, often referred to as the High Elves, who have a rich and storied history in the annals of Naurrnen.

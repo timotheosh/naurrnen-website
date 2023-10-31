@@ -1,6 +1,7 @@
 #+title: Aravenna Leafwhisper
 #+startup: inlineimages
 #+include: ../navbar.org
+
 * Aravenna Leafwhisper
 #+html: <div class="wrap-right-img">
 #+caption: Aravenna Leafwhisper

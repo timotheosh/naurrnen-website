@@ -1,0 +1,53 @@
+#+title: Fantasy Feeder 2
+** Literacy
+*** Libraries in Naurrnen
+**** Printing Press
+The printing press in Naurrnen has been around for over a hundred years. Newspapers are printed and delivered throughout the Gran Imperio and the Kingdom of Tanquende.
+**** Providential Libraries
+***** Ornasion, Gran Imperio
+This is the largest library in Naurrnen. It consists of a large citidel, with a castle and towers. It is primarily run by the Gran Imperio's Archivist Guild. The citidel consists of thousands of rooms deep under the surface of the city, and far into the chambers above the ground. Most of the transcriptions of the ancient books in Laurië Citime have been purchased and stored at this library.
+****** The Archivist Guild: Guardians of Knowledge
+The Archivist Guild is the esteemed institution that serves as the backbone of Ornasion, the Citadel of Wisdom. Established in antiquity, this guild is a collective of the realm's most distinguished scholars, librarians, and documentarians whose primary mission is to preserve, catalog, and disseminate the vast reserves of knowledge stored within the city. With a focus that transcends mere bookkeeping, the Archivist Guild is committed to the promotion of intellectual curiosity and scholarly exchange across all disciplines.
+
+Members of the guild undergo rigorous training in disciplines ranging from archival science to arcane arts, ensuring they possess the expertise required to maintain the complex web of knowledge housed in Ornasion. These archivists are more than just caretakers; they are mentors, guiding young scholars through the labyrinthine corridors of wisdom, and acting as mediators in intellectual debates and forums.
+
+Once a year, the guild organizes the "Conclave of Quills," an international symposium that invites scholars, historians, and researchers from far and wide to present their work, fostering an environment of academic collaboration and groundbreaking discoveries.
+
+Additionally, the guild employs an elite force of mage-guards specially trained to safeguard the invaluable treasures of Ornasion. Utilizing a unique blend of martial skill and arcane knowledge, these mage-guards ensure the sanctity and security of one of Naurrnen's most invaluable resources.
+
+The Archivist Guild is not just an organization; it's a living testament to Naurrnen’s commitment to the pursuit of knowledge. Through its ceaseless efforts, the guild ensures that the flame of intellectual inquiry continues to burn bright for future generations.
+
+**** Laurië Citime, Kingdon of Tanquende (Capital of Tanquende)
+One of the oldest libraries in Naurrnen. Contains some of the oldest volumes known to civilization. There is also the largest Transcript guild within the city. The Transcript guild tries to make exact copies of the most ancient books within the library in an effort to preserve the books. They also make copies available to the printing presses, but these are considered inferior to the original books. Symbols, pictures, and sketches are of equal value to the printed word, and a book with just the printed word, contains only half the worth of the original. Lithography has been strictly prohibited within the Kingdom of Tanquende, so mass producing images in these arcane books are not currently legally possible. This also artificially inflates the value of the book copies made by the Transcript guilds.
+***** The Transcript Guild: Preservers of Ancient Wisdom
+#+begin_quote
+In the ink of the ancients, the state finds its roots; in the reverence of their spirit, it stands with unyielding bones. -- Valandur
+#+end_quote
+
+While the Adama make no qualms for mass producing texts with its printing and lithography presses, the Hallishim pride themselves in handcrafted texts. They belive there is a certain transfer of life or spirituality in hand crafted facsimiles of the most ancient texts in the history of Naurrnen.
+
+Headquarted in the [[file:../Places/laurie-citime.org][ancient Laurië Citime library]], the Transcript Guild serves as a vanguard for the conservation and duplication of some of the most ancient and irreplaceable texts known to civilization. This esteemed institution is a sanctuary for scribes, artists, and scholars dedicated to the meticulous art of transcribing ancient works. While many guilds focus on the creation of new knowledge, the Transcript Guild specializes in the preservation of old wisdom, ensuring that it survives the ravages of time and circumstance.
+
+Apprentices undergo years of stringent training, learning not only the art of exacting transcription but also mastering the antiquated languages and deciphering complex symbols and images. Among the Hallishim, it's a widely accepted notion that a text loses half its value when the rich tapestry of its original presentation is lost. Lithography may be forbidden within the Kingdom of Tanquende, but the hand-crafted volumes produced by the guild are considered invaluable, not just for their content but for their artisanal quality.
+
+The guild enjoys a special partnership with the Archivist Guild of Ornasion, often exchanging texts and discoveries to further the preservation of knowledge across Naurrnen. The Transcript Guild also holds a sacred duty to analyze the encrypted riddles and codes found in works like "The Ameara" by Bayetti Falasha, seeking keys to unlock the deep secrets of the past.
+
+In essence, the Transcript Guild is more than a guild; it is a living link between past and future, a bridge that allows the wisdom of ancient civilizations to enlighten the minds of generations yet unborn.
+
+****** Purpose:
+To preserve and propagate the ancient art of handcrafted documentation, and to instill a spiritual connection with the art of writing.
+
+****** History:
+Founded by Valandur, the guild finds its origins in the early days of the Laurië Citime library. Valandur, having been inspired by the indestructible ruins of the Amearans, wanted to ensure that the knowledge of Naurrnen wouldn't be as easily lost.
+
+****** Training:
+Initiates undergo rigorous training not just in the art of writing but in understanding the spirituality of preservation. The final test to become a master scribe involves replicating a text in the ancient style, with the belief that part of the writer's spirit will imbue the document.
+
+****** Guild Emblem:
+The emblem could be a stylized quill intertwined with an ancient Amearan rune or symbol, representing the unity of the new and the old.
+
+****** Duties:
+Beyond just writing, the guild also takes on the responsibility of verifying the authenticity of ancient texts, ensuring they haven't been tampered with or modified over the years.
+
+******* Beliefs:
+Members of the guild believe that each piece of knowledge carries with it a part of the writer's spirit and that preserving this knowledge is akin to keeping the writer's spirit alive.

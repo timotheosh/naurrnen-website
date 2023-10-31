@@ -52,6 +52,8 @@
 - Historical
   - [[file:Characters/Valandur.org][Valandur]]
   - [[file:Characters/Bayetti Falasha.org][Bayetti Falasha]]
+  - [[file:Characters/Eolande Altherion.org][Eolande Altherion]]
+  - [[file:Characters/Thalion Veyreth.org][Thalion Veyreth]]
   - [[file:Characters/legend-of-naethanor.org][Legend Of Naethanor]]
 - Factions
   - Political: Gran Imperio

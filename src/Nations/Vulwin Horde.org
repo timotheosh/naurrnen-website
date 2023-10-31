@@ -3,6 +3,12 @@
 #+include: ../navbar.org
 
 * Vulwin Horde
+#+caption: Bellgrald (The Great Forest) in Vulwin Horde Territory
+#+attr_org: :width 800
+#+attr_html: :id pic-banner :alt Bellgrald (The Great Forest) :width 100%
+#+attr_latex: :width 350px
+[[file:img/Vulwin Horde.jpg]]
+
 - Capiral City :: [[../Places/Silvethra.org][Silvethra]]
 - Leader :: [[../Characters/Aravenna Leafwhisper.org][Aravenna Leafwhisper]]
 Nestled on the western border of the Kingdom of Tanquende, the Vulwin Horde is a community of Taurashim, also known as Wood Elves. They are renowned for their deep connection with the ancient forests that blanket their territory, particularly Bellgrald Forest, an enigmatic and awe-inspiring realm of towering trees and mysterious creatures.

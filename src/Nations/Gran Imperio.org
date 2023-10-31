@@ -3,6 +3,12 @@
 #+include: ../navbar.org
 
 * Gran Imperio
+#+caption: Ponte Cidade, the gleaming capital of the Gran Imperio
+#+attr_org: :width 800
+#+attr_html: :id pic-banner :alt Ponte Cidade :width 100%
+#+attr_latex: :width 350px
+[[./img/Gran Imperio.jpg]]
+
 - Capital City :: [[file:../Places/ponte-cidade.org][Ponte Cidade]]
 - Ruler :: Emperor [[../Characters/Eradan Dadhain.org][Eradan Dadhain]]
 In the heart of Naurrnen lies the Gran Imperio, often referred to as the "human empire." However, it's a realm that defies easy classification, as it embodies true pluralism and inclusivity, welcoming various races and cultures within its borders. This mighty empire is characterized by a relatively robust monarchy that governs its diverse populace.
