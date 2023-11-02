@@ -2,6 +2,9 @@
 #+startup: inlineimages
 #+include: ../navbar.org
 * Ornasion Library
+:PROPERTIES:
+:CATEGORY: Gran_Imperio
+:END:
 #+caption: The Gate (or entrance) inside Ornasion Library
 #+attr_org: :width 800
 #+attr_html: :id pic-banner :alt Inside Ornasion Library :width 100%

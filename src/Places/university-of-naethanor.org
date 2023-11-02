@@ -2,6 +2,9 @@
 #+startup: inlineimages
 #+include: ../navbar.org
 * University of Naethanor
+:PROPERTIES:
+:CATEGORY: Gran_Imperio
+:END:
 #+caption: The Quadrangle in the University of Naethanor
 #+attr_org: :width 800
 #+attr_html: :id pic-banner :alt Quadrangle of Naethanor :width 100%

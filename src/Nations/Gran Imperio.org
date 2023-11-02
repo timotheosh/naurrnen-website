@@ -3,6 +3,9 @@
 #+include: ../navbar.org
 
 * Gran Imperio
+:PROPERTIES:
+:CATEGORY: Gran_Imperio
+:END:
 #+caption: Ponte Cidade, the gleaming capital of the Gran Imperio
 #+attr_org: :width 800
 #+attr_html: :id pic-banner :alt Ponte Cidade :width 100%
