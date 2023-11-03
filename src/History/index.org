@@ -6,7 +6,7 @@
 #+attr_org: :width 800
 #+attr_html: :id pic-banner :alt Image of Amearan ruins :width 100%
 #+attr_latex: :width 350px
-[[file:img/amearan_ruin-1.png]]
+[[file:img/amearan_ruin-1.jpg]]
 
 In the heart of a mysterious universe lies Naurrnen, a world veiled in layers of history, myth, and enigma. Its past unfolds across three distinct eras, each contributing its unique imprints to the civilization's intricate tapestry. The first era is shrouded in antiquity, ruled by the mythical Amearans—beings of lore whose existence is more speculation than fact. Yet, the ruins and artifacts they supposedly left behind confound scholars to this day. In reality, these remnants belonged to a super-advanced society that vanished long before Naurrnen's present-day inhabitants came to be, but the populace remains ignorant of these sci-fi roots.
 

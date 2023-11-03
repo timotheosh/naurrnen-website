@@ -6,7 +6,7 @@
 #+attr_org: :width 800
 #+attr_html: :id pic-banner :alt Image of ruins :width 100%
 #+attr_latex: :width 350px
-[[file:img/Lisse of an ancient Elven City.png]]
+[[file:img/Lisse of an ancient Elven City.jpg]]
 
 The Second Era in the annals of Naurrnen's history is often seen as a paradoxical period. Known as the Age of Elven Ascendancy, it was a time when High Elves of Áyliaremma rose to unparalleled heights of intellectual, magical, and martial prowess, yet it was also a time marred by social injustice, including the enslavement of other races.
 

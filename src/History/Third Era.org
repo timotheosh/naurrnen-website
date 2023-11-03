@@ -6,7 +6,7 @@
 #+attr_org: :width 800
 #+attr_html: :id pic-banner :alt Image of Ponte Cidade :width 100%
 #+attr_latex: :width 350px
-[[file:img/Ponte Cidade 2.png]]
+[[file:img/Ponte Cidade 2.jpg]]
 
 The dawn of the Third Era heralded an age of transformation, one that would rectify many of the imbalances that had plagued Naurrnen during the time of Elven supremacy. Named the Age of Naethanor Ascendancy, it was a period defined by unity, peace, and the flourishing of multiple races under the benevolent rule of the Naethanor Empire. In stark contrast to the Elven regimes of old, the Naethanors cultivated an ethos of tolerance, freedom, and equitable trade, dismantling the systemic injustices that had marred the previous era.
 

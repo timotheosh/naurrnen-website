@@ -10,7 +10,7 @@
 #+attr_org: :width 800
 #+attr_html: :id pic-banner :alt Main port in Ponte Cidade :width 100%
 #+attr_latex: :width 350px
-[[./img/Ponte_Cidade_Banner.png]]
+[[./img/Ponte_Cidade_Banner.jpg]]
 
 Step into Naurrnen, a realm shrouded in enigmas and ancient lore, a landscape at once fantastical and unnervingly mysterious. Here, the whispering winds carry tales of long-lost civilizations, cities built on the foundations of unknown ancestors, and heroes whose names echo across time. Naurrnen is an uncharted playground that beckons storytellers, and game designers alike to unearth its arcane secrets, be they buried in the cryptic riddles of Elven poems or in the metallic sheen of an unfamiliar mineral.
 

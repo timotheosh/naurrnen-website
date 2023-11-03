@@ -2,6 +2,7 @@ body {
   background-color: #1c1d26;
   color: #999999;
   font-family: "Oldenburg";
+  margin: 0 20px;
 }
 
 h1.title {
@@ -22,6 +23,11 @@ div.outline-2 h2 {
 
 img#pic-header {
   width: 100%;
+  margin: 0 20px;
+}
+
+img {
+  border-radius: 10px;
 }
 
 div#content {
@@ -209,10 +215,9 @@ div.outline-2 div.outline-text-2 button.collapsible {
 }
 
 blockquote p {
-  font-style: italics;
+  font-weight: bold;
+  font-style: italic;
 }
-
-
 
 div#postamble {
   border: 2px solid #999999;

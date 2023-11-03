@@ -6,7 +6,7 @@
 #+attr_org: :width 800
 #+attr_html: :id pic-banner :alt Great Library of Ornasion :width 100%
 #+attr_latex: :width 350px
-[[file:img/Ornasion-library-4.png]]
+[[file:img/Ornasion-library-4.jpg]]
 
 In the world of Naurrnen, the written word holds a sanctified place, and its archives are a treasure trove of histories, myths, and scholarly discoveries. Among these, two works hold a central place in defining the world's intellectual heritage. [[file:../Characters/Bayetti Falasha.org::*Bayetti Falasha][Bayetti Falasha]]'s poetic collections are not just verses; they are the dreams and philosophies of an ancient Elven civilization, captured in eloquent language. Her writings hold subtle clues about the mysterious Athalorion ruins, beckoning scholars and adventurers alike to delve into their secrets.
 

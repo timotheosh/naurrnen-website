@@ -6,7 +6,7 @@
 #+attr_org: :width 800
 #+attr_html: :id pic-banner :alt Image of ancient ruins :width 100%
 #+attr_latex: :width 350px
-[[file:img/amearan-ruin-2.png]]
+[[file:img/amearan-ruin-2.jpg]]
 
 In the annals of Naurrnen's sprawling history, the First Era emerges as a monumental but enigmatic age. This age is ascribed to the legendary civilization of the Amearans, a people who, as lore and ruins suggest, possessed wisdom, artistry, and powers unparalleled. Though their very existence is relegated to the haze of myth and the findings of scholarly antiquarians, the legacies attributed to these lost people persist in a myriad of forms, inspiring awe, veneration, and a ceaseless quest for understanding.
 
