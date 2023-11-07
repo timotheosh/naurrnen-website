@@ -1,6 +1,7 @@
 #+title: Laurië Citime
 #+startup: inlineimages
 #+include: ../navbar.org
+
 * Laurië Citime
 #+caption: The Main Entrance to the Library Laurië Citime
 #+attr_org: :width 800
