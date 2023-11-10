@@ -1,6 +1,7 @@
 #+title: Valandur
 #+startup: inlineimages
 #+include: ../navbar.org
+
 * Valandur
 #+html: <div class="wrap-right-img">
 #+caption: Valandur

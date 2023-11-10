@@ -1,6 +1,7 @@
 #+title: Faelinoril Galathil
 #+startup: inlineimages
 #+include: ../navbar.org
+
 * Faelinoril Galathil
 #+html: <div class="wrap-right-img">
 #+caption: Faelinoril Galathil in his study

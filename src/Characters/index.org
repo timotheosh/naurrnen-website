@@ -1,6 +1,7 @@
 #+title: Characters
 #+startup: inlineimages
 #+include: ../navbar.org
+
 * Characters of Naurrnen
 #+html: <div class="wrap-left-img">
 #+caption: Treasure Hunters in the Desert of Kaukloutan

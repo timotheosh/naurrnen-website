@@ -1,6 +1,7 @@
 #+title: Elias Vashdro
 #+startup: inlineimages
 #+include: ../navbar.org
+
 * Elias Vashdro
 #+html: <div class="wrap-right-img">
 #+caption: Elias Vashdro

@@ -1,6 +1,7 @@
 #+title: Places: Introduction
 #+startup: inlineimages
 #+include: ../navbar.org
+
 * Places: Introduction
 #+attr_org: :width 800
 #+attr_html: :id pic-banner :alt The Elven Capital City, Tanquende :width 100%

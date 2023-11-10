@@ -1,6 +1,7 @@
 #+title: University Of Naethanor
 #+startup: inlineimages
 #+include: ../navbar.org
+
 * University of Naethanor
 :PROPERTIES:
 :CATEGORY: Gran_Imperio

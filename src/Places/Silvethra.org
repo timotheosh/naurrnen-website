@@ -2,6 +2,7 @@
 #+title: City Of Tanquende
 #+startup: inlineimages
 #+include: ../navbar.org
+
 * Silvethra
 #+caption: Ciy of Silvethra
 #+attr_org: :width 800

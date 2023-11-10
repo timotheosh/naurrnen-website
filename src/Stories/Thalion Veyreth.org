@@ -1,6 +1,4 @@
 #+title: Thalion Veyreth
-#+startup: inlineimages
-#+include: ../navbar.org
 
 * Thalion Veyreth
 ** Thalion's Learning Phase:

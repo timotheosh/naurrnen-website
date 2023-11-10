@@ -1,6 +1,7 @@
 #+title: Ornasion Library
 #+startup: inlineimages
 #+include: ../navbar.org
+
 * Ornasion Library
 :PROPERTIES:
 :CATEGORY: Gran_Imperio

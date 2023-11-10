@@ -1,6 +1,7 @@
 #+title: Lunara Vashdro
 #+startup: inlineimages
 #+include: ../navbar.org
+
 * Lunara Vashdro
 #+html: <div class="wrap-right-img">
 #+caption: Lunara Vashdro

@@ -1,6 +1,7 @@
 #+title: Verbal Tapestry: Exploring The Philosophy Of Language
 #+startup: inlineimages
 #+include: ../navbar.org
+
 * Verbal Tapestry: Exploring The Philosophy Of Language by [[../Characters/Siobhán MacAuley.org][Siobhán MacAuley]]
 Nestled within the hallowed halls of academia, there exists a profound tapestry of wisdom that transcends the realms of practicality and soars into the lofty domains of philosophy and language. It is a tapestry woven not by the hands of ordinary scholars but by the extraordinary intellect of [[../Characters/Siobhán MacAuley.org][Siobhán MacAuley]], a luminary whose thirst for knowledge knows no bounds.
 

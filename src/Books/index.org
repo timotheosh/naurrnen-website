@@ -1,6 +1,7 @@
 #+title: Introduction: Books
 #+startup: inlineimages
 #+include: ../navbar.org
+
 * Introduction: Books
 #+caption: Main lobby inside the Great Library of Ornasion
 #+attr_org: :width 800

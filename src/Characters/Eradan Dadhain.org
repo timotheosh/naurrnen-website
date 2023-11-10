@@ -2,6 +2,7 @@
 #+title: Faelinoril Galathil
 #+startup: inlineimages
 #+include: ../navbar.org
+
 * Eradan Dadhain
 #+html: <div class="wrap-right-img">
 #+caption: Oil Painting of Emperor Eradan Dadhain

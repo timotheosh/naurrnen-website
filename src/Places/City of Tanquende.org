@@ -1,6 +1,7 @@
 #+title: City Of Tanquende
 #+startup: inlineimages
 #+include: ../navbar.org
+
 * City of Tanquende
 #+caption: City of Tanquende
 #+attr_org: :width 800

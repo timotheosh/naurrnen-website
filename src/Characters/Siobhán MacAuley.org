@@ -1,6 +1,7 @@
 #+title: Siobhán MacAuley
 #+startup: inlineimages
 #+include: ../navbar.org
+
 * Siobhán MacAuley
 #+html: <div class="wrap-right-img">
 #+caption: Siobhán MacAuley
