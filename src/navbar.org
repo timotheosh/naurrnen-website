@@ -45,7 +45,7 @@
 :HTML_HEADLINE_CLASS: absent
 :END:
 #+HTML: <button class="dropdown-btn" id="Characters">Characters
-#+HTML:   <i class=fa fa-caret-down"></i>
+#+HTML:   <i class="fa fa-caret-down"></i>
 #+HTML: </button>
 #+HTML: <div class="dropdown-container">
 - [[file:Characters/index.org][Introduction: Characters]]
@@ -77,7 +77,7 @@
 :HTML_HEADLINE_CLASS: absent
 :END:
 #+HTML: <button class="dropdown-btn" id="Factions">Factions
-#+HTML:   <i class=fa fa-caret-down"></i>
+#+HTML:   <i class="fa fa-caret-down"></i>
 #+HTML: </button>
 #+HTML: <div class="dropdown-container">
 - Nations
@@ -95,7 +95,7 @@
 :HTML_HEADLINE_CLASS: absent
 :END:
 #+HTML: <button class="dropdown-btn" id="History">History
-#+HTML:   <i class=fa fa-caret-down"></i>
+#+HTML:   <i class="fa fa-caret-down"></i>
 #+HTML: </button>
 #+HTML: <div class="dropdown-container">
 - [[file:History/index.org][Introduction to Naurrnen's History]]
@@ -108,7 +108,7 @@
 :HTML_HEADLINE_CLASS: absent
 :END:
 #+HTML: <button class="dropdown-btn" id="Metals">Metals
-#+HTML:   <i class=fa fa-caret-down"></i>
+#+HTML:   <i class="fa fa-caret-down"></i>
 #+HTML: </button>
 #+HTML: <div class="dropdown-container">
 - [[file:Metals/index.org][Metals of Naurrnen]]
@@ -118,7 +118,7 @@
 :HTML_HEADLINE_CLASS: absent
 :END:
 #+HTML: <button class="dropdown-btn" id="Places">Places
-#+HTML:   <i class=fa fa-caret-down"></i>
+#+HTML:   <i class="fa fa-caret-down"></i>
 #+HTML: </button>
 #+HTML: <div class="dropdown-container">
 - [[file:Places/index.org][Introduction to places]]
@@ -136,7 +136,7 @@
 :HTML_HEADLINE_CLASS: absent
 :END:
 #+HTML: <button class="dropdown-btn" id="Races">Races
-#+HTML:   <i class=fa fa-caret-down"></i>
+#+HTML:   <i class="fa fa-caret-down"></i>
 #+HTML: </button>
 #+HTML: <div class="dropdown-container">
 - [[file:Races/index.org][Races]]
@@ -146,7 +146,7 @@
 :HTML_HEADLINE_CLASS: absent
 :END:
 #+HTML: <button class="dropdown-btn" id="Stories">Stories
-#+HTML:   <i class=fa fa-caret-down"></i>
+#+HTML:   <i class="fa fa-caret-down"></i>
 #+HTML: </button>
 #+HTML: <div class="dropdown-container">
 - [[file:Stories/index.org][Stories]]
@@ -156,7 +156,7 @@
 :HTML_HEADLINE_CLASS: absent
 :END:
 #+HTML: <button class="dropdown-btn" id="Secrets">Secrets
-#+HTML:   <i class=fa fa-caret-down"></i>
+#+HTML:   <i class="fa fa-caret-down"></i>
 #+HTML: </button>
 #+HTML: <div class="dropdown-container">
 - [[file:Secrets/index.org][Naurrnen's Forgotten Past]]
