@@ -2,4 +2,4 @@
 #+HTML_HEAD: <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oldenburg" />
 #+HTML_HEAD: <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Dosis" />
 #+HTML_HEAD: <link rel="stylesheet" href="/styles/main.css" />
-#+HTML_HEAD: <script type="text/javascript> src="/js/main.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="/js/main.js"></script>
