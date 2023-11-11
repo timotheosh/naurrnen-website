@@ -1,5 +1,5 @@
 #+INCLUDE: setup.org
-#+HTML: <script>
+#+HTML: <script type="text/javascript">
 #+HTML: addEventListener("load", expandRootMenu);
 #+HTML: addEventListener("load", toggleContainer);
 #+HTML: </script>
