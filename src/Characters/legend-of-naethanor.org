@@ -30,7 +30,7 @@ Elirandel's departure sent ripples through Elven society, marking her both as a 
 #+html: <div class="wrap-right-img">
 #+caption:  Statue of Cormac Naethanor in the Auditorium at the University of Naethanor
 #+attr_org: :width 300
-#+attr_html: :alt Image of a statue of Elirandel Naethanor :width 100%
+#+attr_html: :alt Image of a statue of Cormac Naethanor :width 100%
 #+attr_latex: :width 200px
 [[./img/Cormac-Naethanor.jpg]]
 #+html: </div>
