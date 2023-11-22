@@ -1,12 +1,14 @@
+---
 Title: Legent of Naethanor
 Category: Characters
-Faction: Historical: Aeritha Empire
-         Historical: Gran Imperio
-
+Faction:
+   - "Historical: Aeritha Empire" 
+   - "Historical: Gran Imperio"
 ---
-<div id="EliraNaethanor">
-# Elira Naethanor
-</div>
+
+# Legend of Naethanor
+
+## Elira Naethanor
 
 <div class="wrap-left-img">
 <figure class="pic-banner">
@@ -30,10 +32,7 @@ Elirandel&rsquo;s departure sent ripples through Elven society, marking her both
 
 <br style="clear:both;" />
 
-
-<div id="CormacNaethanor">
-# Cormac Naethanor
-</div>
+## Cormac Naethanor
 
 <div class="wrap-right-img">
 <figure class="pic-banner">

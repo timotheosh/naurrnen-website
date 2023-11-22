@@ -1,0 +1,23 @@
+---
+Title: Horde Gwennath
+Category: Factions
+Nation: Vulwin Horde
+---
+
+# Horde Gwennath
+
+-   **Leader:** [Chieftan Verenar Darkthorn](../Characters/chieftan-verenar-darkthorn.md)
+
+The hunting clan of the Taurashim.
+
+-   Survival Experts: Horde Gwennath is renowned for its exceptional hunting and foraging skills. Members of this hord are experts in tracking and capturing game, finding edible plants, and navigating the dense forest.
+-   Resource Providers: The primary role of Horde Gwennath is to ensure the Vulwin Horde&rsquo;s sustenance. They are responsible for procuring food, herbs, and other essential resources from the Bellgrald Forest.
+-   Woodland Lore: Horde Gwennath possesses extensive knowledge of the forest&rsquo;s flora and fauna. They know which plants are medicinal, which are poisonous, and how to use various natural resources for crafting and survival.
+-   Silent Stalkers: Members of this hord are known for their stealth and silence in the forest. They can move quietly through the underbrush and are skilled archers, making them formidable hunters.
+-   Harmonious with Nature: Horde Gwennath has a deep respect for the forest and its creatures. They believe in living in harmony with nature and taking only what is necessary to sustain the tribe.
+-   Cultural Custodians: Horde Gwennath is the keeper of the Vulwin Horde&rsquo;s ancient traditions, myths, and rituals. They are the cultural custodians, ensuring that the rich heritage of the tribe is passed down to future generations.
+-   Oral Historians: Members of this hord are skilled storytellers and orators. They use the art of storytelling to preserve the history and legends of the Vulwin Horde. They gather around campfires to share tales of their ancestors and the great deeds of their people.
+-   Spiritual Guardians: Horde Gwennath is deeply spiritual, maintaining a strong connection to the forest and its mystical elements. They conduct ceremonies and rituals to honor the woodland spirits and seek their guidance in times of need.
+-   Ritualistic Tattoos: Members of this hord often bear intricate tattoos that depict their personal and tribal history. These tattoos are considered sacred, and each one tells a unique story.
+-   Traditional Crafts: Horde Gwennath specializes in crafting traditional items like ceremonial masks, totem poles, and intricate jewelry. They use natural materials found in the Bellgrald Forest to create these artifacts.
+

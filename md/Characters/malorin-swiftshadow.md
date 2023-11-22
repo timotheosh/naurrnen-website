@@ -1,11 +1,12 @@
+---
 Title: Malorin Swiftshadow
 Category: Characters
 Faction: Vulwin Horde
 Subfaction: Horde Thalrinder
 Race: Taurashim
 Eneagram: 8
-
 ---
+
 # Malorin Swiftshadow
 
 <div class="wrap-right-img">

@@ -1,10 +1,8 @@
+---
 Title: In Áyliaremma's Footsteps
 Category: Books
-
+Processor: markdown-clj
 ---
-<script type="javascript">
-addEventListener("load", collapsableContainers);
-</script>
 
 # In Áyliaremma's Footsteps by [Faelinoril Galathil](../Characters/faelinoril-galathil.md)
 
@@ -40,5 +38,7 @@ As I share these discoveries with you, dear reader, I implore you to approach th
 In the spirit of intellectual pursuit, let us embark on this journey together. Let us follow in the footsteps of those who came before us, seeking to unravel the enigma of the Amearans. Through the lens of their language, let us glimpse the shadows of their civilization, and in doing so, illuminate the path to a richer, more profound understanding of our world&rsquo;s history.
 
 In these pages, the past meets the present, and the whispers of the Amearans echo through the ages. Welcome, dear reader, to the exploration of Áyliaremma&rsquo;s secrets—a journey that will forever alter the course of our intellectual pursuit.
-
 </div>
+<script type="text/javascript">
+addEventListener("load", collapsableContainers);
+</script>

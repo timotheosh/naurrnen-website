@@ -1,8 +1,8 @@
+---
 Title: Lunara Vashdro
 Category: Characters
 Race: Mochveneba
 Eneagram: 4
-
 ---
 
 # Lunara Vashdro

@@ -1,10 +1,12 @@
+---
 Title: Eolande Altherion
 Race: Hallashim
-Faction: History: Aeritha Empire
-         History: Hallashim resistance
+Faction: 
+   - "History: Aeritha Empire"
+   - "History: Hallashim resistance"
 Eneagram: 1
-
 ---
+
 # Eolande Altherion
 
 <div class="wrap-right-img">

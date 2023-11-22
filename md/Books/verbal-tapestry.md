@@ -1,7 +1,8 @@
+---
 Title: Verbal Tapestry
 Category: Books
-
 ---
+
 # Verbal Tapestry: Exploring The Philosophy Of Language by [Siobhán MacAuley](../Characters/siobhan-macauley.md)
 
 Nestled within the hallowed halls of academia, there exists a profound tapestry of wisdom that transcends the realms of practicality and soars into the lofty domains of philosophy and language. It is a tapestry woven not by the hands of ordinary scholars but by the extraordinary intellect of [Siobhán MacAuley](../Characters/siobhan-macauley.md), a luminary whose thirst for knowledge knows no bounds.

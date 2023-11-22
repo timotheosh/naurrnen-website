@@ -1,7 +1,8 @@
+---
 Title: Welcome to Naurrnen
 Category: Introduction
-
 ---
+
 # Welcome to Naurrnen
 
 <figure class="pic-banner">

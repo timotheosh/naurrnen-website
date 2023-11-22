@@ -9,7 +9,7 @@ The races within Naurrnen are fairly equal. Although Elves are known for their s
 #+html: <div class="wrap-left-img">
 #+caption:  Hallishim man at arms
 #+attr_org: :width 300
-#+attr_html: :alt Hallishim male :width 100%
+#+attr_html: :alt Image of an Hallishim male :width 100%
 #+attr_latex: :width 200px
 [[./img/hallishim-male.jpg]]
 
@@ -33,7 +33,7 @@ Anashim language has several dialects. The most common being that of the Hallash
 #+html: <div class="wrap-right-img">
 #+caption:  Taurashim Ranger
 #+attr_org: :width 300
-#+attr_html: :alt Taurashim female :width 100%
+#+attr_html: :alt Image of a Taurashim female :width 100%
 #+attr_latex: :width 200px
 [[./img/Taurashim-female-ranger.jpg]]
 **** Pantheon
@@ -48,7 +48,7 @@ Anashim language has several dialects. The most common being that of the Hallash
 #+html: <div class="wrap-left-img">
 #+caption:  Edama merchant
 #+attr_org: :width 300
-#+attr_html: :alt Edama merchant :width 100%
+#+attr_html: :alt Image of an Edama man :width 100%
 #+attr_latex: :width 200px
 [[./img/Edama-male-merchant.jpg]]
 
@@ -64,9 +64,9 @@ Men's language had been historically Hallashim, as man had been the slaves of ce
 #+html: <br style="clear:both;" />
 
 #+html: <div class="wrap-right-img">
-#+caption:  Durama scout
+#+caption:  A Durama scout
 #+attr_org: :width 300
-#+attr_html: :alt Durama scout :width 100%
+#+attr_html: :alt Image of a Durama scout :width 100%
 #+attr_latex: :width 200px
 [[./img/Durama-male-scout.jpg]]
 **** Pantheon
@@ -81,7 +81,7 @@ Men's language had been historically Hallashim, as man had been the slaves of ce
 #+html: <div class="wrap-left-img">
 #+caption:  Orc chieftan
 #+attr_org: :width 300
-#+attr_html: :alt Orc chieftan :width 100%
+#+attr_html: :alt Image of an Orc chieftan :width 100%
 #+attr_latex: :width 200px
 [[./img/Orc-chieftan.jpg]]
 

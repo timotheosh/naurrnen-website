@@ -1,10 +1,11 @@
+---
 Title: Siobhán MacAuley
 Category: Characters
 Race: Edama
 Faction: Gran Imperio Court
 Eneagram: 5
-
 ---
+
 # Siobhán MacAuley
 
 

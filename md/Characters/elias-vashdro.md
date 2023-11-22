@@ -1,7 +1,9 @@
+---
 Title: Elias Vashdro
 Category: Characters
 Race: Edama
 Eneagram: 7
+Faction: Vashdro Bounty Inc.
 
 ---
 

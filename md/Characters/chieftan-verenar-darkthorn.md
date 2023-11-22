@@ -1,10 +1,10 @@
+---
 Title: Chieftan Verenar Darkthorn
 Category: Characters
 Faction: Vulwin Horde
 Subfaction: Horde Gwennath
 Race: Taurashim
 Eneagram: 3
-
 ---
 
 # Chieftan Verenar Darkthorn

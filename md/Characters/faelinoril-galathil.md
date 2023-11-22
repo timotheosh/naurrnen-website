@@ -1,10 +1,11 @@
+---
 Title: Faelinoril Galathil
 Category: Characters
 Faction: Archiver's Guild
 Race: Hallashim
 Eneagram: 5
-
 ---
+
 # Faelinoril Galathil
 
 <div class="wrap-right-img">

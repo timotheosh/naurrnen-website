@@ -1,7 +1,8 @@
-Title: Introduction: Books
-Category: Books
-
 ---
+Title: "Introduction: Books"
+Category: Books
+---
+
 # Introduction: Books
 
 <figure class="pic-banner">

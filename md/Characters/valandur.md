@@ -1,8 +1,9 @@
+---
 Title: Valandur
 Catagory: Characters
-Faction: History: Late First Era
-
+Faction: "History: Late First Era"
 ---
+
 # Valandur
 
 <div class="wrap-right-img">
@@ -16,7 +17,7 @@ Faction: History: Late First Era
 -   **Age:** Deceased early Second Era
 -   **Race:** Hallashim
 -   **Occupation:** Esteemed ancient philosopher, scribe, lore-master of Laurië Citime, and its revered founder.
--   **Home:** Ancient Hallashim kingdom, founder of [Transcript Guild](../Factions/Transcript Guild.md) and
+-   **Home:** Ancient Hallashim kingdom, founder of [Transcript Guild](../Factions/transcript-guild.md) and
     the [Library Laurië Citime](../Places/laurie-citime.md)
 -   **Eneagram Scale:** Enneagram Number: 5 (The Investigator)
 
@@ -36,9 +37,6 @@ Hailing from a lineage of distinguished Hallashim loremasters, Valandur is remem
 Role in Naurrnen&rsquo;s Lore: Valandur, as the guardian of Laurië Citime&rsquo;s spirit, established its foundational principles. His writings, reminiscent of ancient wisdom-filled analects, guide generations in understanding the intrinsic value of handcrafted arts and literature. While details of his debates with early leaders and scholars might be obscured by time, his influence remains evident in the hand-preserved arts of Laurië Citime.
 
 Mystique: Whispers suggest a secret chamber within Laurië Citime, curated by Valandur, safeguarding his invaluable discoveries and creations, awaiting the chosen one to unearth.
-
-
-<a id="orgceb3503"></a>
 
 ### Valandur&rsquo;s Reflections
 

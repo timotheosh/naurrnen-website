@@ -1,7 +1,8 @@
+---
 Title: Vaabhath
 Category: Places
-
 ---
+
 # Vaabhath
 
 <figure class="pic-banner">
@@ -15,7 +16,7 @@ Vaabhath&rsquo;s heart beats to the rhythm of two life-giving rivers, Thurzayan 
 
 Upon approaching the city, one is greeted by a remarkable sight. Towering minarets and ornate domes rise above the palm trees and gardens that grace the city&rsquo;s edge. Vaabhath&rsquo;s architecture, a blend of traditional Dwarvish craftsmanship and local design, creates an ambiance of both grandeur and mystique. Narrow, winding streets lead to bustling markets, where merchants peddle exotic wares brought from the farthest reaches of Naurrnen.
 
-In the heart of the city, the bustling bazaar comes to life each day, a vibrant spectacle of colors, scents, and sounds. Here, traders from distant lands haggle over the finest materials, including [Garunzal](../Metals/index.md), [Sangorn](../Metals/index.md), and [Valmaur](../Metals/index.md), sought-after treasures that are unearthed from the depths of the rumored [Amearan](../History/First Era.md) ruins hidden beneath the desert&rsquo;s shifting sands. The clinking of coins and the hum of negotiation fill the air as merchants and travelers alike come to seek their fortunes.
+In the heart of the city, the bustling bazaar comes to life each day, a vibrant spectacle of colors, scents, and sounds. Here, traders from distant lands haggle over the finest materials, including [Garunzal](../Materials/index.md#garunzal), [Sangorn](../Materials/index.md#sangorn), and [Valmaur](../Materials/index.md#valmaur), sought-after treasures that are unearthed from the depths of the rumored [Amearan](../History/first-era.md) ruins hidden beneath the desert&rsquo;s shifting sands. The clinking of coins and the hum of negotiation fill the air as merchants and travelers alike come to seek their fortunes.
 
 Beyond the market, you&rsquo;ll find the towering spires of Vaabhath&rsquo;s grand libraries and academies. These centers of knowledge have been the pride of Gathashim culture for centuries, and they continue to draw scholars and seekers from across the realm. It&rsquo;s here that ancient texts are preserved, and the history of Naurrnen is carefully recorded.
 

@@ -1,11 +1,13 @@
+---
 Title: Ponte Cidade
 Category: Places
-
+Nation: Gran Imperio
 ---
+
 # Ponte Cidade
 
 <figure class="pic-banner">
-![City of Ponte Cidade](./img/Ponte-Cidade.jpg)
+![City of Ponte Cidade](./img/ponte-cidade.jpg)
 <figcaption>The great city of Ponte Cidade</figcaption>
 </figure>
 

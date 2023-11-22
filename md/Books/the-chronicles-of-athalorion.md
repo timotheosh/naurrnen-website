@@ -1,6 +1,7 @@
+---
 Title: The Chronicles of Athalorion
 Category: Books
-
+Processor: markdown-clj
 ---
 
 # The Chronicles of Athalorion: Unveiling the Secrets of an Ancient Civilization
@@ -10,7 +11,7 @@ by Tadhg MacMurchadha
 ## Arriving at the gates of Athalorion
 </div>
 <button type="button" class="collapsible">
-Preface to "In Áyliaremma's Footsteps"
+Arriving at the gates of Athalorion
 </button>
 <div class="collapsible-content">
 
@@ -36,7 +37,7 @@ Yet, as we ventured deeper into the heart of Athalorion, a haunting realization 
 ## Whispers in the moonlit city
 </div>
 <button type="button" class="collapsible">
-Preface to "In Áyliaremma's Footsteps"
+Whispers in the moonlit city
 </button>
 <div class="collapsible-content">
 
@@ -66,9 +67,7 @@ The elevator came to a stop deep below the city&rsquo;s surface, revealing a hid
 Our party ventured forth, guided by the echoes of the past and the tantalizing clues left behind by Falasha&rsquo;s enigmatic poems. With each step, we unraveled the secrets of the Ameara, forging a path into the heart of Athalorion&rsquo;s hidden history.
 
 But even as we marveled at the wonders that surrounded us, a sense of foreboding lingered. The whispers of the city&rsquo;s spectral presence grew stronger, as if the Ameara themselves watched and waited for our every move. We had unlocked the elevator, and with it, the door to a world of mysteries and revelations. But what lay ahead in the depths of Athalorion remained a riddle yet to be unraveled.
-
 </div>
-
 <script type="text/javascript">
 addEventListener("load", collapsableContainers);
 </script>

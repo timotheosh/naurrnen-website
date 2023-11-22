@@ -1,13 +1,15 @@
-Title: Kaukloutan Desert
-Category: Places
-
 ---
-# Kaukloutan Desert
+Title: The Kaukloutan Desert
+Category: Places
+---
+
+# The Kaukloutan Desert
 
 <figure class="pic-banner">
-![A trade caravan traveling the trail of tears in the Kaukloutan Desert](img/Caravan-traveling-the-perilous-Kauklatan-Desert.jpg)
-<figcaption>Main port of the city Ponte Cidade</figcaption>
+![Image of caravan in the Kaukloutan Desert](img/caravan-traveling-the-perilous-kauklatan-desert.jpg)
+<figcaption>A trade caravan traveling the trail of tears in the Kaukloutan Desert</figcaption>
 </figure>
+
 
 The Kaukloutan Desert, often referred to as the &ldquo;Sea of Cursed Silence,&rdquo; is a sprawling expanse of arid land that stretches across the heart of Naurrnen. It is a place wrapped in legend, whispered about in hushed tones in the far corners of bustling bazaars and ancient libraries. Thought to be a remnant of a long-gone civilization, perhaps even the elusive Amearans, its barren landscape is punctuated by arcane ruins and incomprehensible inscriptions.
 

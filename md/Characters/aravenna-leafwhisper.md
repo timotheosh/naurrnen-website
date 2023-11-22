@@ -1,11 +1,12 @@
+---
 Title: Aravenna Leafwhisper
 Category: Characters
 Faction: Vulwin Horde
 Subfaction: Horde Caelithra
 Race: Taurashim
 Eneagram: 5
-
 ---
+
 # Aravenna Leafwhisper
 
 <div class="wrap-right-img">
