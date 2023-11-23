@@ -10,7 +10,7 @@ function closeNav() {
 
 /* Returns the root directory of a page. */
 function getRootDir() {
-  let pathSegments = window.location.pathname.split('/');
+  var pathSegments = window.location.pathname.split('/');
   if (pathSegments.length > 2) {
     return pathSegments[1];
   } else {
@@ -20,13 +20,13 @@ function getRootDir() {
 
 
 function collapsableContainers() {
-  let coll = document.getElementsByClassName("collapsible");
-  let i;
+  var coll = document.getElementsByClassName("collapsible");
+  var i;
 
   for (i = 0; i < coll.length; i++) {
     coll[i].addEventListener("click", function () {
       this.classList.toggle("active");
-      let content = this.nextElementSibling;
+      var content = this.nextElementSibling;
       if (content.style.maxHeight) {
         content.style.maxHeight = null;
       } else {
@@ -38,9 +38,9 @@ function collapsableContainers() {
 
 function expandRootMenu() {
   // My dogfood
-  let path = getRootDir();
+  var path = getRootDir();
   if (path.length > 0) {
-    let element = document.getElementById(path);
+    var element = document.getElementById(path);
     element.classList.toggle("active");
     element.nextElementSibling.style.display = "block";
   }

@@ -2,26 +2,22 @@ body {
   background-color: #1c1d26;
   color: #999999;
   font-family: "Oldenburg";
+}
+
+article {
   margin: 0 20px;
+  padding: 5px 20px;
+  text-align: justify;
+  font-size: 18px;
 }
 
-h1.title {
+h1  {
   text-align: center;
+  font-size: 28px;
 }
 
-div.outline-2 h2 {
+article div figure img {
   text-align: center;
-}
-
-.figure-number { display: none; }
-
-.figure p {
-  text-align: center;
-  font-style: italic;
-  color: white;
-}
-
-img#pic-header {
   width: 100%;
   margin: 0 20px;
 }
@@ -30,19 +26,34 @@ img {
   border-radius: 10px;
 }
 
-div#content {
-  font-size: 18px;
-}
-
 a {
   text-decoration: none;
   color: #ffffff;
   font-style: bold;
 }
 
-div#content p a:hover {
-  text-decoration: underline;
-  color: red;
+figcaption {
+  color: #ffffff;
+  font-style: oblique;
+  font-weight: bold;
+  text-align: center;
+}
+
+footer {
+  border-style: double;
+  border: 5px solid #999999;
+  border-radius: 10px;
+}
+
+footer p {
+  text-align: center;
+  font-size: 14px;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.absent {
+  display: none;
 }
 
 /* The side navigation menu */
@@ -119,6 +130,7 @@ div#content p a:hover {
   margin-left: 50px;
 }
 
+/* Definition menus */
 dl {
   padding: 0.5em;
 }
@@ -139,7 +151,8 @@ dd {
   padding: 0 0 0.5em 0;
 }
 
-div.wrap-left-img div.figure {
+/* Image text wrapping */
+div.wrap-left-img {
   float: left;
   padding: 0.5em;
   margin-right: 2.0em;
@@ -147,7 +160,7 @@ div.wrap-left-img div.figure {
   word-wrap: normal;
 }
 
-div.wrap-right-img div.figure {
+div.wrap-right-img {
   float: right;
   padding: 0.5em;
   max-width: 45%;
@@ -162,11 +175,8 @@ div.wrap-img div.figure p {
   display: none;
 }
 
-div.outline-2 div.outline-text-2 button.collapsible {
-  font-weight: bold;
-}
-
-.content .collapsible {
+/* Style the button that is used to open and close the collapsible content */
+.collapsible {
   background-color: #777;
   color: white;
   cursor: pointer;
@@ -179,11 +189,12 @@ div.outline-2 div.outline-text-2 button.collapsible {
   font-size: 20px;
 }
 
-.content .active, .collapsible:hover {
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .collapsible:hover {
   background-color: #555;
 }
 
-.content .collapsible:after {
+.collapsible:after {
   content: '\002B';
   color: white;
   font-weight: bold;
@@ -191,11 +202,12 @@ div.outline-2 div.outline-text-2 button.collapsible {
   margin-left: 5px;
 }
 
-.content .active:after {
+.active:after {
   content: "\2212";
 }
 
-.content .collapsible-content {
+/* Style the collapsible content. Note: hidden by default */
+.collapsible-content {
   padding: 0 18px;
   max-height: 0;
   overflow: hidden;
@@ -203,31 +215,7 @@ div.outline-2 div.outline-text-2 button.collapsible {
   background-color: #111;
 }
 
-.content .collapsible-content blockquote {
+.collapsible-content blockquote {
   font-weight: bold;
   font-style: italic;
-}
-
-/* Style page content - use this if you want to push the page content to the right when you open the side navigation */
-#main {
-  transition: margin-left .5s;
-  padding: 20px;
-}
-
-blockquote p {
-  font-weight: bold;
-  font-style: italic;
-}
-
-div#postamble {
-  border: 2px solid #999999;
-  border-radius: 10px;
-  text-align: center;
-  text-size: 8px;
-}
-
-/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
-@media screen and (max-height: 450px) {
-  .sidenav {padding-top: 15px;}
-  .sidenav a {font-size: 18px;}
 }
