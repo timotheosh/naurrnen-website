@@ -43,13 +43,25 @@ footer {
   border-style: double;
   border: 5px solid #999999;
   border-radius: 10px;
+  display: flex;
+  justify-content: center; /* Center content horizontally */
+  align-items: center;
 }
 
 footer p {
-  text-align: center;
+  display: flex;       /* Enable flex layout */
+  align-items: center; /* Center items vertically */
+  margin-left: 10px;
   font-size: 14px;
   color: #ffffff;
   font-weight: bold;
+}
+
+.footer-img {
+  padding: 0.5em;
+  margin-right: 2.0em;
+  width: 100px;
+  word-wrap: normal;
 }
 
 .absent {

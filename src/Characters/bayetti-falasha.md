@@ -1,7 +1,7 @@
 ---
 Title: Bayetti Falasha
 Category: Characters
-Subcategories: Historical
+Subcategory: Historical
 Faction: "Historical: Aeritha Empire"
 Race: Hallashim
 Eneagram: 4

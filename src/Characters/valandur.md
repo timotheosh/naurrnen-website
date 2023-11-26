@@ -1,6 +1,6 @@
 ---
 Title: Valandur
-Catagory: Characters
+Category: Characters
 Faction: "History: Late First Era"
 ---
 
