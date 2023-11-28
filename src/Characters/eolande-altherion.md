@@ -1,5 +1,6 @@
 ---
 Title: Eolande Altherion
+Category: Characters
 Race: Hallashim
 Faction: 
    - "History: Aeritha Empire"

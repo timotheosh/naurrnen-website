@@ -1,6 +1,6 @@
 ---
 Title: Characters of Naurrnen
-Catageory: "Introduction: Characters"
+Category: "Introduction: Characters"
 ---
 
 # Characters of Naurrnen

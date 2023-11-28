@@ -1,5 +1,6 @@
 ---
 Title: Eradan Dadhain
+Category: Characters
 Race: Edama
 Faction: Gran Imperio Court
 Eneagram: 1

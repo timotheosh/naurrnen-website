@@ -1,7 +1,9 @@
 ---
 Title: Thalion Veyreth
 Race: Edama
-Category: "History: Gran Imperio"
+Category:
+    - Characters
+    - "History: Gran Imperio"
 Eneagram: 1
 ---
 
