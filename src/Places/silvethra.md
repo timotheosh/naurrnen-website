@@ -1,7 +1,5 @@
-Title: Silvethra
-Category: Places
 ---
-Title: Silvethra
+Title: City of Silvethra
 Nations: Vulwin Horde
 ---
 
