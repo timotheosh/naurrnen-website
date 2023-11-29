@@ -3,7 +3,7 @@ Title: Dathakhian Empire
 Category: Nations
 ---
 
-# Gran Imperio
+# Dathakhian Empire
 
 <figure class="pic-banner">
 ![Oil painting of Gurth](./img/dathakhian-empire-gurth-painting.jpg)
