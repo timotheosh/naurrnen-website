@@ -1,14 +1,29 @@
-<script>
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+	<title>Dathakhian Empire</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oldenburg" />
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Dosis" />
+    <link rel="stylesheet" href="/styles/main.css" />
+    <script src="/js/main.js"></script>
+</head>
+
+<body>
+	<nav><script>
   addEventListener("load", expandRootMenu);
   addEventListener("load", toggleContainer);
 </script>
 
-<span class="openbtn" style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
+<span class="openbtn" style="font-size:30px;cursor:pointer" onclick="openNav()">☰</span>
 <div id="side-nav" class="sidenav">
   <div id="outline-container-org4cd9f11" class="outline-2">
     <h2 id="org4cd9f11" class="absent"><span class="section-number-2">1.</span> Home</h2>
     <div class="outline-text-2" id="text-1">
-      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
       <a href="/index.html" class="dropdown-btn">Welcome to Naurrnen</a>
     </div>
   </div>
@@ -38,8 +53,8 @@
       <div class="dropdown-container">
         <ul class="org-ul">
           <li><a href="/Books/index.html">Introduction: Books</a></li>
-          <li><a href="/Books/the-ancient-ones.html">The Ameara (or &ldquo;The Ancient Ones&rdquo;) by Bayetti Falasha</a></li>
-          <li><a href="/Books/in-ayliaremmas-footsteps.html">In Áyliaremma&rsquo;s Footsteps</a></li>
+          <li><a href="/Books/the-ancient-ones.html">The Ameara (or “The Ancient Ones”) by Bayetti Falasha</a></li>
+          <li><a href="/Books/in-ayliaremmas-footsteps.html">In Áyliaremma’s Footsteps</a></li>
           <li><a href="/Books/trade-winds-of-prosperity.html">Trade Winds of Prosperity</a></li>
           <li><a href="/Books/verbal-tapestry.html">Verbal Tapestry</a></li>
           <li><a href="/Books/the-chronicles-of-athalorion.html">The Chronicles of Athalorion</a></li>
@@ -133,7 +148,7 @@
       </button>
       <div class="dropdown-container">
         <ul class="org-ul">
-          <li><a href="/History/index.html">Introduction to Naurrnen&rsquo;s History</a></li>
+          <li><a href="/History/index.html">Introduction to Naurrnen’s History</a></li>
           <li><a href="/History/first-era.html">First Era</a></li>
           <li><a href="/History/second-era.html">Second Era</a></li>
           <li><a href="/History/third-era.html">The Third Era: The Age of Reconciliation</a></li>
@@ -212,7 +227,7 @@
       </button>
       <div class="dropdown-container">
         <ul class="org-ul">
-          <li><a href="/Secrets/index.html">Naurrnen&rsquo;s Forgotten Past</a></li>
+          <li><a href="/Secrets/index.html">Naurrnen’s Forgotten Past</a></li>
           <li><a href="/Secrets/technologies.html">Technologies of the Setsafar Commonwealth</a></li>
         </ul>
       </div>
@@ -220,4 +235,17 @@
     </div>
   </div>
 </div>
-</div>
+
+</nav>
+	<main>
+		<section id="pageContent">
+			<article><div><div class="anchor" id="gran-imperio"><h1>Gran Imperio</h1></div><figure class="pic-banner"><img alt="Oil painting of Gurth" src="./img/dathakhian-empire-gurth-painting.jpg" /><figcaption>Oil painting of a great ancestor and a giant dipiction of Gurth, the god of the dead</figcaption>
+</figure><ul><li><strong>Capital City:</strong> <a href="../Places/city-of-gathendor.html">Gathen'dor</a></li></ul><p>The Dathakhian Empire, a realm shrouded in mystique, is a land where the Durashim—dark elves renowned for their reverence of the dead—reign. This respect ranges from solemn honor for the deceased to profound ancestor worship, infusing their culture with a somber gravitas. Their ceremonial garb mirrors this reverence: dark, elegant attire that reflects both the solemnity of their customs and the practicality needed for their role as guardians of the realm.</p><p>Durashim mercenaries, garbed in muted tones, are a common and formidable sight along the trade routes they fiercely protect. To outsiders, their austere presence commands a mixture of fear and reverence, yet those who venture beyond preconceptions find a people of unexpected humility and hospitality.</p><p>Despite their fearsome reputation, the Durashim hold a deep-seated sense of honor and fairness. Their magicians are as respected for their wisdom as their warriors are for their prowess. In battle, they are relentless, their spells as sharp as their blades. Yet, in the quiet of their mountain homes, they are scholars and artisans, their society a tapestry woven from threads of ancient tradition and the pursuit of arcane knowledge.</p><p>The Dathakhian Empire, with its noble inhabitants, stands as a testament to the complexity of the elven spirit—a place where darkness and light are not foes, but dance partners in the eternal ballet of life and death.</p></div></article>
+		</section>
+	</main>
+	<footer>
+		<p><a href="https://clojure.org"><img src="/img/made-with-lisp.png" class="footer-img" alt="Made with Lisp" /></a> --- Tim Hawes © 2023</p>
+	</footer>
+</body>
+
+</html>
