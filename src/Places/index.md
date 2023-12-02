@@ -7,7 +7,7 @@ Category: "Introduction: Places"
 
 <figure class="pic-banner">
 ![Image of the city of Tanquende](./img/places.jpg)
-<figcaption>The Elven City, Tanquende</figcaption>
+<figcaption>The Aelven City, Tanquende</figcaption>
 </figure>
 
 

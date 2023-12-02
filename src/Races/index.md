@@ -5,81 +5,8 @@ Category: Races
 
 # Races
 ## Primary Races
-The races within Naurrnen are fairly equal. Although Elves are known for their skills in magic, music, and crafting instruments and enchanted items, that does not mean one will find elves doing hard labor, exercising what strength they have. Orcs are generally favored for that sort of labor, as they tend to be more physically suited for the task. But not every Orc is physically built for this task, as not every Elf is well suited to the arts. Their are Orcs who take an interest in magic or music, as well. They are generally not as well suited as the Elves, but that is not to say, their are not Orcs that have better ears, or eyes than many Elves, or better minds for magic. These exceptions are generally blamed on half-breeds. Half-breeding has become so common in the age of man, no one really knows for sure who is a half-breed, or if one, who might think themselves as a pure-bred, is really a fourth or fifth generation mixed breed. What separates the races more than anything are their cultural identities.
+The races within Naurrnen are fairly equal. Although the Anashim are known for their skills in magic, music, and crafting instruments and enchanted items, that does not mean one will find the Anashim doing hard labor, exercising what strength they have. Orpa are generally favored for that sort of labor, as they tend to be more physically suited for the task. But not every Orpa is physically built for this task, as not every Anashim is well suited to the arts. There are Orpas who take an interest in magic or music, as well. They are generally not as well suited as the Anashim, but that is not to say, there are not Orpas that have better ears, or eyes than many Anashim, or better minds for magic. These exceptions are generally blamed on half-breeds. Half-breeding has become so common in the age of man, no one really knows for sure who is a half-breed, or if one, who might think themselves as a pure-bred, is really a fourth or fifth generation mixed breed. What separates the races more than anything are their cultural identities.
 
-### Anashim or Elf
-
-<div class="wrap-right-img">
-<figure class="pic-banner">
-![Image of an Hallishim male](./img/hallishim-male.jpg)
-<figcaption>Hallishim man at arms</figcaption>
-</figure>
-</div>
-
-1.  Language
-    
-    Anashim language has several dialects. The most common being that of the Hallashim.
-
-2.  Anashim Sub-races
-
-    1.  High Anashim: Hallashim
-    2.  Wood Anashim: Taurashim
-    3.  Dark Anashim: Durashim
-    4.  Cavern Anashim: Gathashim
-
-3.  Strengths
-
-    1.  Magic
-    2.  Art
-    3.  Architecture
-    4.  Music
-    5.  Crafts
-        -   Magical items
-        -   Musical instruments
-    
-    </div>
-    <br style="clear:both;" />
-    
-    <div class="wrap-left-img">
-    <figure class="pic-banner">
-    ![Image of a Taurashim female](./img/Taurashim-female-ranger.jpg)
-    <figcaption>Taurashim Ranger</figcaption>
-    </figure>
-    </div>
-
-4.  Pantheon
-
-    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-    <colgroup>
-    <col  class="org-left" />
-    <col  class="org-left" />
-    </colgroup>
-    <tbody>
-    <tr>
-    <td class="org-left"><b>Anor</b></td>
-    <td class="org-left">Highest father of vengeance.</td>
-    </tr>
-    <tr>
-    <td class="org-left"><b>Ithil</b></td>
-    <td class="org-left">Highest mother of justice. The great protector.</td>
-    </tr>
-    <tr>
-    <td class="org-left"><b>Gladys</b></td>
-    <td class="org-left">Goddess of nature.</td>
-    </tr>
-    <tr>
-    <td class="org-left"><b>Gurth</b></td>
-    <td class="org-left">God of the underworld. Friend of the dead.</td>
-    </tr>
-    <tr>
-    <td class="org-left"><b>Nostia</b></td>
-    <td class="org-left">Goddess of fertility.</td>
-    </tr>
-    </tbody>
-    </table>
-    
-    
-    <br style="clear:both;" />
 
 ### Adama or Man
 
@@ -92,7 +19,7 @@ The races within Naurrnen are fairly equal. Although Elves are known for their s
 
 1.  Language
 
-    Men&rsquo;s language had been historically Hallashim, as man had been the slaves of certain High Elf empires. But they did have a language of their own that differentiated them from their captors. That slave language evolved into a full-blown Adaman language or language of man. That language became known by the early third era as Malairt or &ldquo;trade&rdquo; language.
+    Men&rsquo;s language had been historically Hallashim, as man had been the slaves of certain Hallashim empires. But they did have a language of their own that differentiated them from their captors. That slave language evolved into a full-blown Adaman language or language of man. That language became known by the early third era as Malairt or &ldquo;trade&rdquo; language.
 
 2.  Sub-races
 
@@ -160,7 +87,7 @@ The races within Naurrnen are fairly equal. Although Elves are known for their s
 
 
 
-Known in elvish as Osunus, and to the humans as Orcs.
+Known in Hallashim as Osunus, and to the humans as Orpas.
 
 1.  Strengths
 
@@ -215,7 +142,7 @@ Known in elvish as Osunus, and to the humans as Orcs.
 </div>
 
 
-Mochveneba or &ldquo;ghost people&rdquo; are a minority ethnicity within Naurrnen. They are elf-like, in that they share many of the features that elven folk have, but they are well known for their physical prowness. Their skin is a deep red, with stripes. Similar to tiger stripes. In fact, legend outside the Mochveneba tribes, say they are crossbred elves with tigers. In reality, they are more than likely half-breeds. More than likely, half-elf, and half-something else. They have unusual stamina, so some speculate half-orc, though their uncommon beauty seems to indicate otherwise.
+Mochveneba or &ldquo;ghost people&rdquo; are a minority ethnicity within Naurrnen. They are anashim-like, in that they share many of the features that Anashim folk have, but they are well known for their physical prowness. Their skin is a deep red, with stripes. Similar to tiger stripes. In fact, legend outside the Mochveneba tribes, say they are crossbred Anashim with tigers. In reality, they are more than likely half-breeds. More than likely, half-anashim, and half-something else. They have unusual stamina, so some speculate half-orpa, though their uncommon beauty seems to indicate otherwise.
 
 The Mochveneba tribes are religious, and perhaps to most of the civilized world, somewhat superstitious. Mochveneba are spiritual and do not generally pursue material wealth. Those that do, are coveted for their beauty and brute strength.
 
@@ -242,5 +169,5 @@ The Mochveneba tribes are religious, and perhaps to most of the civilized world,
 
 Adaman is the (almost) universal tongue of Naurrnen. It is used amongst merchants, and mostly widely spoken in everyday communication within the Gran Imperio.
 
-### Hallashim, language of the Elves
+### Hallashim, language of the Aelves
 

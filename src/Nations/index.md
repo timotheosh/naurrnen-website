@@ -10,7 +10,7 @@ Category: "Introduction: Nations"
 Tribes of the Orpa (a.k.a the Orcs).
 
 ## Marches of Bounoshin
-Home of the Gathashim (the Cavern Elves or Dwarves). Territory to the far east of the known world.
+Home of the Gathashim (the Cavern Anashim). Territory to the far east of the known world.
 
 ## Commonwealth of Caria
 Home of the Palama (Pale men, or Nords).

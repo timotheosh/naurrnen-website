@@ -8,7 +8,7 @@ Nation: Vulwin Horde
 
 -   **Leader:** [Aravenna Leafwhisper](../Characters/aravenna-leafwhisper.md)
 
--   Diplomatic Expertise: Horde Caelithra excels in diplomacy and negotiation. They are known for their ability to establish peaceful relations with neighboring territories, including other races and elven kingdoms. Their diplomatic skills are crucial in maintaining stability within the Vulwin Horde and fostering trade partnerships.
+-   Diplomatic Expertise: Horde Caelithra excels in diplomacy and negotiation. They are known for their ability to establish peaceful relations with neighboring territories, including other races and Anashim kingdoms. Their diplomatic skills are crucial in maintaining stability within the Vulwin Horde and fostering trade partnerships.
 -   Trade and Commerce: Members of Horde Caelithra are skilled traders and merchants. They manage the exchange of goods and resources between the Vulwin Horde and the outside world, ensuring the prosperity of their people. The capital city, nestled in the treetops, serves as a bustling trade hub for both the hordes and visiting traders.
 -   Cultural Exchange: Horde Caelithra values cultural exchange and interaction with other races. They encourage the sharing of knowledge, art, and traditions between the Vulwin Horde and outsiders. This openness has allowed them to adapt and incorporate beneficial elements from different cultures.
 -   Tree-Dwelling Society: The city of Horde Caelithra is built within the branches and canopies of the massive forest trees. Their architecture and way of life are harmonious with the forest environment. They have developed ingenious methods for traversing the treetops and have a deep understanding of the forest ecosystem.

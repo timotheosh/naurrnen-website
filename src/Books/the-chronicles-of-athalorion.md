@@ -45,7 +45,7 @@ As we delved deeper into the heart of Athalorion, the ancient city of the Ameara
 
 The whispers that had haunted us since our arrival grew more persistent, as if the very stones and echoes of the past sought to share their secrets. I had heard of such phenomena in the annals of history, but to experience it firsthand was an entirely different matter.
 
-The elusive mechanical elevator, a device of great intrigue mentioned in the writings of Bayetti Falasha, beckoned us further into the enigma that was Athalorion. Our party moved cautiously, guided by the verses and clues woven into Falasha&rsquo;s poems. It was as if the great Elven poet and scholar had anticipated our arrival, leaving breadcrumbs of knowledge to be unraveled.
+The elusive mechanical elevator, a device of great intrigue mentioned in the writings of Bayetti Falasha, beckoned us further into the enigma that was Athalorion. Our party moved cautiously, guided by the verses and clues woven into Falasha&rsquo;s poems. It was as if the great Aelven poet and scholar had anticipated our arrival, leaving breadcrumbs of knowledge to be unraveled.
 
 The intricate carvings on the elevator&rsquo;s surface hinted at a complex mechanism designed by a masterful hand. We gathered around, eyes tracing the symbols and inscriptions that adorned its frame. The very air seemed to hum with anticipation as I examined the ancient device, knowing that our next actions would determine the course of our expedition.
 

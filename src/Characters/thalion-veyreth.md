@@ -30,12 +30,12 @@ Eneagram: 1
 
 ## Background
 
-Thalion was born into slavery but showed a remarkable gift for storytelling and a keen memory from a young age. Realizing that the history and stories of his people were getting lost or twisted under Elven rule, he decided to memorize them, essentially becoming a living archive.
+Thalion was born into slavery but showed a remarkable gift for storytelling and a keen memory from a young age. Realizing that the history and stories of his people were getting lost or twisted under Anashim rule, he decided to memorize them, essentially becoming a living archive.
 
 
 ### Initial Actions
 
-He first starts the Archivist Guild as a covert operation. Thalion and a few other intellectuals collect and memorize important texts, teachings, and histories. They also copy down Elven laws and regulations, not just to keep records but to look for loopholes and contradictions that could be used against the Elven rulers later.
+He first starts the Archivist Guild as a covert operation. Thalion and a few other intellectuals collect and memorize important texts, teachings, and histories. They also copy down Anashim laws and regulations, not just to keep records but to look for loopholes and contradictions that could be used against the Anashim rulers later.
 
 
 
@@ -47,7 +47,7 @@ Thalion hears tales of Ornasion, an ancient citadel with a labyrinthine library.
 
 ### Role in History:
 
-Thalion may have passed away generations before Elira and Cormac come onto the scene, but his influence is felt. The Archivist Guild and the haven of Ornasion that he helped establish serve as critical infrastructure in the eventual overthrow of the Elven empire.
+Thalion may have passed away generations before Elira and Cormac come onto the scene, but his influence is felt. The Archivist Guild and the haven of Ornasion that he helped establish serve as critical infrastructure in the eventual overthrow of the Anashim empire.
 
 
 

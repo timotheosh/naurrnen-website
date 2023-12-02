@@ -14,7 +14,7 @@ Category: Nations
 -   **Capiral City:** [Silvethra](../Places/silvethra.md)
 -   **Leader:** [Aravenna Leafwhisper](../Characters/aravenna-leafwhisper.md)
 
-Nestled on the western border of the Kingdom of Tanquende, the Vulwin Horde is a community of Taurashim, also known as Wood Elves. They are renowned for their deep connection with the ancient forests that blanket their territory, particularly Bellgrald Forest, an enigmatic and awe-inspiring realm of towering trees and mysterious creatures.
+Nestled on the western border of the Kingdom of Tanquende, the Vulwin Horde is a community of Taurashim, also known as Wood Aelves. They are renowned for their deep connection with the ancient forests that blanket their territory, particularly Bellgrald Forest, an enigmatic and awe-inspiring realm of towering trees and mysterious creatures.
 
 **Bellgrald (The Great Forest)**: At the heart of the Vulwin Horde&rsquo;s territory lies the Bellgrald, an expanse of woodland unlike any other in Naurrnen. Its colossal trees reach for the heavens, their massive trunks cloaked in moss and vines. It is said that within the depths of this forest dwell creatures of both wonder and terror, their existence shrouded in myth and legend. Among these woods, ancient and sacred groves are scattered, where the Taurashim conduct their most profound rituals and commune with the spirits of the land.
 
@@ -65,7 +65,7 @@ Nestled on the western border of the Kingdom of Tanquende, the Vulwin Horde is a
 > A strand of three cords, forever we&rsquo;ll be,
 > The enduring might of the Vulwin Horde, in unity.
 
-The Three Major Hords: The Vulwin Horde is divided into three major hords, each with its own distinct traditions, leaders, and territories within the Vulwin territory. These hords are named after revered Wood Elf ancestors and are known for their unique skills and roles within the Horde.
+The Three Major Hords: The Vulwin Horde is divided into three major hords, each with its own distinct traditions, leaders, and territories within the Vulwin territory. These hords are named after revered Taurashim ancestors and are known for their unique skills and roles within the Horde.
 
 **[Horde Gwennath](../Factions/horde-gwennath.md):** This hord is known for its exceptional hunting skills and foraging expertise. Members of Horde Gwennath are often the providers of the Horde, responsible for securing food and resources from the bountiful forest.
 

@@ -8,7 +8,7 @@ Processor: markdown-clj
 
 &ldquo;In Áyliaremma&rsquo;s Footsteps&rdquo; stands as a testament to the unyielding pursuit of knowledge within the mystical realm of Naurrnen. Penned by the venerable Hallashim scholar [Faelinoril Galathil](../Characters/faelinoril-galathil.md), this magnum opus is a beacon of enlightenment in a world shrouded in ancient mysteries.
 
-Within the hallowed halls of [Laurië Citime](../Places/laurie-citime.md), where wisdom flows like a river, [Faelinoril Galathil](../Characters/faelinoril-galathil.md) dedicated his life to the unraveling of enigmatic riddles. His quest was twofold: to decipher the cryptic writings of [Bayetti Falasha](../Characters/bayetti-falasha.md), an ancient Elven scholar, and to unearth the secrets buried beneath the sprawling [Athelorion ruins](../Places/athelorion-ruins.md).
+Within the hallowed halls of [Laurië Citime](../Places/laurie-citime.md), where wisdom flows like a river, [Faelinoril Galathil](../Characters/faelinoril-galathil.md) dedicated his life to the unraveling of enigmatic riddles. His quest was twofold: to decipher the cryptic writings of [Bayetti Falasha](../Characters/bayetti-falasha.md), an ancient Aelven scholar, and to unearth the secrets buried beneath the sprawling [Athelorion ruins](../Places/athelorion-ruins.md).
 
 &ldquo;In Áyliaremma&rsquo;s Footsteps&rdquo; embarks on a journey of discovery, recounting Faelinoril&rsquo;s relentless pursuit of knowledge. Through years of tireless effort, he unveiled fragments of the long-forgotten [Amearan](../History/first-era.md), a key to unlocking the profound wisdom hidden in [Falasha&rsquo;s poems](../Books/the-ancient-ones.md).
 

@@ -29,8 +29,8 @@ Eneagram: 1
 
 ## Background
 
--   Originally a scholar or legal advisor at the Elven court, Eolande fell from grace when his uncompromising interpretations of the law clashed with the more flexible ethics of the court.
--   Exiled to a minor role as a groundskeeper at the eastern borders of the Elven empire, he retained only a small contingent of non-elf slaves, one of whom was Thalion.
+-   Originally a scholar or legal advisor at the Aelven court, Eolande fell from grace when his uncompromising interpretations of the law clashed with the more flexible ethics of the court.
+-   Exiled to a minor role as a groundskeeper at the eastern borders of the Aelven empire, he retained only a small contingent of non-anashim slaves, one of whom was Thalion.
 
 <blockquote>
 Justiciar, if you do not obey the law, why do you call on others to do so? If 
@@ -46,10 +46,10 @@ And with these words, the ruling Elder banished Eolanda Altherion from the court
 
 ## Influence on Thalion Veyreth
 
--   Eolande taught Thalion how to read and write, starting with the Elven laws that he revered so much.
+-   Eolande taught Thalion how to read and write, starting with the Aelven laws that he revered so much.
 -   He instilled in Thalion the concept that laws should be both respected and held as the highest authority, even above rulers.
 -   His philosophy was based on the ancient laws as moral imperatives. This would be the cornerstone of Thalion&rsquo;s future work and the founding principles of the Archivist Guild.
--   Eolande had fought in a skirmish in attempt to overcome one hundred Mochveneba warriors who had huddled behind the mighty walls of the Ornasion citidel. Eolanda&rsquo;s troops of several thousand seasoned elven warriors were no match against the maurading warriors behind Ornasion&rsquo;s indistructable walls (which were of Amearan make, even though the inner citidel was clearly post-Amearan). Eolande told his story to Thalion, and even suggested he carry his resistance there, rather than risk being resold as slaves upon Eolande&rsquo;s death.
+-   Eolande had fought in a skirmish in attempt to overcome one hundred Mochveneba warriors who had huddled behind the mighty walls of the Ornasion citidel. Eolanda&rsquo;s troops of several thousand seasoned Hallashim warriors were no match against the maurading warriors behind Ornasion&rsquo;s indistructable walls (which were of Amearan make, even though the inner citidel was clearly post-Amearan). Eolande told his story to Thalion, and even suggested he carry his resistance there, rather than risk being resold as slaves upon Eolande&rsquo;s death.
 
 <br style="clear:both;" />
 

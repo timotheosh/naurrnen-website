@@ -17,5 +17,5 @@ The university houses the world-renowned Laurië Manuscript Archive, boasting an
 
 Easily accessible via the Ceolass Strait, the university attracts students and academics from across Naurrnen. Its position away from the bustling city life offers an environment conducive for focused learning, while its proximity to Ponte Cidade ensures students are never far from cultural engagements and social outings.
 
-Most notable is its Hall of Dialogue, an amphitheater styled in the tradition of ancient Elven architecture, serving as a common ground for scholarly debates and intellectual discourse. The University of Naethanor is not just an institution; it&rsquo;s a vibrant community that molds the leaders, thinkers, and visionaries of tomorrow.
+Most notable is its Hall of Dialogue, an amphitheater styled in the tradition of ancient Anashim architecture, serving as a common ground for scholarly debates and intellectual discourse. The University of Naethanor is not just an institution; it's a vibrant community that molds the leaders, thinkers, and visionaries of tomorrow.
 

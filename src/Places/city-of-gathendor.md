@@ -11,7 +11,7 @@ Nation: Dathakhian Empire
 <figcaption>City of Gathen'dor, the capital of Dathakhian Empire</figcaption>
 </figure>
 
-Nestled in the shadowy embrace of the towering Ithilnar Mountains lies Gathen'dor, the enigmatic capital of the Dathakhian Empire, home to the Durashim, the dark elves of Naurrnen. Surrounded by the stark beauty of craggy peaks, this city is a marvel of dark architecture and arcane power. Its buildings, sculpted from the rare obsidianite stone, gleam like dark jewels under the twilight of a perpetually dim sky, reflecting the Durashim's mastery over both the mystical and the material.
+Nestled in the shadowy embrace of the towering Ithilnar Mountains lies Gathen'dor, the enigmatic capital of the Dathakhian Empire, home to the Durashim, the dark aelves of Naurrnen. Surrounded by the stark beauty of craggy peaks, this city is a marvel of dark architecture and arcane power. Its buildings, sculpted from the rare obsidianite stone, gleam like dark jewels under the twilight of a perpetually dim sky, reflecting the Durashim's mastery over both the mystical and the material.
 
 The city's heart is the formidable Tower of Gurth, a spire that pierces the heavens, named after the god of the underworld. It is both a temple and a beacon of power, where the high priests and sorcerers commune with deities and weave their formidable magic. The streets of Gathen'dor are a labyrinth of secrets, with shadowy alleys and bustling marketplaces where one can find enchanted artifacts and ingredients for the most obscure of rituals.
 
