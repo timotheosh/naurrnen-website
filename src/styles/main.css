@@ -227,7 +227,7 @@ div.wrap-img div.figure p {
   background-color: #111;
 }
 
-.collapsible-content blockquote {
+blockquote {
   font-weight: bold;
   font-style: italic;
 }
