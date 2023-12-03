@@ -3,7 +3,7 @@ Title: From Dusk to Dawn
 Category: Books
 ---
 
-# From Dusk to Dawn
+# From Dusk to Dawn by [Luthien Dusksinger](../Characters/luthien-dusksinger.md)
 
 > From Dusk to Dawn was written late in the second era, nearly a generation after the Great Apostasy began (Hallashim enslavement of all other Anashim races, and takeover of all religious rights).
 
