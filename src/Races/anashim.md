@@ -95,11 +95,14 @@ Nature and nurture. The Taurashim take as their own, the care and growth for the
 ## Durashim: Gurth and Nostia
 The cult of Gurth and Nostia, is a recognition of the cycle of life and death. Unlike their Anashim brothers, the Durashim take ancestral recognition above and beyond the other races. Fear of death is seen as almost sacreligious. But so is the fear of life. The Durashim hold bravery, and loyalty very highly. At least for all those within the mainline cult of Gurth and Nostia.
 
+## The great apostacy
+With the second era's Hallashim empire's rise to primacy and dominance, within the last three hundred years of the second era, the Aeritha empire enslaved all the other non-Hallashim Aelves. And in doing so, greatly disrupted the assigned religious rights of the Anashim. What came of this, is the Hallashim designed rights and rituals for the other gods on their own, and forbade the practice of the old rights. Many of the enslaved Aelves began practicing their religion in secret. These practices ended with the overthrow of Aeritha at the end of the second era.
+
 ### Aenerim
 
 **Etymology:** Derived from a combination of words in an ancient tongue of Naurrnen, 'Aen' meaning 'eternal' and 'Arim' signifying 'guardians' or 'keepers'.
 
-**Origins:** The Aenarim could trace their roots back to the earliest days of Elven history when Gurth was first revered as the Friend of the Dead. They might have been the keepers of traditional funeral rites, historians of the afterlife, and spiritual guides for the living.
+**Origins:** The Aenarim could trace their roots back to the earliest days of Anashim history when Gurth was first revered as the Friend of the Dead. They are the keepers of traditional funeral rites, historians of the afterlife, and spiritual guides for the living.
 
 ### The Veiled Thaerith
 **Etymology:** 'Thaerith' could come from the words 'Thae', meaning 'hidden' or 'secret', and 'Rith', relating to 'knowledge' or 'lore'.
