@@ -1,0 +1,28 @@
+#+title: Eradan Dadhain
+#+title: Faelinoril Galathil
+#+startup: inlineimages
+#+include: ../navbar.org
+
+* Eradan Dadhain
+#+html: <div class="wrap-right-img">
+#+caption: Oil Painting of Emperor Eradan Dadhain
+#+attr_org: :width 300
+#+attr_html: :alt Image of Emperor Eradan Dadhain :width 100%;
+#+attr_latex: :width 200p
+[[./img/Eradan Dadhain.jpg]]
+#+html: </div>
+
+- Age ::
+    Middle Aged
+- Race ::
+    Edama
+- Occupation ::
+    Emperor of the Gran Imperio
+- Home ::
+    Ponte Cidade
+- Eneagram Scale ::
+    Perfectionist
+- Background ::
+The current emperor of the Gran Imperio.
+
+#+html: <br style="clear:both;" />

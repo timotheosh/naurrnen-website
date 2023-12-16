@@ -1,0 +1,129 @@
+#+title: Races
+#+startup: inlineimages
+#+include: ../navbar.org
+
+* Races
+** Primary Races
+The races within Naurrnen are fairly equal. Although Elves are known for their skills in magic, music, and crafting instruments and enchanted items, that does not mean one will find elves doing hard labor, exercising what strength they have. Orcs are generally favored for that sort of labor, as they tend to be more physically suited for the task. But not every Orc is physically built for this task, as not every Elf is well suited to the arts. Their are Orcs who take an interest in magic or music, as well. They are generally not as well suited as the Elves, but that is not to say, their are not Orcs that have better ears, or eyes than many Elves, or better minds for magic. These exceptions are generally blamed on half-breeds. Half-breeding has become so common in the age of man, no one really knows for sure who is a half-breed, or if one, who might think themselves as a pure-bred, is really a fourth or fifth generation mixed breed. What separates the races more than anything are their cultural identities.
+*** Anashim or Elf
+#+html: <div class="wrap-left-img">
+#+caption:  Hallishim man at arms
+#+attr_org: :width 300
+#+attr_html: :alt Image of an Hallishim male :width 100%
+#+attr_latex: :width 200px
+[[./img/hallishim-male.jpg]]
+
+**** Language
+Anashim language has several dialects. The most common being that of the Hallashim.
+**** Anashim Sub-races
+1. High Anashim: Hallashim
+2. Wood Anashim: Taurashim
+3. Dark Anashim: Durashim
+4. Cavern Anashim: Gathashim
+**** Strengths
+1. Magic
+2. Art
+3. Architecture
+4. Music
+5. Crafts
+   - Magical items
+   - Musical instruments
+#+html: <br style="clear:both;" />
+
+#+html: <div class="wrap-right-img">
+#+caption:  Taurashim Ranger
+#+attr_org: :width 300
+#+attr_html: :alt Image of a Taurashim female :width 100%
+#+attr_latex: :width 200px
+[[./img/Taurashim-female-ranger.jpg]]
+**** Pantheon
+| *Anor*   | Highest father of vengeance.                    |
+| *Ithil*  | Highest mother of justice. The great protector. |
+| *Gladys* | Goddess of nature.                              |
+| *Gurth*  | God of the underworld. Friend of the dead.      |
+| *Nostia* | Goddess of fertility.                           |
+#+html: <br style="clear:both;" />
+
+*** Adama or Man
+#+html: <div class="wrap-left-img">
+#+caption:  Edama merchant
+#+attr_org: :width 300
+#+attr_html: :alt Image of an Edama man :width 100%
+#+attr_latex: :width 200px
+[[./img/Edama-male-merchant.jpg]]
+
+**** Language
+Men's language had been historically Hallashim, as man had been the slaves of certain High Elf empires. But they did have a language of their own that differentiated them from their captors. That slave language evolved into a full-blown Adaman language or language of man. That language became known by the early third era as Malairt or "trade" language.
+**** Sub-races
+1. Dark man: Durama
+2. Red man: Edama
+3. Pale man: Palama
+**** Strengths
+1. Multi-purpose
+2. Rational
+#+html: <br style="clear:both;" />
+
+#+html: <div class="wrap-right-img">
+#+caption:  A Durama scout
+#+attr_org: :width 300
+#+attr_html: :alt Image of a Durama scout :width 100%
+#+attr_latex: :width 200px
+[[./img/Durama-male-scout.jpg]]
+**** Pantheon
+| *Dagda*     | Highest father vengeance and justice.     |
+| *Morrigaan* | Highest mother, nuture and nature.        |
+| *Orown*     | God of the underworld.                    |
+| *Brigid*    | Goddess of art, beauty, and fertility.    |
+| *Bres*      | Man king who was exalted to the pantheon. |
+#+html: <br style="clear:both;" />
+
+*** Orpa
+#+html: <div class="wrap-left-img">
+#+caption:  Orc chieftan
+#+attr_org: :width 300
+#+attr_html: :alt Image of an Orc chieftan :width 100%
+#+attr_latex: :width 200px
+[[./img/Orc-chieftan.jpg]]
+
+Known in elvish as Osunus, and to the humans as Orcs.
+**** Strengths
+1. Fighters
+2. Manual labor
+3. Crafts
+   - Blacksmithing
+   - Metal/ore work
+**** Pantheon
+| *Gadajok*  | Highest god. God of vengeance.                   |
+| *Hann*     | Highest mother. Goddess of nature and fertility. |
+| *Vras*     | God of the dead.                                 |
+| *Beatrice* | Goddess of fertility.                            |
+| *Nadgaj*   | God of war. God of combat.                       |
+#+html: <br style="clear:both;" />
+
+** Secondary Races
+*** Mochveneba
+#+html: <div class="wrap-left-img">
+#+caption:  Mochveneba warrior
+#+attr_org: :width 300
+#+attr_html: :alt Mochveneba warrior :width 100%
+#+attr_latex: :width 200px
+[[./img/Mochveneba-warrior.jpg]]
+
+Mochveneba or "ghost people" are a minority ethnicity within Naurrnen. They are elf-like, in that they share many of the features that elven folk have, but they are well known for their physical prowness. Their skin is a deep red, with stripes. Similar to tiger stripes. In fact, legend outside the Mochveneba tribes, say they are crossbred elves with tigers. In reality, they are more than likely half-breeds. More than likely, half-elf, and half-something else. They have unusual stamina, so some speculate half-orc, though their uncommon beauty seems to indicate otherwise.
+
+The Mochveneba tribes are religious, and perhaps to most of the civilized world, somewhat superstitious. Mochveneba are spiritual and do not generally pursue material wealth. Those that do, are coveted for their beauty and brute strength.
+**** Strengths
+1. Enchanting weapons and items.
+2. Known for physical strength.
+3. Warlike, but peace-loving.
+**** Pantheon
+1. Animism: They believe spirit is in all things. But they also believe that consciousness is a higher form of spirit.
+2. Believe in balance betweem "pah" and "foh". Good/Evil. Hot/Cold, etc.
+3. Believe their ancestors live beyond the vale, and they will one day join them in death.
+4. Presence, meditation, seeking inner peace and clarity is essential. Past and future, do not matter. Only the present.
+5. Cycle of life:  spirit lives and dies, and is renewed again. Consciousness, on the other hand, goes to the ancestral grove, the spirit world, after death, and does not return.
+#+html: <br style="clear:both;" />
+** Languages
+*** Adaman, the trade tongue
+Adaman is the (almost) universal tongue of Naurrnen. It is used amongst merchants, and mostly widely spoken in everyday communication within the Gran Imperio.
+*** Hallashim, language of the Elves
