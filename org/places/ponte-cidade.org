@@ -10,7 +10,7 @@
 #+attr_org: :width 800
 #+attr_html: :id pic-banner :alt City of Ponte Cidade :width 100%
 #+attr_latex: :width 350px
-[[./img/Ponte Cidade.jpg]]
+[[./img/ponte-cidade.jpg]]
 
 Nestled at the junction of two continents, Ponte Cidade is a bustling metropolis that serves as a bridge between cultures, economies, and ideas. Renowned for its strategic location, the city straddles the vital Caolas Céid strait, commonly referred to as "Sruthán" by locals. This critical waterway links the northern and southern oceans while also separating the lands of the Gran Imperio from the Elven realms, making Ponte Cidade an indispensable hub for trade and diplomacy.
 

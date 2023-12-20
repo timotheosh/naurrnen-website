@@ -1,18 +1,14 @@
-#+title: The Ameara (or "The Ancient Ones") by [[../Characters/Bayetti Falasha.org][Bayetti Falasha]]
+#+title: The Ameara by [[../Characters/Bayetti Falasha.org][Bayetti Falasha]]
 #+startup: inlineimages
-#+include: ../navbar.org
-#+HTML: <script>
-#+HTML: addEventListener("load", collapsableContainers);
-#+HTML: </script>
 
-* The Ameara (or "The Ancient Ones") by [[../Characters/Bayetti Falasha.org][Bayetti Falasha]]
-In the annals of Naurrnen's history, few literary works hold the mystique and enigma that surrounds [[../Characters/Bayetti Falasha.org][Bayetti Falasha]]'s magnum opus, "The Ameara." This ancient tome, penned by the brilliant Elven scholar during the early second era, stands as a testament to her profound intellect and insatiable curiosity.
+* The Ameara (or "The Ancient Ones") by [[../characters/bayetti-falasha.org][Bayetti Falasha]]
+In the annals of Naurrnen's history, few literary works hold the mystique and enigma that surrounds [[../characters/bayetti-falasha.org][Bayetti Falasha]]'s magnum opus, "The Ameara." This ancient tome, penned by the brilliant Elven scholar during the early second era, stands as a testament to her profound intellect and insatiable curiosity.
 
 "The Ameara," also known as "The Ancient Ones," defies easy comprehension. It weaves together cryptic verses, obscure geography, and whispers of the past into a tapestry that has mystified scholars and seekers of knowledge for ages.
 
 At first glance, it appears as an eccentric blend of tales and poetry. Yet, beneath this surface chaos lies the elusive wisdom of the Amearans, or so it is believed. Falasha's cryptic messages have confounded Elves, and indeed all the races of Naurrnen, as they grapple with the secrets concealed within.
 
-[[../Characters/Bayetti Falasha.org][Bayetti Falasha]], the renowned court scholar of the Elven empire, left an indelible mark with her work on Naurrnen's ancient history. "The Ameara" invites the curious and the learned on a journey through time, beckoning them to uncover the greatest riddle in Naurrnen's history. It stands as a testament to Falasha's unquenchable thirst for knowledge in a world where history's twists surpass even the wildest tales.
+[[../characters/bayetti-falasha.org][Bayetti Falasha]], the renowned court scholar of the Elven empire, left an indelible mark with her work on Naurrnen's ancient history. "The Ameara" invites the curious and the learned on a journey through time, beckoning them to uncover the greatest riddle in Naurrnen's history. It stands as a testament to Falasha's unquenchable thirst for knowledge in a world where history's twists surpass even the wildest tales.
 
 * Excerpt from "The Ameara": On Aeritha (Athalorion)
 :PROPERTIES:
@@ -46,3 +42,6 @@ To realms unknown, through portals we'll climb.
 #+end_quote
 
 #+html: </div>
+#+HTML: <script>
+#+HTML: addEventListener("load", collapsableContainers);
+#+HTML: </script>

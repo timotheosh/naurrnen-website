@@ -1,0 +1,27 @@
+#+title: Aranuir Xanaphia
+#+category: Characters
+#+category: Characters
+#+faction: Aenerim Cult
+#+race: Durashim
+#+enneagram: 9
+
+* Aranuir Xanaphia
+#+html: <div class="wrap-right-img">
+#+caption: Aranuir Xanaphia
+#+attr_org: :width 300
+#+attr_html: :alt Image of Aranuir Xanaphia :width 100%;
+#+attr_latex: :width 200p
+[[./img/aranuir-xanaphia.jpg]]
+#+html: </div>
+
+-   *Age:* Young Adult
+-   *Race:* Durashim
+-   *Occupation:*
+-   *Home:*
+-   *Eneagram Scale:* Type 9: The Peacemaker
+
+
+** Characteristics
+
+
+-   *Background:*

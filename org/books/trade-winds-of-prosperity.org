@@ -1,9 +1,8 @@
 #+title: Trade Winds Of Prosperity A Treatise On The Dynamics Of Commerce
 #+startup: inlineimages
-#+include: ../navbar.org
 
-* Trade Winds Of Prosperity A Treatise On The Dynamics Of Commerce by [[../Characters/Siobhán MacAuley.org][Siobhán MacAuley]]
-In the heart of Naurrnen, where bustling markets intersect with intellectual discourse, one name has emerged as a luminary amidst the cacophony of trade: [[../Characters/Siobhán MacAuley.org][Siobhán MacAuley]]. Her seminal work, "Trade Winds of Prosperity: A Treatise on the Dynamics of Commerce," stands as a testament to her unrivaled expertise in both the practical and philosophical realms of market and trade.
+* Trade Winds Of Prosperity A Treatise On The Dynamics Of Commerce by [[../characters/siobhan-macauley.org][Siobhán MacAuley]]
+In the heart of Naurrnen, where bustling markets intersect with intellectual discourse, one name has emerged as a luminary amidst the cacophony of trade: [[../characters/siobhan-macauley.org][Siobhán MacAuley]]. Her seminal work, "Trade Winds of Prosperity: A Treatise on the Dynamics of Commerce," stands as a testament to her unrivaled expertise in both the practical and philosophical realms of market and trade.
 
 Within these pages lies an exploration of commerce that transcends the mere exchange of goods and coin. Siobhán MacAuley invites readers on a voyage through the intricate tapestry of economic thought, where the threads of trade, ethics, and human society are interwoven. "Trade Winds" serves as a compass, guiding us through the currents of prosperity and the tempestuous seas of economic challenges.
 

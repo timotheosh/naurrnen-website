@@ -1,12 +1,11 @@
 #+title: Places: Introduction
 #+startup: inlineimages
-#+include: ../navbar.org
 
 * Places: Introduction
 #+attr_org: :width 800
 #+attr_html: :id pic-banner :alt The Elven Capital City, Tanquende :width 100%
 #+attr_latex: :width 350px
-[[./img/Places.jpg]]
+[[./img/places.jpg]]
 
 Discover the enigmatic locales of Naurrnen, a world woven with a rich tapestry of history, culture, and natural beauty. Here, every place is a living testament to the complexities of civilizations past and present, from bustling urban centers to serene scholarly sanctuaries. These are lands where reality bends, where the mystical and the mundane coalesce into something utterly captivating. This is a realm that beckons explorers, historians, and adventurers alike, inviting them to unravel its secrets, each place a puzzle, each city a treasure trove of untold stories.
 

@@ -1,9 +1,5 @@
 #+title: The Chronicles of Athalorion: Unveiling the Secrets of an Ancient Civilization
 #+startup: inlineimages
-#+include: ../navbar.org
-#+HTML: <script>
-#+HTML: addEventListener("load", collapsableContainers);
-#+HTML: </script>
 
 * The Chronicles of Athalorion: Unveiling the Secrets of an Ancient Civilization
 by Tadhg MacMurchadha
@@ -39,7 +35,7 @@ Yet, as we ventured deeper into the heart of Athalorion, a haunting realization 
 :HTML_HEADLINE_CLASS: absent
 :END:
 #+html: <button type="button" class="collapsible">
-#+html: Preface to "In Áyliaremma's Footsteps"
+#+html: Whispers in the moonlit city
 #+html: </button>
 #+html: <div class="collapsible-content">
 
@@ -70,3 +66,6 @@ Our party ventured forth, guided by the echoes of the past and the tantalizing c
 
 But even as we marveled at the wonders that surrounded us, a sense of foreboding lingered. The whispers of the city's spectral presence grew stronger, as if the Ameara themselves watched and waited for our every move. We had unlocked the elevator, and with it, the door to a world of mysteries and revelations. But what lay ahead in the depths of Athalorion remained a riddle yet to be unraveled.
 #+HTML: </div>
+#+HTML: <script>
+#+HTML: addEventListener("load", collapsableContainers);
+#+HTML: </script>

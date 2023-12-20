@@ -9,10 +9,10 @@
 #+attr_org: :width 800
 #+attr_html: :id pic-banner :alt Bellgrald (The Great Forest) :width 100%
 #+attr_latex: :width 350px
-[[file:img/Vulwin Horde.jpg]]
+[[file:img/vulwin-horde.jpg]]
 
-- Capiral City :: [[../Places/Silvethra.org][Silvethra]]
-- Leader :: [[../Characters/Aravenna Leafwhisper.org][Aravenna Leafwhisper]]
+- Capiral City :: [[../places/silvethra.org][Silvethra]]
+- Leader :: [[../characters/aravenna-leafwhisper.org][Aravenna Leafwhisper]]
 Nestled on the western border of the Kingdom of Tanquende, the Vulwin Horde is a community of Taurashim, also known as Wood Elves. They are renowned for their deep connection with the ancient forests that blanket their territory, particularly Bellgrald Forest, an enigmatic and awe-inspiring realm of towering trees and mysterious creatures.
 
 *Bellgrald (The Great Forest)*: At the heart of the Vulwin Horde's territory lies the Bellgrald, an expanse of woodland unlike any other in Naurrnen. Its colossal trees reach for the heavens, their massive trunks cloaked in moss and vines. It is said that within the depths of this forest dwell creatures of both wonder and terror, their existence shrouded in myth and legend. Among these woods, ancient and sacred groves are scattered, where the Taurashim conduct their most profound rituals and commune with the spirits of the land.
@@ -68,11 +68,11 @@ The enduring might of the Vulwin Horde, in unity.
 
 The Three Major Hords: The Vulwin Horde is divided into three major hords, each with its own distinct traditions, leaders, and territories within the Vulwin territory. These hords are named after revered Wood Elf ancestors and are known for their unique skills and roles within the Horde.
 
-*[[../Factions/Horde Gwennath.org][Horde Gwennath]]:* This hord is known for its exceptional hunting skills and foraging expertise. Members of Horde Gwennath are often the providers of the Horde, responsible for securing food and resources from the bountiful forest.
+*[[../factions/horde-gwennath.org][Horde Gwennath]]:* This hord is known for its exceptional hunting skills and foraging expertise. Members of Horde Gwennath are often the providers of the Horde, responsible for securing food and resources from the bountiful forest.
 
-*[[../Factions/Horde Thalrindor.org][Horde Thalrindor]]:* Horde Thalrindor is renowned for its spiritual connection to the Great Forest. Its members include powerful druids and guardians of the sacred groves. They are the keepers of ancient lore and the protectors of the forest's secrets.
+*[[../factions/horde-thalrindor.org][Horde Thalrindor]]:* Horde Thalrindor is renowned for its spiritual connection to the Great Forest. Its members include powerful druids and guardians of the sacred groves. They are the keepers of ancient lore and the protectors of the forest's secrets.
 
-*[[../Factions/Horde Caelithra.org][Horde Caelithra]]:* Horde Caelithra specializes in diplomacy and trade. They are the bridge between the Vulwin Horde and the outside world, maintaining essential relationships with nearby settlements and trading partners.
+*[[../factions/horde-caelithra.org][Horde Caelithra]]:* Horde Caelithra specializes in diplomacy and trade. They are the bridge between the Vulwin Horde and the outside world, maintaining essential relationships with nearby settlements and trading partners.
 
 1. How do these hordes manage their conflicting traditions and values when it comes to shared governance?
 

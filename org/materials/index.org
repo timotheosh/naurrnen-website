@@ -1,7 +1,7 @@
-#+title: Metals of Naurrnen
+#+title: Materials of Naurrnen
 #+startup: inlineimages
-#+include: ../navbar.org
-* Metals of Naurrnen
+
+* Materials of Naurrnen
 ** Garunzal
 #+html: <div class="wrap-left-img">
 #+caption:  Pool of Garunzal in the Kaukloutan Desert
@@ -26,7 +26,7 @@ Garunzal is a soft metal and is an extremely efficient energy source for magic a
 #+attr_org: :width 300
 #+attr_html: :alt Image of Sangorn deposits :width 100%
 #+attr_latex: :width 200px
-[[file:img/Baruleum Deposits.jpg]]
+[[file:img/baruleum-deposits.jpg]]
 #+html: </div>
 
 A hard and heavy metal. Can be used as armor but is too heavy to make full suits of armor. Usually a plate of the metal will be used in conjunction with steel. It is most commonly used in constructs for production that need sturdy materials in order to function.
@@ -37,7 +37,7 @@ A hard and heavy metal. Can be used as armor but is too heavy to make full suits
 #+attr_org: :width 300
 #+attr_html: :alt Image of a statue made of Valmaur :width 100%
 #+attr_latex: :width 200px
-[[./img/Valmaur Statue.jpg]]
+[[./img/valmaur-statue.jpg]]
 #+html: </div>
 
 Valmaur is a unique stone-like metal, as malleable as clay yet as durable as steel. Despite its high melting point, it cools rapidly, making it ideal for both craftsmanship and magical use. Its poor heat conductivity means it's slow to melt but quick to solidify, lending itself to a wide array of applications.

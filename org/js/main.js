@@ -1,3 +1,8 @@
+/* Capitalize the first letter of a word. */
+function capitalize(string) {
+    return string.charAt(0).toUpperCase() + string.slice(1);
+}
+
 /* Set the width of the side navigation to 250px and the left margin of the page content to 250px */
 function openNav() {
   document.getElementById("side-nav").style.width = "480px";
@@ -12,7 +17,7 @@ function closeNav() {
 function getRootDir() {
   let pathSegments = window.location.pathname.split('/');
   if (pathSegments.length > 2) {
-    return pathSegments[1];
+    return capitalize(pathSegments[1]);
   } else {
     return '';
   }

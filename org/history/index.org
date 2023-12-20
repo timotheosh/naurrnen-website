@@ -1,6 +1,6 @@
 #+title: Introduction to Naurrnen's History
 #+startup: inlineimages
-#+include: ../navbar.org
+
 * Introduction to Naurrnen's History
 #+caption: One of many Amearan ruins that dot many landscapes in Naurrnen
 #+attr_org: :width 800

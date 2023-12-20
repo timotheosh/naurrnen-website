@@ -1,6 +1,5 @@
 #+title: Legend Of Naethanor
 #+startup: inlineimages
-#+include: ../navbar.org
 
 * Elira Naethanor
 #+NAME: Elira-Naethanor
@@ -10,7 +9,7 @@
 #+attr_org: :width 300
 #+attr_html: :alt Image of a statue of Elirandel Naethanor :width 100%
 #+attr_latex: :width 200px
-[[./img/Elirandel-Naethanor.jpg]]
+[[./img/elirandel-naethanor.jpg]]
 #+html: </div>
 
 Born to the prestigious royal line of Eärendelion in the second era, Elirandel was a prodigy among Elven scholars. She attended the estarts of magic. Her future seemed predestined to be one of comfort and high standing within the Elven Empire of Áyliaremma.
@@ -26,13 +25,13 @@ When it became increasingly clear that their intellectual pursuits and growing e
 Elirandel's departure sent ripples through Elven society, marking her both as a traitor and a revolutionary icon. It was a price she was willing to pay. Together with Cormac, she would go on to challenge the might of Aerithia and lay the groundwork for what would become the Gran Imperio, forever changing the course of Naurrnen's history.
 #+html: <br style="clear:both;" />
 
-* Cormac Naethanor
+* Cormac Naethanor 
 #+html: <div class="wrap-right-img">
 #+caption:  Statue of Cormac Naethanor in the Auditorium at the University of Naethanor
 #+attr_org: :width 300
 #+attr_html: :alt Image of a statue of Cormac Naethanor :width 100%
 #+attr_latex: :width 200px
-[[./img/Cormac-Naethanor.jpg]]
+[[./img/cormac-naethanor.jpg]]
 #+html: </div>
 
 Cormac was born into slavery, an Adama living under the oppressive rule of the Elven empire Aerithia. However, his life would diverge from the path of servitude most of his people walked when he was assigned to work at Laurië Citime, the foremost academic institution among the Elves. Although he started as a mere custodian of ancient tomes and scrolls, Cormac possessed an unquenchable thirst for knowledge and an innate intelligence that couldn't be ignored.

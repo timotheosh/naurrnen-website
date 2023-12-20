@@ -1,0 +1,12 @@
+#+title: Silvethra
+#+title: City Of Tanquende
+#+startup: inlineimages
+
+* Silvethra
+#+caption: Ciy of Silvethra
+#+attr_org: :width 800
+#+attr_html: :id pic-banner :alt City of Silvethra :width 100%
+#+attr_latex: :width 350px
+[[./img/silvethra.jpg]]
+
+"Silvethra" or "Forest City", is the rec0gnized capital of the Vulwin hordes. Although predominantly inhabited by the Hord Caelithra, the city is also home to many from the other hordes, as well as to some from the outside world. It is the richest location within the Vulwin territories, and as such is often treated with a bit of suspicion, especially those from Hord Gwennath.

@@ -1,9 +1,5 @@
 #+title: Stories
 #+startup: inlineimages
-#+include: ../navbar.org
-#+HTML: <script>
-#+HTML: addEventListener("load", collapsableContainers);
-#+HTML: </script>
 
 * Stories
 ** The Crimson & The Compass
@@ -42,3 +38,7 @@ Pumo Jom, born of the Mochveneba, the ghost race of the desert. Abandoned after 
 About the first watch of the day, I awoke. The camp was already bustling with life, as merchants packed their tents and loaded their wagons. Elias, my sell-sword, was preparing our water bladders for the long trip into the desert. "I don't like this fog, Elias". Elias grimmaced, starting into the clouded horizon, and then said to me reassuringly, "it should clear up long before the noon." Turning toward the horizon we could not see, I replied "I have a really bad feeling about this. Kauklatan desert is infamous for hiding some of its most fierce sand-shifting storms in an early fog." After packing my blankets, securing my gear to the wagons, we starting forming our caravan heading west. with the hope the fog would lift before high sun, and not serve as a cload for shifting sands.
 
 Only an hour into our journey, it struck. A sandstorm so wicked, it tore the canvas coverings from our wagons. Our pack animals writhed in the wind, we had to stop.
+
+#+HTML: <script>
+#+HTML: addEventListener("load", collapsableContainers);
+#+HTML: </script>
