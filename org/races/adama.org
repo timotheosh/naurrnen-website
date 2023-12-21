@@ -1,0 +1,37 @@
+#+title: Adama
+#+startup: inlineimages
+#+category: Races
+
+* Adama or Man
+#+html: <div class="wrap-left-img">
+#+caption:  Edama merchant
+#+attr_org: :width 300
+#+attr_html: :alt Image of an Edama man :width 100%
+#+attr_latex: :width 200px
+[[./img/edama-male-merchant.jpg]]
+#+html: </div>
+** Language
+Men's language had been historically Hallashim, as man had been the slaves of certain High Anashim empires. But they did have a language of their own that differentiated them from their captors. That slave language evolved into a full-blown Adaman language or language of man. That language became known by the early third era as Malairt or "trade" language.
+** Sub-races
+1. Dark man: Durama
+2. Red man: Edama
+3. Pale man: Palama
+** Strengths
+1. Multi-purpose
+2. Rational
+#+html: <br style="clear:both;" />
+
+#+html: <div class="wrap-right-img">
+#+caption:  A Durama scout
+#+attr_org: :width 300
+#+attr_html: :alt Image of a Durama scout :width 100%
+#+attr_latex: :width 200px
+[[./img/durama-male-scout.jpg]]
+#+html: </div>
+** Pantheon
+| *Dagda*     | Highest father vengeance and justice.     |
+| *Morrigaan* | Highest mother, nuture and nature.        |
+| *Orown*     | God of the underworld.                    |
+| *Brigid*    | Goddess of art, beauty, and fertility.    |
+| *Bres*      | Man king who was exalted to the pantheon. |
+#+html: <br style="clear:both;" />

@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+	<title>Thalion Veyreth</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oldenburg" />
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Dosis" />
+    <link rel="stylesheet" href="/styles/main.css" />
+    <script src="/js/main.js"></script>
+</head>
+
+<body>
+	<script>
+                addEventListener("load", expandRootMenu);
+                addEventListener("load", toggleContainer);
+        </script>
+	<span class="openbtn" style="font-size:30px;cursor:pointer" onclick="openNav()">☰</span>
+        <div id="side-nav" class="sidenav">
+	<nav>
+<div id="outline-container-home" class="outline-2">
+<h2 id="home" class="absent">Home</h2>
+<div class="outline-text-2" id="text-home">
+<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
+<a href="/index.html" class="dropdown-btn">Welcome to Naurrnen</a>
+</div>
+</div>
+<div id="outline-container-nations" class="outline-2">
+<h2 id="nations" class="absent">Nations</h2>
+<div class="outline-text-2" id="text-nations">
+<button class="dropdown-btn" id="Nations">Nations
+<i class="fa fa-caret-down"></i>
+</button>
+<div class="dropdown-container">
+<ul class="org-ul">
+<li><a href="/nations/index.html">Summary: Nations</a></li>
+<li><a href="/nations/gran-imperio.html">Gran Imperio</a></li>
+<li><a href="/nations/dathakhian-empire.html">Dathakhian Empire</a></li>
+<li><a href="/nations/kingdom-of-tanquende.html">Tanquende</a></li>
+<li><a href="/nations/vulwin-horde.html">Vulwin Horde</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-books" class="outline-2">
+<h2 id="books" class="absent">Books</h2>
+<div class="outline-text-2" id="text-books">
+<button class="dropdown-btn" id="Books">Books
+<i class="fa fa-caret-down"></i>
+</button>
+<div class="dropdown-container">
+<ul class="org-ul">
+<li><a href="/books/index.html">Introduction: Books</a></li>
+<li><a href="/books/the-ancient-ones.html">The Ameara (or “The Ancient Ones”) by Bayetti Falasha</a></li>
+<li><a href="/books/from-dusk-to-dawn.html">From Dusk to Dawn</a></li>
+<li><a href="/books/lament-of-the-divided-path.html">Lament of the Divided Path</a></li>
+<li><a href="/books/in-ayliaremmas-footsteps.html">In Áyliaremma’s Footsteps</a></li>
+<li><a href="/books/trade-winds-of-prosperity.html">Trade Winds of Prosperity</a></li>
+<li><a href="/books/verbal-tapestry.html">Verbal Tapestry</a></li>
+<li><a href="/books/the-chronicles-of-athalorion.html">The Chronicles of Athalorion</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-characters" class="outline-2">
+<h2 id="characters" class="absent">Characters</h2>
+<div class="outline-text-2" id="text-characters">
+<button class="dropdown-btn" id="Characters">Characters
+<i class="fa fa-caret-down"></i>
+</button>
+<div class="dropdown-container">
+<ul class="org-ul">
+<li><a href="/characters/index.html">Introduction: Characters</a></li>
+<li>Historical
+<ul class="org-ul">
+<li><a href="/characters/valandur.html">Valandur</a></li>
+<li><a href="/characters/bayetti-falasha.html">Bayetti Falasha</a></li>
+<li><a href="/characters/luthien-dusksinger.html">Luthien Dusksinger</a></li>
+<li><a href="/characters/eolande-altherion.html">Eolande Altherion</a></li>
+<li><a href="/characters/thalion-veyreth.html">Thalion Veyreth</a></li>
+<li><a href="/characters/legend-of-naethanor.html">Legend Of Naethanor</a></li>
+</ul></li>
+<li>Factions
+<ul class="org-ul">
+<li>Political: Gran Imperio
+<ul class="org-ul">
+<li><a href="/characters/eradan-dadhain.html">Eradan Dadhain</a></li>
+<li><a href="/characters/siobhan-macauley.html">Siobhán MacAuley</a></li>
+</ul></li>
+<li>Political: Tanquende
+<ul class="org-ul">
+<li><a href="/characters/elenya-ilirelya.html">Elenya Ilírelya</a></li>
+</ul></li>
+<li>Political: Vulwin Horde
+<ul class="org-ul">
+<li><a href="/characters/chieftan-verenar-darkthorn.html">Chieftan Verenar Darkthorn</a></li>
+<li><a href="/characters/malorin-swiftshadow.html">Malorin Swiftshadow</a></li>
+<li><a href="/characters/aravenna-leafwhisper.html">Aravenna Leafwhisper</a></li>
+</ul></li>
+<li>Religious: Aenarim Cult
+<ul class="org-ul">
+<li><a href="/characters/aranuir-xanaphia.html">Aranuir Xanaphia</a></li>
+</ul></li>
+<li>Intellectual
+<ul class="org-ul">
+<li><a href="/characters/faelinoril-galathil.html">Faelinoril Galathil</a></li>
+</ul></li>
+<li>Merchants
+<ul class="org-ul">
+<li><a href="/characters/elias-vashdro.html">Elias Vashdro</a></li>
+<li><a href="/characters/lunara-vashdro.html">Lunara Vashdro</a></li>
+</ul></li>
+</ul></li>
+</ul>
+
+</div>
+</div>
+</div>
+<div id="outline-container-factions" class="outline-2">
+<h2 id="factions" class="absent">Factions</h2>
+<div class="outline-text-2" id="text-factions">
+<button class="dropdown-btn" id="Factions">Factions
+<i class="fa fa-caret-down"></i>
+</button>
+<div class="dropdown-container">
+<ul class="org-ul">
+<li>Nations
+<ul class="org-ul">
+<li>Dathakhian Empire
+<ul class="org-ul">
+<li><a href="/factions/aenarim-cult.html">Aenarim Cult</a></li>
+<li><a href="/factions/veiled-thaerith.html">Veiled Thaerith</a></li>
+</ul></li>
+<li>Gran Imperio
+<ul class="org-ul">
+<li><a href="/factions/archivists-guild.html">Archivists Guild</a></li>
+</ul></li>
+<li>Tanquende
+<ul class="org-ul">
+<li><a href="/factions/transcript-guild.html">Transcript Guild</a></li>
+</ul></li>
+<li>Vulwin Horde
+<ul class="org-ul">
+<li><a href="/factions/horde-caelithra.html">Horde Caelithra</a></li>
+<li><a href="/factions/horde-gwennath.html">Horde Gwennath</a></li>
+<li><a href="/factions/horde-thalrindor.html">Horde Thalrindor</a></li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-history" class="outline-2">
+<h2 id="history" class="absent">History</h2>
+<div class="outline-text-2" id="text-history">
+<button class="dropdown-btn" id="History">History
+<i class="fa fa-caret-down"></i>
+</button>
+<div class="dropdown-container">
+<ul class="org-ul">
+<li><a href="/history/index.html">Introduction to Naurrnen’s History</a></li>
+<li><a href="/history/first-era.html">First Era</a></li>
+<li><a href="/history/second-era.html">Second Era</a></li>
+<li><a href="/history/third-era.html">The Third Era: The Age of Reconciliation</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-materials" class="outline-2">
+<h2 id="materials" class="absent">Materials</h2>
+<div class="outline-text-2" id="text-materials">
+<button class="dropdown-btn" id="Materials">Materials
+<i class="fa fa-caret-down"></i>
+</button>
+<div class="dropdown-container">
+<ul class="org-ul">
+<li><a href="/materials/index.html">Materials of Naurrnen</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-places" class="outline-2">
+<h2 id="places" class="absent">Places</h2>
+<div class="outline-text-2" id="text-places">
+<button class="dropdown-btn" id="Places">Places
+<i class="fa fa-caret-down"></i>
+</button>
+<div class="dropdown-container">
+<ul class="org-ul">
+<li><a href="/places/index.html">Introduction to places</a></li>
+<li><a href="/places/athelorion-ruins.html">Athelorion Ruins</a></li>
+<li><a href="/places/kaukloutan-desert.html">Kaukloutan Desert</a></li>
+<li><a href="/places/laurie-citime.html">Laurië Citime</a></li>
+<li><a href="/places/ornasion-library.html">Ornasion Library</a></li>
+<li><a href="/places/ponte-cidade.html">Ponte Cidade</a></li>
+<li><a href="/places/city-of-gathendor.html">City of Gathen’dor</a></li>
+<li><a href="/places/city-of-tanquende.html">City of Tanquende</a></li>
+<li><a href="/places/university-of-naethanor.html">University Of Naethanor</a></li>
+<li><a href="/places/vaabhath.html">Vaabhath</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-races" class="outline-2">
+<h2 id="races" class="absent">Races</h2>
+<div class="outline-text-2" id="text-races">
+<button class="dropdown-btn" id="Races">Races
+<i class="fa fa-caret-down"></i>
+</button>
+<div class="dropdown-container">
+<ul class="org-ul">
+<li><a href="/races/index.html">Races</a></li>
+<li><a href="/races/anashim.html">Anashim</a></li>
+<li><a href="/races/adama.html">Adama</a></li>
+<li><a href="/races/orpa.html">Orpa</a></li>
+<li><a href="/races/mochveneba.html">Mochveneba</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-stories" class="outline-2">
+<h2 id="stories" class="absent">Stories</h2>
+<div class="outline-text-2" id="text-stories">
+<button class="dropdown-btn" id="Stories">Stories
+<i class="fa fa-caret-down"></i>
+</button>
+<div class="dropdown-container">
+<ul class="org-ul">
+<li><a href="/stories/index.html">Stories</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-secrets" class="outline-2">
+<h2 id="secrets" class="absent">Secrets</h2>
+<div class="outline-text-2" id="text-secrets">
+<button class="dropdown-btn" id="Secrets">Secrets
+<i class="fa fa-caret-down"></i>
+</button>
+<div class="dropdown-container">
+<ul class="org-ul">
+<li><a href="/secrets/index.html">Naurrnen’s Forgotten Past</a></li>
+<li><a href="/secrets/technologies.html">Technologies of the Setsafar Commonwealth</a></li>
+</ul>
+</div>
+</div>
+</div>
+</nav>
+	</div>
+	<main>
+		<section id="pageContent">
+			<article>
+<div id="outline-container-thalion-veyreth" class="outline-2">
+<h2 id="thalion-veyreth">Thalion Veyreth</h2>
+<div class="outline-text-2" id="text-thalion-veyreth">
+</div>
+<div id="outline-container-thalion-s-learning-phase-" class="outline-3">
+<h3 id="thalion-s-learning-phase-">Thalion’s Learning Phase:</h3>
+<div class="outline-text-3" id="text-thalion-s-learning-phase-">
+</div>
+<div id="outline-container-initial-days-" class="outline-4">
+<h4 id="initial-days-">Initial Days:</h4>
+<div class="outline-text-4" id="text-initial-days-">
+<p>
+Thalion, curious and intelligent, starts by being a keen observer. Eolande notices his potential and begins grooming him. The former Elder sees a spark in Thalion, reminiscent of the young elves who would debate in the great halls before the current court’s misdirection.
+</p>
+</div>
+</div>
+
+<div id="outline-container-teachings-" class="outline-4">
+<h4 id="teachings-">Teachings:</h4>
+<div class="outline-text-4" id="text-teachings-">
+<p>
+Thalion not only learns the linguistic aspects but also the philosophical underpinnings of the ancient elven laws. Eolande exposes him to texts that many have forgotten or deliberately ignored, texts that speak of the elves’ unity, their bond with nature, and the importance of just governance.
+</p>
+</div>
+</div>
+
+<div id="outline-container-growing-responsibilities-" class="outline-4">
+<h4 id="growing-responsibilities-">Growing Responsibilities:</h4>
+<div class="outline-text-4" id="text-growing-responsibilities-">
+<p>
+As Thalion’s understanding deepens, so does his responsibility on the estate. Eolande trusts him with tasks that require strategic thinking and sound judgment. These tasks, combined with his learnings, forge a sense of leadership in Thalion.
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-the-spread-of-knowledge-" class="outline-3">
+<h3 id="the-spread-of-knowledge-">The Spread of Knowledge:</h3>
+<div class="outline-text-3" id="text-the-spread-of-knowledge-">
+</div>
+<div id="outline-container-secret-gatherings-" class="outline-4">
+<h4 id="secret-gatherings-">Secret Gatherings:</h4>
+<div class="outline-text-4" id="text-secret-gatherings-">
+<p>
+Thalion begins hosting secret gatherings, maybe in the estate’s secluded groves or underground chambers, where he imparts his knowledge to the slaves. They share stories, debate the teachings, and ponder the current state of elvish governance.
+</p>
+</div>
+</div>
+
+<div id="outline-container-symbols-and-signs-" class="outline-4">
+<h4 id="symbols-and-signs-">Symbols and Signs:</h4>
+<div class="outline-text-4" id="text-symbols-and-signs-">
+<p>
+To maintain secrecy, Thalion and his fellow slaves develop symbols and signs. These become a clandestine language, a mark of the enlightened. The symbols could be discreetly marked on trees or stones, signaling the location and time of the next gathering.
+</p>
+</div>
+</div>
+
+<div id="outline-container-rising-tension-" class="outline-4">
+<h4 id="rising-tension-">Rising Tension:</h4>
+<div class="outline-text-4" id="text-rising-tension-">
+<p>
+The slaves, once resigned to their fate, now feel the weight of the chains more than ever. They start questioning the status quo and their place in society. Rumblings of discontent grow.
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-coming-out-" class="outline-3">
+<h3 id="coming-out-">Coming Out:</h3>
+<div class="outline-text-3" id="text-coming-out-">
+</div>
+<div id="outline-container-eolande-s-discovery-" class="outline-4">
+<h4 id="eolande-s-discovery-">Eolande’s Discovery:</h4>
+<div class="outline-text-4" id="text-eolande-s-discovery-">
+<p>
+Eolande stumbles upon one of these gatherings. However, instead of anger, he’s pleased. He had hoped Thalion would spread the teachings but feared the risks. Now seeing it in action, Eolande supports Thalion, offering his study as a safer space for these sessions.
+</p>
+</div>
+</div>
+
+<div id="outline-container-open-revolution-" class="outline-4">
+<h4 id="open-revolution-">Open Revolution:</h4>
+<div class="outline-text-4" id="text-open-revolution-">
+<p>
+With Eolande’s backing, Thalion becomes bolder. The gatherings, once secret, now happen openly. Slaves from neighboring estates start attending, and the movement grows.
+</p>
+
+<p>
+Eolande, having lost his wife in battle at a young age, and childless, looks at Thalion as his own son. But he knows he cannot adopt, not even in his current degraded status.
+Eolande’s Discovery does not play out like you say. Instead, they continue everything in secret, and on certain days, Thalion would feign having to do more work than he actually had to do in order to take the opportunity to teach his fellow slaves.
+Eventually, Eolande’s health begins to deteriorate, the supervising Baron aranges for Eolande’s care by the slaves under him. Eolande insists on having Thalion care for his needs, as he trusted him the most. A duputy was appointed to take on the work Thalion had been entrusted to do.
+Once Eolande dies, all the slaves under him will get reassigned into other positions within the empire. Eolande does not want this for Thalion. Thalion, realizing Eolande’s deep care and love for him, reveals to Eolande that he had been teaching the other slaves. Eolande smiles, and then proceeds to tell Thalion about the battle of Ornasion that took place when Eolande was a young recruit in the Hallashim army. Ornasian was a legendary citadel the halted the spread of the elven empire several decades ago. “Somehow, a small force of 100 Mochveneba were able to hold off thousands of Elven troops from within the Citadel. At first they thought they could starve them out, but we ran out of rations before they did. Trebuchets did nothing against the walls of the citadel as they were the small remains of the ancient Amearans. We had to give up the exercise, and leave them alone. If the Mochveneba left, which given their nomadic tendencies is almost certain, it could very well be abandoned, today”
+</p>
+
+
+<p>
+Niralla Eldinere, an old friend of Eolande, came to visit him on his death bed, just a week before his passing.
+“Hail Eolande! I wish I could have come seen you while you still had strength.”
+“I am just thankful that you are here, old friend. Have the courts recanted their old position and have asked me to return?” Eolande laughing as he spoke, certain such a scenario would never play out in his time. “No, old friend, it’s a shame they lack the intellect you possess, they are just as stubborn as you. Stupidity and stubborness do not mix well.”
+“No, I suppose they don’t,” Eolanda responded with a smile.
+“I was hoping to see you before you passed on, the court has exhiled Phadrus, Portemier, and Elianara since you left.”
+“What??? The audacity of the ruling mother and her senate of justiciars never cease to make our ancestors roll in their graves!”
+“Yes, the number of Elven political prisoners has grown exponentially over the last decade. We’ve become so infatiated with slavery, we’ve taken to enslaving our own,” Niralla stated grimacing.
+“Such audacity!” Eolande angrilly stated, but then began a coughing fit that finally remitted after four coughs.
+“Sorry, Eolande, I did not come here to try to make your condition worse.”
+“It’s ok. I would have been disappointed if you came all this way with only good news.” Eolande was now smiling at his old friend.
+Niralla returning the smile, “I didn’t come here just to visit either. I am now a political prisoner such as you are, and I have been commissioned to take over this estate after you’ve passed”.
+“You go from bad news to even worse.”
+“It meant I could come to see you, so I consider it good news. And I want you to know, I have no plans of standing idle on this estate.”
+“No?”
+“No, they are wanting to start trade between estates on the border, so that means I will, on occasion, travel to the neighboring estates. On a monthly basis.”
+“I can already sense where this is going Niralla. Now you are going to tell me that the other estates have been entrusted to political prisoners the throne does not want to publicly shame too openly, and you all are conniving to over throw the capital city.”
+“Ha! You are full of humor in your old age. Did these slaves slip you some hemlock?” Niralla deflecting jokingly, knowing Eolande was reading him quite accurately.
+“Well, I get your gist Eolande, but no, we are not overthrowing the throne, but we are setting up a network in hopes to be in a position to… shall we say, correct the capital’s vision?”
+</p>
+
+<p>
+“To what end, Niralla? Have you considered that there are only a handful of us ‘priveleged nobles’ to go around. For every one high ranking nobleman who gets exiled, there are hundreds who are immediately sold as slaves like the Taurashim, Adama, Orpa, and Mochveneba?”
+</p>
+
+<p>
+“Yes, we are aware of that, and would love to recruit from outside, but fear no one on the outside cares for our plight, and those on the inside, thankful to several centurries  of regulation remain illiterate and incapable of following the most basic of orders.”
+</p>
+
+<p>
+“Not all of them Niralla.” At this point Thalion walks through the door to check on Eolande. “Young Thalion, can you recite for me the Primus directive of the ancient law? This is my old friend Niralla, don’t be afraid, he has no authority over you.”
+</p>
+
+<p>
+“The Primus directive states, that no ruler, noble, common man or any other are exempt from the law. Our ancestors are dead, but they continue to live amongst us in our obedience to our law. A commoner who breaks the law, and a ruler who breaks the law, are equally law breakers in regards to the law.”
+</p>
+
+<p>
+“Wow! Eolande, you’ve been teaching your slaves jurisprudence? That’s more radicall than anything I had in mind,” Niralla responded inquisitively.
+</p>
+
+<p>
+Eolanda hands over a book to Thalion, “find the law regarding orphans, widows and their property, and read it to Niralla.”
+</p>
+
+<p>
+Thalion thumbed through the tomb, remembering the different articles in this tomb that he and Eolande had gone over, again, and again, repeatedly over breakfast. Finding the exerpt he was instructed to find, he began reading, “If a woman is widowed, she is entitled to her dead husband’s possessions. They do not belong to the state, not do they belong to an auction, but are hers to do as she seems right to do with his property. If children are left parentless, their care belongs to the community, but their parent’s possessions belongs entirely to them, and will retain full rights and ownershipt once they have obtained to adultood through the guidance of the comunity.”
+</p>
+
+<p>
+“Wow! and you have been teaching them to read? Eolande, you objected to the title of renegade in court, but now you would be seen a traitor!”
+</p>
+
+<p>
+“Except Niralla, there is nothing in our old laws in regards to slaves or keeping them illiterate. If anything, just the opposite. When I die, Thalion, and all his associate slaves will be orphaned, and resold into the system. This violates our oldest laws and traditions. What if you, my dear Niralla, took them in to your care? As their community? And continued to allow their numbers to grow? Eventially, you could stand up an entirely new capital city, and the old will have to subject itself willingly.”
+</p>
+
+<p>
+Niralla was silent. Carefully considering Eolande’s proposal. He had to admit, this was a much more carefully crafted plan than his alone. It had a very strong appeal. Teach slaves how to read and write. Create a new city of literate multi-cultural inhabitants, strong enough, and smart enough to resist the debauchery that has taken over their curent capital city.
+</p>
+</div>
+</div>
+</div>
+</div>
+</article>
+		</section>
+	</main>
+	<footer>
+		<p><a href="https://clojure.org"><img src="/img/made-with-lisp.png" class="footer-img" alt="Made with Lisp" /></a> --- Tim Hawes © 2023</p>
+	</footer>
+</body>
+
+</html>

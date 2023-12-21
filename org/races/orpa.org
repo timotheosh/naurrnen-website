@@ -1,0 +1,26 @@
+#+title: Orpa
+#+startup: inlineimages
+#+category: Races
+
+* Orpa
+#+html: <div class="wrap-left-img">
+#+caption:  Orc chieftan
+#+attr_org: :width 300
+#+attr_html: :alt Image of an Orc chieftan :width 100%
+#+attr_latex: :width 200px
+[[./img/orc-chieftan.jpg]]
+
+Known in elvish as Osunus, and to the humans as Orcs.
+** Strengths
+1. Fighters
+2. Manual labor
+3. Crafts
+   - Blacksmithing
+   - Metal/ore work
+** Pantheon
+| *Gadajok*  | Highest god. God of vengeance.                   |
+| *Hann*     | Highest mother. Goddess of nature and fertility. |
+| *Vras*     | God of the dead.                                 |
+| *Beatrice* | Goddess of fertility.                            |
+| *Nadgaj*   | God of war. God of combat.                       |
+#+html: <br style="clear:both;" />

@@ -1,0 +1,11 @@
+#+title: Athelorion Ruins
+#+startup: inlineimages
+
+* Athelorion Ruins
+#+caption: The Main Entrance to the ancient city Aeritha (a.k.a the Athelorion ruins)
+#+attr_org: :width 800
+#+attr_html: :id pic-banner :alt Main Entrance to the ancient city :width 100%
+#+attr_latex: :width 350px
+[[./img/athelorian-ruins.jpg]]
+
+Áyliaremma Elves made an ancient [[file:../history/first-era.org][Amearen]] ruin, now known as the Athelorion ruins, their capital city named Aeritha. [[file:../characters/bayetti-falasha.org][Bayetti Falasha]]'s [[file:../books/the-ancient-ones.org]["The Ancient Ones"]] speaks much of the ancient city, and is believed to have encrypted much of the ancient Elven knowledge of the Amearans in her poetic stanzas. There is a rumor that there is a vast transporter within that can leeds to the place of the dead.

@@ -1,0 +1,170 @@
+* Home
+:PROPERTIES:
+:HTML_HEADLINE_CLASS: absent
+:END:
+#+HTML:    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+#+HTML: <a href="/index.html" class="dropdown-btn">Welcome to Naurrnen</a>
+* Nations
+:PROPERTIES:
+:HTML_HEADLINE_CLASS: absent
+:END:
+#+HTML: <button class="dropdown-btn" id="Nations">Nations
+#+HTML:   <i class="fa fa-caret-down"></i>
+#+HTML: </button>
+#+HTML: <div class="dropdown-container">
+- [[file:nations/index.org][Summary: Nations]]
+- [[file:nations/gran-imperio.org][Gran Imperio]]
+- [[file:nations/dathakhian-empire.org][Dathakhian Empire]]
+- [[file:nations/kingdom-of-tanquende.org][Tanquende]]
+- [[file:nations/vulwin-horde.org][Vulwin Horde]]
+#+HTML: </div>
+* Books
+:PROPERTIES:
+:HTML_HEADLINE_CLASS: absent
+:END:
+#+HTML: <button class="dropdown-btn" id="Books">Books
+#+HTML:   <i class="fa fa-caret-down"></i>
+#+HTML: </button>
+#+HTML: <div class="dropdown-container">
+- [[file:books/index.org][Introduction: Books]]
+- [[file:books/the-ancient-ones.org][The Ameara (or "The Ancient Ones") by Bayetti Falasha]]
+- [[file:books/from-dusk-to-dawn.org][From Dusk to Dawn]]
+- [[file:books/lament-of-the-divided-path.org][Lament of the Divided Path]]
+- [[file:books/in-ayliaremmas-footsteps.org][In Áyliaremma's Footsteps]]
+- [[file:books/trade-winds-of-prosperity.org][Trade Winds of Prosperity]]
+- [[file:books/verbal-tapestry.org][Verbal Tapestry]]
+- [[file:books/the-chronicles-of-athalorion.org][The Chronicles of Athalorion]]
+#+HTML: </div>
+* Characters
+:PROPERTIES:
+:HTML_HEADLINE_CLASS: absent
+:END:
+#+HTML: <button class="dropdown-btn" id="Characters">Characters
+#+HTML:   <i class="fa fa-caret-down"></i>
+#+HTML: </button>
+#+HTML: <div class="dropdown-container">
+- [[file:characters/index.org][Introduction: Characters]]
+- Historical
+  - [[file:characters/valandur.org][Valandur]]
+  - [[file:characters/bayetti-falasha.org][Bayetti Falasha]]
+  - [[file:characters/luthien-dusksinger.org][Luthien Dusksinger]]
+  - [[file:characters/eolande-altherion.org][Eolande Altherion]]
+  - [[file:characters/thalion-veyreth.org][Thalion Veyreth]]
+  - [[file:characters/legend-of-naethanor.org][Legend Of Naethanor]]
+- Factions
+  - Political: Gran Imperio
+    - [[file:characters/eradan-dadhain.org][Eradan Dadhain]]
+    - [[file:characters/siobhan-macauley.org][Siobhán MacAuley]]
+  - Political: Tanquende
+    - [[file:characters/elenya-ilirelya.org][Elenya Ilírelya]]
+  - Political: Vulwin Horde
+    - [[file:characters/chieftan-verenar-darkthorn.org][Chieftan Verenar Darkthorn]]
+    - [[file:characters/malorin-swiftshadow.org][Malorin Swiftshadow]]
+    - [[file:characters/aravenna-leafwhisper.org][Aravenna Leafwhisper]]
+  - Religious: Aenarim Cult
+    - [[file:characters/aranuir-xanaphia.org][Aranuir Xanaphia]]
+  - Intellectual
+    - [[file:characters/faelinoril-galathil.org][Faelinoril Galathil]]
+  - Merchants
+    - [[file:characters/elias-vashdro.org][Elias Vashdro]]
+    - [[file:characters/lunara-vashdro.org][Lunara Vashdro]]
+
+#+HTML: </div>
+* Factions
+:PROPERTIES:
+:HTML_HEADLINE_CLASS: absent
+:END:
+#+HTML: <button class="dropdown-btn" id="Factions">Factions
+#+HTML:   <i class="fa fa-caret-down"></i>
+#+HTML: </button>
+#+HTML: <div class="dropdown-container">
+- Nations
+  - Dathakhian Empire
+    - [[file:factions/aenarim-cult.org][Aenarim Cult]]
+    - [[file:factions/veiled-thaerith.org][Veiled Thaerith]]
+  - Gran Imperio
+    - [[file:factions/archivists-guild.org][Archivists Guild]]
+  - Tanquende
+    - [[file:factions/transcript-guild.org][Transcript Guild]]
+  - Vulwin Horde
+    - [[file:factions/horde-caelithra.org][Horde Caelithra]]
+    - [[file:factions/horde-gwennath.org][Horde Gwennath]]
+    - [[file:factions/horde-thalrindor.org][Horde Thalrindor]]
+#+HTML: </div>
+* History
+:PROPERTIES:
+:HTML_HEADLINE_CLASS: absent
+:END:
+#+HTML: <button class="dropdown-btn" id="History">History
+#+HTML:   <i class="fa fa-caret-down"></i>
+#+HTML: </button>
+#+HTML: <div class="dropdown-container">
+- [[file:history/index.org][Introduction to Naurrnen's History]]
+- [[file:history/first-era.org][First Era]]
+- [[file:history/second-era.org][Second Era]]
+- [[file:history/third-era.org][The Third Era: The Age of Reconciliation]]
+#+HTML: </div>
+* Materials
+:PROPERTIES:
+:HTML_HEADLINE_CLASS: absent
+:END:
+#+HTML: <button class="dropdown-btn" id="Materials">Materials
+#+HTML:   <i class="fa fa-caret-down"></i>
+#+HTML: </button>
+#+HTML: <div class="dropdown-container">
+- [[file:materials/index.org][Materials of Naurrnen]]
+#+HTML: </div>
+* Places
+:PROPERTIES:
+:HTML_HEADLINE_CLASS: absent
+:END:
+#+HTML: <button class="dropdown-btn" id="Places">Places
+#+HTML:   <i class="fa fa-caret-down"></i>
+#+HTML: </button>
+#+HTML: <div class="dropdown-container">
+- [[file:places/index.org][Introduction to places]]
+- [[file:places/athelorion-ruins.org][Athelorion Ruins]]
+- [[file:places/kaukloutan-desert.org][Kaukloutan Desert]]
+- [[file:places/laurie-citime.org][Laurië Citime]]
+- [[file:places/ornasion-library.org][Ornasion Library]]
+- [[file:places/ponte-cidade.org][Ponte Cidade]]
+- [[file:places/city-of-gathendor.org][City of Gathen'dor]]
+- [[file:places/city-of-tanquende.org][City of Tanquende]]
+- [[file:places/university-of-naethanor.org][University Of Naethanor]]
+- [[file:places/vaabhath.org][Vaabhath]]
+#+HTML: </div>
+* Races
+:PROPERTIES:
+:HTML_HEADLINE_CLASS: absent
+:END:
+#+HTML: <button class="dropdown-btn" id="Races">Races
+#+HTML:   <i class="fa fa-caret-down"></i>
+#+HTML: </button>
+#+HTML: <div class="dropdown-container">
+- [[file:races/index.org][Races]]
+- [[file:races/anashim.org][Anashim]]
+- [[file:races/adama.org][Adama]]
+- [[file:races/orpa.org][Orpa]]
+- [[file:races/mochveneba.org][Mochveneba]]
+#+HTML: </div>
+* Stories
+:PROPERTIES:
+:HTML_HEADLINE_CLASS: absent
+:END:
+#+HTML: <button class="dropdown-btn" id="Stories">Stories
+#+HTML:   <i class="fa fa-caret-down"></i>
+#+HTML: </button>
+#+HTML: <div class="dropdown-container">
+- [[file:stories/index.org][Stories]]
+#+HTML: </div>
+* Secrets
+:PROPERTIES:
+:HTML_HEADLINE_CLASS: absent
+:END:
+#+HTML: <button class="dropdown-btn" id="Secrets">Secrets
+#+HTML:   <i class="fa fa-caret-down"></i>
+#+HTML: </button>
+#+HTML: <div class="dropdown-container">
+- [[file:secrets/index.org][Naurrnen's Forgotten Past]]
+- [[file:secrets/technologies.org][Technologies of the Setsafar Commonwealth]]
+#+HTML: </div>
