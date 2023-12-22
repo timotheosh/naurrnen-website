@@ -8,7 +8,7 @@
 :END:
 #+caption: The Gate (or entrance) inside Ornasion Library
 #+attr_org: :width 800
-#+attr_html: :id pic-banner :alt Inside Ornasion Library :width 100%
+#+attr_html: :class pic-banner :alt Inside Ornasion Library
 #+attr_latex: :width 350px
 [[./img/ornasion-library.jpg]]
 

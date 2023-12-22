@@ -4,7 +4,7 @@
 * Athelorion Ruins
 #+caption: The Main Entrance to the ancient city Aeritha (a.k.a the Athelorion ruins)
 #+attr_org: :width 800
-#+attr_html: :id pic-banner :alt Main Entrance to the ancient city :width 100%
+#+attr_html: :class pic-banner :alt Main Entrance to the ancient city
 #+attr_latex: :width 350px
 [[./img/athelorian-ruins.jpg]]
 

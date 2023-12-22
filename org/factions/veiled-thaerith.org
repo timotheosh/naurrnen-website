@@ -1,11 +1,12 @@
 #+title: The Veiled Thaerith
+#+startup: inlineimages
 #+category: Factions
 #+nations: ["The Dathakhian Empire"]
 
 * The Veiled Thaerith
 #+caption: Gurth of the Veiled Thaerith
 #+attr_org: :width 800
-#+attr_html: :id pic-banner :alt Statue of Veiled Thaerith Gurth :width 100%
+#+attr_html: :class pic-banner :alt Statue of Veiled Thaerith Gurth
 #+attr_latex: :width 350px
 [[file:img/veiled-thaerith-gurth-statue.jpg]]
 

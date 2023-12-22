@@ -5,7 +5,7 @@
 #+html: <div class="wrap-right-img">
 #+caption: Elias Vashdro
 #+attr_org: :width 300
-#+attr_html: :alt Image of Elias Vashdro :width 100%;
+#+attr_html: :class portrait :alt Image of Elias Vashdro
 #+attr_latex: :width 200p
 [[./img/elias-vashdro.jpg]]
 #+html: </div>

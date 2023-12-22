@@ -6,7 +6,7 @@
 #+html: <div class="wrap-left-img">
 #+caption:  Orc chieftan
 #+attr_org: :width 300
-#+attr_html: :alt Image of an Orc chieftan :width 100%
+#+attr_html: :class portrait :alt Image of an Orc chieftan
 #+attr_latex: :width 200px
 [[./img/orc-chieftan.jpg]]
 

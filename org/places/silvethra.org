@@ -5,7 +5,7 @@
 * Silvethra
 #+caption: Ciy of Silvethra
 #+attr_org: :width 800
-#+attr_html: :id pic-banner :alt City of Silvethra :width 100%
+#+attr_html: :class pic-banner :alt City of Silvethra
 #+attr_latex: :width 350px
 [[./img/silvethra.jpg]]
 

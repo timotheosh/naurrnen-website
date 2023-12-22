@@ -5,7 +5,7 @@
 #+html: <div class="wrap-left-img">
 #+caption: Treasure Hunters in the Desert of Kaukloutan
 #+attr_org: :width 300
-#+attr_html: :alt Image of Treasure Hunters :width 100%;
+#+attr_html: :class portrait :alt Image of Treasure Hunters
 #+attr_latex: :width 200p
 [[./img/adventurers-in-the-desert.jpg]]
 #+html: </div>

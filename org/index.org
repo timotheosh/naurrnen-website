@@ -8,7 +8,7 @@
 :END:
 #+caption: Main port of the city Ponte Cidade
 #+attr_org: :width 800
-#+attr_html: :id pic-banner :alt Main port in Ponte Cidade :width 100%
+#+attr_html: :class pic-banner :alt Main port in Ponte Cidade
 #+attr_latex: :width 350px
 [[./img/ponte-cidade-banner.jpg]]
 

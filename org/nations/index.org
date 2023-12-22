@@ -4,8 +4,6 @@
 * Introduction: Nations of Naurrnen
 ** Tribes of Nigrumia
 Tribes of the Orpa (a.k.a the Orcs).
-** Dathakhian Empire
-Empire of the Durashim (a.k.a Dark Elves).
 ** Marches of Bounoshin
 Home of the Gathashim (the Cavern Elves or Dwarves). Territory to the far east of the known world.
 ** Commonwealth of Caria

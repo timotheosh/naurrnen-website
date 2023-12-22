@@ -6,7 +6,7 @@
 #+html: <div class="wrap-left-img">
 #+caption:  Mochveneba warrior
 #+attr_org: :width 300
-#+attr_html: :alt Mochveneba warrior :width 100%
+#+attr_html: :class portrait :alt Mochveneba warrior
 #+attr_latex: :width 200px
 [[./img/mochveneba-warrior.jpg]]
 #+html: </div>

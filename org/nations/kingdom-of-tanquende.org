@@ -5,7 +5,7 @@
 * Kingdom of Tanquende
 #+caption: City of Tanquende, the capital of Tanquende
 #+attr_org: :width 800
-#+attr_html: :id pic-banner :alt Tanquende :width 100%
+#+attr_html: :class pic-banner :alt Tanquende
 #+attr_latex: :width 350px
 [[file:img/kingdom-of-tanquende.jpg]]
 

@@ -5,7 +5,7 @@
 #+html: <div class="wrap-right-img">
 #+caption: Siobhán MacAuley
 #+attr_org: :width 300
-#+attr_html: :alt Image of Siobhán MacAuley :width 100%;
+#+attr_html: :class portrait :alt Image of Siobhán MacAuley
 #+attr_latex: :width 200p
 [[./img/siobhan-macauley.jpg]]
 #+html: </div>
@@ -17,7 +17,7 @@
 - Occupation ::
     Consultant to the Emperor of Gran Imperio / Professor of Trade and Philosophy at the University of Naethanor
 - Home ::
-    Ponet Cidade
+    Ponte Cidade
 - Eneagram Scale ::
     Investigator
 - Background ::

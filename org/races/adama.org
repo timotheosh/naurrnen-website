@@ -6,7 +6,7 @@
 #+html: <div class="wrap-left-img">
 #+caption:  Edama merchant
 #+attr_org: :width 300
-#+attr_html: :alt Image of an Edama man :width 100%
+#+attr_html: :class portrait :alt Image of an Edama man
 #+attr_latex: :width 200px
 [[./img/edama-male-merchant.jpg]]
 #+html: </div>
@@ -24,7 +24,7 @@ Men's language had been historically Hallashim, as man had been the slaves of ce
 #+html: <div class="wrap-right-img">
 #+caption:  A Durama scout
 #+attr_org: :width 300
-#+attr_html: :alt Image of a Durama scout :width 100%
+#+attr_html: :class portrait :alt Image of a Durama scout
 #+attr_latex: :width 200px
 [[./img/durama-male-scout.jpg]]
 #+html: </div>

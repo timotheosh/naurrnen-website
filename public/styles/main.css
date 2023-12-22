@@ -21,6 +21,14 @@ h2 {
   font-size: 28px;
 }
 
+img.pic-banner {
+  width: 100%;
+}
+
+img.portrait {
+  width: 100%
+}
+
 article div figure img {
   text-align: center;
   width: 100%;

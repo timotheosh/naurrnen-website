@@ -1,10 +1,11 @@
 #+title: Introduction to Naurrnen's History
 #+startup: inlineimages
+#+category: History
 
 * Introduction to Naurrnen's History
 #+caption: One of many Amearan ruins that dot many landscapes in Naurrnen
 #+attr_org: :width 800
-#+attr_html: :id pic-banner :alt Image of Amearan ruins :width 100%
+#+attr_html: :class pic-banner :alt Image of Amearan ruins
 #+attr_latex: :width 350px
 [[file:img/amearan-ruin-1.jpg]]
 

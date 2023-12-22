@@ -6,7 +6,7 @@
 
 #+caption: City of Gathen'dor, the capital of Dathakhian Empire
 #+attr_org: :width 800
-#+attr_html: :id pic-banner :alt City of Gathen'dor :width 100%
+#+attr_html: :class pic-banner :alt City of Gathen'dor
 #+attr_latex: :width 350px
 [[./img/gathendor.jpg]]
 

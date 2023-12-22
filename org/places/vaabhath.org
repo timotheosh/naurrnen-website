@@ -4,7 +4,7 @@
 * Vaabhath
 #+caption: Glimkaren river from inside city limits of Vaabhath
 #+attr_org: :width 800
-#+attr_html: :id pic-banner :alt Image of Glimkaren river :width 100%
+#+attr_html: :class pic-banner :alt Image of Glimkaren river
 #+attr_latex: :width 350px
 [[file:img/glimkarun-river-in-vaabhath.jpg]]
 

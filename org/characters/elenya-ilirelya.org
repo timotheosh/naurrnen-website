@@ -5,7 +5,7 @@
 #+html: <div class="wrap-right-img">
 #+caption: Elenya Ilírely
 #+attr_org: :width 300
-#+attr_html: :alt Image of Elenya Ilírely :width 100%;
+#+attr_html: :class portrait :alt Image of Elenya Ilírely
 #+attr_latex: :width 200p
 [[file:img/elenya-ilirelya.jpg]]
 #+html: </div>

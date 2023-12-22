@@ -5,7 +5,7 @@
 #+html: <div class="wrap-right-img">
 #+caption: Eolande Altherion
 #+attr_org: :width 300
-#+attr_html: :alt Eolande Altherion :width 100%;
+#+attr_html: :class portrait :alt Eolande Altherion
 #+attr_latex: :width 200p
 [[./img/eolande-altherion.jpg]]
 #+html: </div>

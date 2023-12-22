@@ -7,7 +7,7 @@
 :END:
 #+caption: The Quadrangle in the University of Naethanor
 #+attr_org: :width 800
-#+attr_html: :id pic-banner :alt Quadrangle of Naethanor :width 100%
+#+attr_html: :class pic-banner :alt Quadrangle of Naethanor
 #+attr_latex: :width 350px
 [[./img/university-of-naethanor.jpg]]
 

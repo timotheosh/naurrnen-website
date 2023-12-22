@@ -5,7 +5,7 @@
 #+html: <div class="wrap-right-img">
 #+caption: Thalion Veyreth
 #+attr_org: :width 300
-#+attr_html: :alt Thalion Veyreth :width 100%;
+#+attr_html: :class portrait :alt Thalion Veyreth
 #+attr_latex: :width 200p
 [[./img/thalion-veyreth.jpg]]
 #+html: </div>

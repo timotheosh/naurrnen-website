@@ -5,7 +5,7 @@
 #+html: <div class="wrap-right-img">
 #+caption: Aravenna Leafwhisper
 #+attr_org: :width 300
-#+attr_html: :alt Image of Aravenna Leafwhisper :width 100%;
+#+attr_html: :class portrait :alt Image of Aravenna Leafwhisper
 #+attr_latex: :width 200p
 [[file:img/aravenna-leafwhisper.jpg]]
 #+html: </div>

@@ -1,11 +1,12 @@
 #+title: Aenarim Cult
+#+startup: inlineimages
 #+category: Factions
 #+nations: ["The Dathakhian Empire"]
 
 * The Aenarim
 #+caption: Famous statue of Gurth in the temple in Gathen'dor
 #+attr_org: :width 800
-#+attr_html: :id pic-banner :alt Statue of Gurth :width 100%
+#+attr_html: :class pic-banner :alt Statue of Gurth
 #+attr_latex: :width 350px
 [[file:img/gurth-statue.jpg]]
 

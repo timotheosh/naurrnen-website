@@ -7,7 +7,7 @@
 * Vulwin Horde
 #+caption: Bellgrald (The Great Forest) in Vulwin Horde Territory
 #+attr_org: :width 800
-#+attr_html: :id pic-banner :alt Bellgrald (The Great Forest) :width 100%
+#+attr_html: :class pic-banner :alt Bellgrald (The Great Forest)
 #+attr_latex: :width 350px
 [[file:img/vulwin-horde.jpg]]
 

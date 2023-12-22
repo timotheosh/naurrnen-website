@@ -3,7 +3,7 @@
 
 * Places: Introduction
 #+attr_org: :width 800
-#+attr_html: :id pic-banner :alt The Elven Capital City, Tanquende :width 100%
+#+attr_html: :class pic-banner :alt The Elven Capital City, Tanquende
 #+attr_latex: :width 350px
 [[./img/places.jpg]]
 

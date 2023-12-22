@@ -6,7 +6,7 @@
 #+html: <div class="wrap-left-img">
 #+caption:  Pool of Garunzal in the Kaukloutan Desert
 #+attr_org: :width 300
-#+attr_html: :alt Image of Garunzal pool :width 100%
+#+attr_html: :class portrait :alt Image of Garunzal pool
 #+attr_latex: :width 200px
 [[file:img/saruleum.jpg]]
 #+html: </div>
@@ -24,7 +24,7 @@ Garunzal is a soft metal and is an extremely efficient energy source for magic a
 #+html: <div class="wrap-right-img">
 #+caption:  Deposits of Sangorn near a dormant lava flow in the Kaukloutan Desert
 #+attr_org: :width 300
-#+attr_html: :alt Image of Sangorn deposits :width 100%
+#+attr_html: :class portrait :alt Image of Sangorn deposits
 #+attr_latex: :width 200px
 [[file:img/baruleum-deposits.jpg]]
 #+html: </div>
@@ -35,7 +35,7 @@ A hard and heavy metal. Can be used as armor but is too heavy to make full suits
 #+html: <div class="wrap-left-img">
 #+caption:  Statue made of Valmaur
 #+attr_org: :width 300
-#+attr_html: :alt Image of a statue made of Valmaur :width 100%
+#+attr_html: :class portrait :alt Image of a statue made of Valmaur
 #+attr_latex: :width 200px
 [[./img/valmaur-statue.jpg]]
 #+html: </div>

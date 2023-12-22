@@ -5,7 +5,7 @@
 * Dathakhian Empire
 #+caption: Oil painting of a great ancestor and a giant dipiction of Gurth, the god of the dead
 #+attr_org: :width 800
-#+attr_html: :id pic-banner :alt Oil painting of Gurth :width 100%
+#+attr_html: :class pic-banner :alt Oil painting of Gurth
 #+attr_latex: :width 350px
 [[./img/dathakhian-empire-gurth-painting.jpg]]
 

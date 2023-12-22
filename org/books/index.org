@@ -4,7 +4,7 @@
 * Introduction: Books
 #+caption: Main lobby inside the Great Library of Ornasion
 #+attr_org: :width 800
-#+attr_html: :id pic-banner :alt Great Library of Ornasion :width 100%
+#+attr_html: :class pic-banner :alt Great Library of Ornasion
 #+attr_latex: :width 350px
 [[file:img/ornasion-library-4.jpg]]
 

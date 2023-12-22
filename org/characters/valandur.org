@@ -5,7 +5,7 @@
 #+html: <div class="wrap-right-img">
 #+caption: Valandur
 #+attr_org: :width 300
-#+attr_html: :alt Image of Valandur :width 100%;
+#+attr_html: :class portrait :alt Image of Valandur
 #+attr_latex: :width 200p
 [[./img/valandur.jpg]]
 #+html: </div>

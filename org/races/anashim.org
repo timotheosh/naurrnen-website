@@ -6,7 +6,7 @@
 #+html: <div class="wrap-left-img">
 #+caption:  Hallishim man at arms
 #+attr_org: :width 300
-#+attr_html: :alt Image of an Hallishim male :width 100%
+#+attr_html: :class portrait :alt Image of an Hallishim male
 #+attr_latex: :width 200px
 [[./img/hallishim-male.jpg]]
 #+html: </div>
@@ -31,7 +31,7 @@ Anashim language has several dialects. The most common being that of the Hallash
 #+html: <div class="wrap-right-img">
 #+caption:  Taurashim Ranger
 #+attr_org: :width 300
-#+attr_html: :alt Image of a Taurashim female :width 100%
+#+attr_html: :class portrait :alt Image of a Taurashim female
 #+attr_latex: :width 200px
 [[./img/taurashim-female-ranger.jpg]]
 #+html: </div>
@@ -51,10 +51,10 @@ Caretakers of the highest father and mother's temples and places of worship are 
 Nature and nurture. The Taurashim take as their own, the care and growth for the other Anashim races. The Taurashim are known for their annual festivals, where the three hordes of the Taurashim teach and train the other hordes in areas where their students, by the cultural limitations, are in need of training. They see this their duty to offer these same services to their neighboring Anashim. Others do come, but rarely, are these "others" noblemen or women or anyone of high social status within their own home nation.
 #+html: <br style="clear:both;" />
 
-#+html: <div class="wrap-right-img">
+#+html: <div class="wrap-left-img">
 #+caption:  Durashim mercenary in ceremonial attire
 #+attr_org: :width 300
-#+attr_html: :alt Image of a Durashim male :width 100%
+#+attr_html: :class portrait :alt Image of a Durashim male
 #+attr_latex: :width 200px
 [[./img/durashim-nobleman.jpg]]
 #+html: </div>

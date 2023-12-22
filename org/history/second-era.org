@@ -1,10 +1,12 @@
-#+title: The Second Era: The Áyliaremma Elves
+#+title: The Second Era
 #+startup: inlineimages
+#+category: History
 
-* The Second Era: The Áyliaremma Aelves
+* The Second Era year 2000 to 4000
+** The Second Era: The Áyliaremma Aelves
 #+caption: Lisse (meeting place) of an ancient Aelven city.
 #+attr_org: :width 800
-#+attr_html: :id pic-banner :alt Image of ruins :width 100%
+#+attr_html: :class pic-banner :alt Image of ruins
 #+attr_latex: :width 350px
 [[file:img/lisse-of-an-ancient-elven-city.jpg]]
 

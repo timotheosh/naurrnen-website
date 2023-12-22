@@ -4,7 +4,7 @@
 * City of Tanquende
 #+caption: City of Tanquende
 #+attr_org: :width 800
-#+attr_html: :id pic-banner :alt City of Tanquende :width 100%
+#+attr_html: :class pic-banner :alt City of Tanquende
 #+attr_latex: :width 350px
 [[file:img/tanquende.jpg]]
 

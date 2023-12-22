@@ -4,7 +4,7 @@
 * Laurië Citime
 #+caption: The Main Entrance to the Library Laurië Citime
 #+attr_org: :width 800
-#+attr_html: :id pic-banner :alt Main Entrance to Laurië Citime :width 100%
+#+attr_html: :class pic-banner :alt Main Entrance to Laurië Citime
 #+attr_latex: :width 350px
 [[./img/laurie-citime.jpg]]
 

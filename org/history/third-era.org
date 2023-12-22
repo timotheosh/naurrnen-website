@@ -1,10 +1,12 @@
 #+title: The Third Era: The Age of Reconciliation
 #+startup: inlineimages
+#+category: History
 
-* The Third Era: The Age of Reconciliation
+* The Third Era year 4000 to present (year 4500)
+** The Age of Reconciliation
 #+caption: Ponte Cidade, capital city of the Gran Imperio, and economic heart of Naurrnen.
 #+attr_org: :width 800
-#+attr_html: :id pic-banner :alt Image of Ponte Cidade :width 100%
+#+attr_html: :class pic-banner :alt Image of Ponte Cidade
 #+attr_latex: :width 350px
 [[file:img/ponte-cidade-2.jpg]]
 

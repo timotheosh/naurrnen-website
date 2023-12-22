@@ -4,7 +4,7 @@
 * Kaukloutan Desert
 #+caption: A trade caravan traveling the trail of tears in the Kaukloutan Desert
 #+attr_org: :width 800
-#+attr_html: :id pic-banner :alt Image of caravan in the Kaukloutan Desert :width 100%
+#+attr_html: :class pic-banner :alt Image of caravan in the Kaukloutan Desert
 #+attr_latex: :width 350px
 [[file:img/caravan-traveling-the-perilous-kauklatan-desert.jpg]]
 

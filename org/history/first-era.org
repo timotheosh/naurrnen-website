@@ -1,10 +1,12 @@
-#+title: First Era: The Amearans
+#+title: First Era
 #+startup: inlineimages
+#+category: History
 
-* First Era: The Amearans
+* The First Era: pre-history to 1999
+** Pre-History: The Amearans
 #+caption: Ancient Amearan City.
 #+attr_org: :width 800
-#+attr_html: :id pic-banner :alt Image of ancient ruins :width 100%
+#+attr_html: :class pic-banner :alt Image of ancient ruins
 #+attr_latex: :width 350px
 [[file:img/amearan-ruin-2.jpg]]
 
