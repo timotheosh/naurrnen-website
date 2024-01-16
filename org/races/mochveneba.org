@@ -18,6 +18,18 @@ The Mochveneba tribes are religious, and perhaps to most of the civilized world,
 1. Enchanting weapons and items.
 2. Known for physical strength.
 3. Warlike, but peace-loving.
+
+#+html: <br style="clear:both;" />
+
+#+html: <div class="wrap-right-img">
+#+caption:  A Mochveneba Chieftain
+#+attr_org: :width 300
+#+attr_html: :class portrait :alt Image of a Mochveneba Chieftain
+#+attr_latex: :width 200px
+[[./img/mochveneba-chieftain.jpg]]
+#+html: </div>
+
+
 ** Pantheon
 1. Animism: They believe spirit is in all things. But they also believe that consciousness is a higher form of spirit.
 2. Believe in balance betweem "pah" and "foh". Good/Evil. Hot/Cold, etc.
