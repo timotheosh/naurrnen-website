@@ -15,6 +15,7 @@
 - [[file:nations/index.org][Summary: Nations]]
 - [[file:nations/gran-imperio.org][Gran Imperio]]
 - [[file:nations/dathakhian-empire.org][Dathakhian Empire]]
+- [[file:nations/federation-of-boigna.org::*Federation of Boignia][Federation of Boignia]]
 - [[file:nations/kingdom-of-tanquende.org][Tanquende]]
 - [[file:nations/vulwin-horde.org][Vulwin Horde]]
 #+HTML: </div>
@@ -129,6 +130,7 @@
 - [[file:places/ornasion-library.org][Ornasion Library]]
 - [[file:places/ponte-cidade.org][Ponte Cidade]]
 - [[file:places/city-of-gathendor.org][City of Gathen'dor]]
+- [[file:places/saoirse.org][Saoirse]]
 - [[file:places/city-of-tanquende.org][City of Tanquende]]
 - [[file:places/university-of-naethanor.org][University Of Naethanor]]
 - [[file:places/vaabhath.org][Vaabhath]]

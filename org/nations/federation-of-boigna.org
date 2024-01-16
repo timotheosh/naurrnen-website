@@ -1,0 +1,23 @@
+#+title: Federation Of Boigna
+#+startup: inlineimages
+#+category: Nations
+
+* Federation of Boignia
+#+caption: Shauv canal, linking Lake Shauv and the Duv Sea
+#+attr_org: :width 800
+#+attr_html: :class pic-banner :alt
+#+attr_latex: :width 350px
+[[./img/federation-of-boigna.jpg]]
+
+- Capital Provincial City ::  [[file:../places/saoirse.org][Saoirse]]
+
+
+The Federation of Boigna is made up of several autonomous states that are militarily and economically united. The politics of the Federation are complex to foreigners, as unlike monarchies, they have no central head, and certain guilds and other non-governmental entities can have more political clout than a political sovereign. The Aelves call them anarchists, but the residents of the Federation would disagree.
+
+The Federation of Boigna is maritime powerhouse revered for its formidable fleet and its pivotal role in maintaining the balance of power across the southern oceans. Here, the winds of freedom and cooperation propel the sails of a society built on the foundational stones of social contract, yet thrumming with the vibrant pulse of symbiosis.
+
+The Federation is a pluralistic society where diverse cultures converge under the proud banners of the Edama people. It's a realm where the robust legal frameworks of the social contract have sculpted a society known for its fair dealings, respect for agreements, and a collective commitment to the greater good. This is mirrored in Boigna's maritime prowess, with a fleet renowned not only for its role in commerce but also as a bulwark against the scourge of piracy, safeguarding the vital trade routes that nourish the nations of Naurrnen.
+
+Yet, beyond the rule of law lies the heart of Boigna—a society striving for an organic unity where the well-being of each is intertwined with the prosperity of all. It's a place where the concept of symbiosis transcends mere interaction and becomes a way of life, fostering an environment where mutual aid and reciprocal benefit are not just ideals, but everyday practice.
+
+As storytellers and game makers, you are invited to embark on a narrative voyage through Boigna's rich tapestry of tradition and innovation. Craft tales of seafaring legends, navigate the intricate dance of diplomacy, and explore the depths of a society where the spirit of the law harmonizes with the song of the sea.
