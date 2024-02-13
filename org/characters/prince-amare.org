@@ -1,0 +1,34 @@
+#+title: Prince Amare
+#+startup: inlineimages
+#+category: Characters
+
+* Prince Amare
+#+html: <div class="wrap-right-img">
+#+caption: Prince Amare
+#+attr_org: :width 300
+#+attr_html: :class portrait :alt Image of Malorin Swiftshadow
+#+attr_latex: :width 200p
+[[file:./img/prince-amare.jpg]]
+#+html: </div>
+
+- Age ::
+    Middle Aged
+- Race ::
+    Durama
+- Occupation ::
+    Prince of the Principality of Vilesia
+- Home ::
+    Siyum Negasi
+- Eneagram Scale ::
+    Type 3: The Achiever
+** Characteristics
+- *Adaptive and Ambitious:* Amare adapts his strategies to ensure Vilesia remains at the forefront of the empire, always seeking to improve its prestige and his own.
+- *Image-Conscious:* He pays great attention to the principality's image, as well as his own, often engaging in public works and appearances that enhance his reputation as a descendant of Tasfaye the Wise.
+- *Charismatic Leader:* His charm is a key tool in his leadership arsenal, helping him to win allies and influence people across different strata of society.
+- *Success-Oriented:* Amare is focused on creating tangible successes that can be seen and admired by all, such as the prosperity of Siyum Negasi and the renown of Vilesia's law school.
+- *Efficiency and Practicality:* He values efficient governance and practical solutions that reflect well on the administration's competence.
+- *Competitive Edge:* While he is cooperative within the empire, he is also competitive, striving to ensure that Vilesia is seen as the "star of the empire."
+
+
+- Background ::
+Prince Abdul Amare of the Tewodros family, believed to be direct descendents of King Tasfaye the wise.

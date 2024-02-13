@@ -1,0 +1,13 @@
+#+title: The Institutes of Civil Governance
+#+startup: inlineimages
+#+category: Books
+
+* The Institutes of Civil Governance
+During the first ten years of the reign of [[file:../characters/king-tasfaye.org][King Tasfaye the Wise]], the great King worked on compiling a commentary on [[file:the-rahnami.org][the Rahnami]]. Once completed, King Tasfaye the Wise summoned the best known scholars, lawysre, and judges throughout Naurrnen to begin compiling the INstitutes of Civil Governance. The idea was to incorporate, as much as possible the different traditions around [[file:the-rahnami.org][the Rahnami]], and applying the principles to actual civil law. This magnum opus became widely known throughout Naurrnen as "the Institutes".
+
+** Influence in the Third Era
+[[file:../nations/principality-of-vilesia.org][The Principality of Vilesia]] in the [[file:../history/third-era.org][Third Era]] uses the Institutes as its law code for the principality. [[file:../nations/gran-imperio.org][The Gran Imperio]] still uses a good portion of the Institutes for its direct jurisprudence, but tolerates certain variations of its implementation outside the [[file:../places/ponte-cidade.org][capital city]].
+
+The Hallashim, after abandoning the Institutes, and anything else associated with the Rahnami late in the [[file:../history/second-era.org][Second Era]]. the Hallashim of [[file:../nations/kingdom-of-tanquende.org][Kingdom of Tanquende]] re-embraced the Institutes at the start of the [[file:../history/third-era.org][Third Era]].
+
+Countries within Naurrnen, without a strong centralized government have little regard for the Institutes. Most notable would be the scholars from the [[file:../nations/federation-of-boigna.org][Federation of Boigna]]. They have written voluminous scholarly books on jurisprudence that treat the Institutes with both passionate revere, and harsh criticism. The Federation has a Constitution which was crafted using much of King Tasfaye's commentary, but geared for a much more decentralized governing body.

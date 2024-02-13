@@ -1,5 +1,5 @@
 #+title: Aranuir Xanaphia
-#+category: Characters
+#+startup: inlineimages
 #+category: Characters
 #+faction: Aenerim Cult
 #+race: Durashim

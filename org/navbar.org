@@ -16,6 +16,7 @@
 - [[file:nations/gran-imperio.org][Gran Imperio]]
 - [[file:nations/dathakhian-empire.org][Dathakhian Empire]]
 - [[file:nations/federation-of-boigna.org::*Federation of Boignia][Federation of Boignia]]
+- [[file:nations/principality-of-vilesia.org][Principality of Vilesia]]
 - [[file:nations/kingdom-of-tanquende.org][Tanquende]]
 - [[file:nations/vulwin-horde.org][Vulwin Horde]]
 #+HTML: </div>
@@ -28,13 +29,21 @@
 #+HTML: </button>
 #+HTML: <div class="dropdown-container">
 - [[file:books/index.org][Introduction: Books]]
-- [[file:books/the-ancient-ones.org][The Ameara (or "The Ancient Ones") by Bayetti Falasha]]
-- [[file:books/from-dusk-to-dawn.org][From Dusk to Dawn]]
-- [[file:books/lament-of-the-divided-path.org][Lament of the Divided Path]]
-- [[file:books/in-ayliaremmas-footsteps.org][In Áyliaremma's Footsteps]]
-- [[file:books/trade-winds-of-prosperity.org][Trade Winds of Prosperity]]
-- [[file:books/verbal-tapestry.org][Verbal Tapestry]]
-- [[file:books/the-chronicles-of-athalorion.org][The Chronicles of Athalorion]]
+- Economics
+  - [[file:books/trade-winds-of-prosperity.org][Trade Winds of Prosperity]]
+- Ethics
+  - [[file:books/the-rahnami.org][The Rahnami]]
+- History
+  - [[file:books/the-ancient-ones.org][The Ameara (or "The Ancient Ones") by Bayetti Falasha]]
+  - [[file:books/in-ayliaremmas-footsteps.org][In Áyliaremma's Footsteps]]
+  - [[file:books/the-chronicles-of-athalorion.org][The Chronicles of Athalorion]]
+- Law
+  - [[file:books/institutes-civil-governance.org][Institutes of Civil Governance]]
+- Philosophy
+  - [[file:books/verbal-tapestry.org][Verbal Tapestry]]
+- Poetry
+  - [[file:books/from-dusk-to-dawn.org][From Dusk to Dawn]]
+  - [[file:books/lament-of-the-divided-path.org][Lament of the Divided Path]]
 #+HTML: </div>
 * Characters
 :PROPERTIES:
@@ -48,6 +57,7 @@
 - Historical
   - [[file:characters/valandur.org][Valandur]]
   - [[file:characters/bayetti-falasha.org][Bayetti Falasha]]
+  - [[file:characters/king-tasfaye.org][King Tasfaye the Wise]]
   - [[file:characters/luthien-dusksinger.org][Luthien Dusksinger]]
   - [[file:characters/eolande-altherion.org][Eolande Altherion]]
   - [[file:characters/thalion-veyreth.org][Thalion Veyreth]]
@@ -56,6 +66,8 @@
   - Political: Gran Imperio
     - [[file:characters/eradan-dadhain.org][Eradan Dadhain]]
     - [[file:characters/siobhan-macauley.org][Siobhán MacAuley]]
+  - Principality of Vilesia
+    - [[file:characters/prince-amare.org][Prince Amare]]
   - Political: Tanquende
     - [[file:characters/elenya-ilirelya.org][Elenya Ilírelya]]
   - Political: Vulwin Horde
@@ -131,6 +143,7 @@
 - [[file:places/ponte-cidade.org][Ponte Cidade]]
 - [[file:places/city-of-gathendor.org][City of Gathen'dor]]
 - [[file:places/saoirse.org][Saoirse]]
+- [[file:places/siyum-negasi.org][Siyum Negasi]]
 - [[file:places/city-of-tanquende.org][City of Tanquende]]
 - [[file:places/university-of-naethanor.org][University Of Naethanor]]
 - [[file:places/vaabhath.org][Vaabhath]]

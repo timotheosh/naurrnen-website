@@ -1,0 +1,29 @@
+#+title: King Tasfaye
+#+startup: inlineimages
+#+category: Characters
+
+* King Tasfaye the Wise
+#+html: <div class="wrap-right-img">
+#+caption: King Tasfaye the Wise
+#+attr_org: :width 300
+#+attr_html: :class portrait :alt Oil painting of King Tasfaye the Wise
+#+attr_latex: :width 200p
+[[./img/king-tasfaye.jpg]]
+#+html: </div>
+
+- Age ::
+    Deceased 1E 900
+- Race ::
+    Durama
+- Occupation ::
+    Great king of the Adama in first era.
+- Home ::
+
+- Eneagram Scale ::
+    Enneagram Number: 5 (The Investigator)
+** Background:
+ And though he is often portrayed as a Durama (and given his name, most likely was) he ruled over all adama. So he is revered by all adama races. He had to be rediscovered after the second era. He is said to have authored more than a thousand songs and two thousand proverbs. Most of which has been lost to time. Some of his works are still accessible. Most notable are his commentaries on the [[file:../books/the-rahnami.org][Rahnami]].
+
+ King Rahnami was the most wise and righteous ruler in recorded history. He reigned in the late [[file:../history/first-era.org][First Era]]. Taking the throne at a young, Tasfaye ruled for nearly sixty years (1843FE - 1900FE).
+
+ #+html: <br style="clear:both;" />

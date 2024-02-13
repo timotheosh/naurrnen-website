@@ -1,11 +1,8 @@
 #+title: Ponte Cidade
 #+startup: inlineimages
-#+include: ../navbar.org
+#+category: Places
 
 * Ponte Cidade
-:PROPERTIES:
-:CATEGORY: Gran_Imperio
-:END:
 #+caption: The great city of Ponte Cidade
 #+attr_org: :width 800
 #+attr_html: :class pic-banner :alt City of Ponte Cidade

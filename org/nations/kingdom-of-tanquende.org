@@ -1,6 +1,6 @@
 #+title: Tanquende
 #+startup: inlineimages
-#+include: ../navbar.org
+#+category: Nations
 
 * Kingdom of Tanquende
 #+caption: City of Tanquende, the capital of Tanquende

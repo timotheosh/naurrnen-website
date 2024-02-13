@@ -1,4 +1,5 @@
 #+title: From Dusk to Dawn
+#+startup: inlineimages
 #+category: Books
 
 * From Dusk to Dawn by [[../characters/luthien-dusksinger.org][Luthien Dusksinger]]
