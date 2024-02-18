@@ -1,0 +1,54 @@
+#+title: Thalia Swiftbrook
+#+startup: inlineimages
+#+category: Characters
+#+faction: Horde Caelithra
+#+race: Taurashim
+#+enneagram: 3
+
+* Thalia "Silvertongue" Swiftbrook
+#+html: <div class="wrap-right-img">
+#+caption: Thalia "Silvertongue" Swiftbrook
+#+attr_org: :width 300
+#+attr_html: :class portrait :alt Image of Thalia "Silvertongue" Swiftbrook
+#+attr_latex: :width 200p
+[[file:img/thalia-swiftbrook.jpg]]
+#+html: </div>
+
+- Age ::
+    Young Adult
+- Race ::
+    Taurashim
+- Occupation ::
+    Rogue Sell-Sword
+- Home ::
+    [[file:../places/silvethra.org][Silvethra]]
+- Eneagram Scale :: Type 3: The Achiever with a wing of Type 4: The Independent
+
+** Characteristics
+1. *Ambitious:* Driven by her Type Three nature, Thalia is highly goal-oriented, striving for excellence and eager to achieve recognition for her skills and contributions.
+2. *Adaptable:* As someone who has trained in diplomacy, combat, and espionage, she's able to adjust her behavior and methods to suit different situations and challenges.
+3. *Charming:* Her innate charisma allows her to engage with others effortlessly, an essential trait for both a diplomat and a rogue.
+4. *Resourceful:* Thalia's ability to make effective use of her surroundings and to think on her feet is a testament to her survival skills and her cunning as a rogue.
+5. *Competent:* She possesses a high level of proficiency in various disciplines, from archery and swordplay to the subtleties of international diplomacy.
+6. *Individualistic:* Her wing Four influences her desire for uniqueness, leading her to forge a personal identity that stands out from her peers and predecessors.
+7. *Strategic:* Whether in a fight or a political negotiation, Thalia approaches her objectives with careful planning and foresight.
+8. *Passionate:* Thalia puts her heart into everything she does, whether it's perfecting her combat skills, mastering the art of stealth, or engaging in the cut and thrust of diplomatic exchanges.
+9. *Introspective:* Despite her outward focus on achievement, her Four wing lends her a degree of self-awareness and a propensity for reflection, giving her depth and complexity.
+
+#+html: <br style="clear:both;" />
+#+html: <div class="wrap-left-img">
+#+caption: Thalia in disguise
+#+attr_org: :width 300
+#+attr_html: :class portrait :alt Image of Thalia in her various disguises.
+#+attr_latex: :width 200p
+[[file:img/thalia-disguise.jpg]]
+#+html: </div>
+
+*** Background
+From the moment of her first breath under the verdant canopy of Bellgrald, Thalia Swiftbrook was destined for a life beyond the ordinary. Born to the esteemed diplomats of the [[file:~/src/projects/naurrnen-website/org/factions/horde-caelithra.org][Horde Caelithra]], she was swathed in the mantle of negotiation and statecraft from a young age. Yet, amidst the intricacies of diplomacy, Thalia's heart yearned for the adrenaline rush of battle, for the dance of steel and shadow. It was her mother's wisdom, a blend of challenge and permission, that spurred her forward. 'Master the art of words, and the art of war shall follow,' she was told. Thalia embraced this challenge with the fervor of a wildfire. She absorbed the subtleties of her tribe’s diplomacy with astonishing alacrity, her mind always a step ahead, her arguments incisive yet elegant.
+
+Her rapid mastery of Caelithra's diplomatic arts did not merely stem from a longing for the clash of swords; it was driven by a deeper, burning need to excel, to be exceptional. Thalia did not just want to fight; she wanted to shine in the arena of combat, to be as revered with a blade as she was with words. And in the quiet moments, away from the watchful eyes of her tribe, Thalia nurtured a nascent, fervent creativity — a yearning to express her unique self, to weave her individual story into the grand tapestry of Taurashim lore.
+
+Thus, Thalia's journey unfolded as one of duality: in the sunlit courts and moonlit groves of the Vulwin Horde, she was the silver-tongued diplomat, the essence of grace and poise. But under the guise of night, in the hushed whispers of the  [[file:~/src/projects/naurrnen-website/org/factions/horde-gwennath.org][Horde Gwennath]] encampments, she was the warrior-in-training, her blade singing a silent song of strength and defiance. In both worlds, Thalia sought to surpass, to be unparalleled — not for the sake of pride, but for the profound desire to leave her mark upon the world, a legacy of her own crafting.
+
+#+html: <br style="clear:both;" />

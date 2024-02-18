@@ -78,9 +78,10 @@
     - [[file:characters/aranuir-xanaphia.org][Aranuir Xanaphia]]
   - Intellectual
     - [[file:characters/faelinoril-galathil.org][Faelinoril Galathil]]
-  - Merchants
+  - Merchants, thieves and Sell-swords
     - [[file:characters/elias-vashdro.org][Elias Vashdro]]
     - [[file:characters/lunara-vashdro.org][Lunara Vashdro]]
+    - [[file:characters/thalia-swiftbrook.org][Thalia "Silvertongue" Swiftbrook]]
 
 #+HTML: </div>
 * Factions

@@ -1,5 +1,9 @@
 #+title: Aravenna Leafwhisper
 #+startup: inlineimages
+#+category: Characters
+#+faction: Horde Caelithra
+#+race: Taurashim
+#+enneagram: 5
 
 * Aravenna Leafwhisper
 #+html: <div class="wrap-right-img">
