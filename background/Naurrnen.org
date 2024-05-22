@@ -1,4 +1,4 @@
-    #+TITLE: Naurrnen
+#+TITLE: Naurrnen
 #+startup: inlineimages
 * Secret Origins
 ** Introduction

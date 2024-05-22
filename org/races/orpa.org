@@ -10,7 +10,7 @@
 #+attr_latex: :width 200px
 [[./img/orc-chieftan.jpg]]
 
-Known in elvish as Osunus, and to the humans as Orcs.
+Known in Hallishim as Osunus, and to the Adama as Orcs.
 ** Strengths
 1. Fighters
 2. Manual labor

@@ -73,6 +73,6 @@ With the second era's Hallashim empire's rise to primacy and dominance, within t
 **** The Veiled Thaerith
 **Etymology:** 'Thaerith' could come from the words 'Thae', meaning 'hidden' or 'secret', and 'Rith', relating to 'knowledge' or 'lore'.
 
-**Origins:** The Veiled Thaerith might have originated during a turbulent period in the Second Era, perhaps as a group of scholars and mages who discovered esoteric aspects of Gurth's worship through forbidden texts or during a time of exile.
+**Origins:** The Veiled Thaerith originated during a turbulent period in the Second Era, [[file:../history/second-era.org::*The Great Apostasy of 3695][the Great Apostasy]], by a group of scholars and mages who discovered esoteric aspects of Gurth's worship through forbidden texts or during a time of exile.
 
 #+html: <br style="clear:both;" />
