@@ -1,0 +1,11 @@
+{:configuration
+ {:public
+  {:sitemap-path "/home/thawes/src/projects/naurrnen-website/org"
+   :source-dir "/home/thawes/src/projects/naurrnen-website/html"
+   :webroot "/home/thawes/src/projects/naurrnen-website/public"
+   :template "resources/templates/naurrnen-layout"
+   :footer "<p><a href=\"https://clojure.org\"><img src=\"/img/made-with-lisp.png\" class=\"footer-img\" alt=\"Made with Lisp\" /></a> --- Tim Hawes © 2024</p>"
+   :web-url "https://naurrnen.selfdidactic.com"
+   :port 8088}
+  :database
+  {:dbname "naurrnen.db"}}}
