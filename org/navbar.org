@@ -62,6 +62,7 @@
   - [[file:characters/eolande-altherion.org][Eolande Altherion]]
   - [[file:characters/thalion-veyreth.org][Thalion Veyreth]]
   - [[file:characters/legend-of-naethanor.org][Legend Of Naethanor]]
+  - [[file:characters/caladhir-vaelora.org][Caladhir Vaelora]]
 - Factions
   - Political: Gran Imperio
     - [[file:characters/eradan-dadhain.org][Eradan Dadhain]]
