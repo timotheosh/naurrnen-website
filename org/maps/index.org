@@ -1,0 +1,9 @@
+#+title: Maps
+#+startup: inlineimages
+
+* Map of Naurrnen
+#+caption: Map of Naurrnen
+#+attr_org: :width 800
+#+attr_html: :class pic-banner :alt Map of Naurrnen :target _blank
+#+attr_latex: :width 350px
+[[./img/map-of-naurrnen.webp][file:./img/map-of-naurrnen.webp]]

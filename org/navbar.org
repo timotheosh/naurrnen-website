@@ -4,6 +4,16 @@
 :END:
 #+HTML:    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
 #+HTML: <a href="/index.html" class="dropdown-btn">Welcome to Naurrnen</a>
+* Maps
+:PROPERTIES:
+:HTML_HEADLINE_CLASS: absent
+:END:
+#+HTML: <button class="dropdown-btn" id="Maps">Maps
+#+HTML:   <i class="fa fa-caret-down"></i>
+#+HTML: </button>
+#+HTML: <div class="dropdown-container">
+- [[file:maps/index.org::*Map of Naurrnen][Map of Naurrnen]]
+#+HTML: </div>
 * Nations
 :PROPERTIES:
 :HTML_HEADLINE_CLASS: absent
