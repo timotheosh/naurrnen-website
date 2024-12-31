@@ -184,6 +184,7 @@
 #+HTML: <div class="dropdown-container">
 - [[file:stories/index.org][Stories]]
 - [[file:stories/thalion-veyreth.org::*The Story of Thalion Veyreth][The Story of Thalion Veyreth]]
+- [[file:stories/caladhir-vaelora-history.org][The Story of Caladhir Vaelora]]
 #+HTML: </div>
 * Secrets
 :PROPERTIES:
