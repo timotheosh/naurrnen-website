@@ -27,8 +27,11 @@
 3. He was so hard to nail down, that he was both loved by the righteous, and gravely feared by the corrupt.
 4. He would turn a corrupt institution against its leaders, before addressing those leaders directly.
 5. He never spoke, unless he was near 100% confident in his verdict.
+6. Not just an appointed ruler, but also a scholar and judicial historian. He had a better grasp of the Hallashim history and tradition than anyone else in court. Even better than the court's historians, and court's justiciars.
+7. When someone in the court challenged him, he would point his open hand toward his library and say "show me". If the challenger was particularly audacious, "show me" was shouted by his booming voice, silencing the court. If the challenger could not respond in ample time, they were either dismissed or removed from their position.
+8. Officials who were removed from office, either had their positions annihilated, or backfilled by an appointed official. He favored Rahnami scholars over standard judiciary appointees.
 *** Background
-1. One of the most well-read scholars of the early third era, Caladhir Vaelora’s legacy was deeply rooted in his meticulous study of ancient texts and his ability to reinterpret them for his time. His works and commentaries inspired legal reforms and cultural transformations across Naurrnen.
+1. One of the most well-read scholars and judiciary historians of the early third era, Caladhir Vaelora’s legacy was deeply rooted in his meticulous study of ancient texts and his ability to reinterpret them for his time. His works and commentaries inspired legal reforms and cultural transformations across Naurrnen.
 2. *The Rahnami*
    - Caladhir’s commentary on the *Rahnami* revitalized its principles of love, mercy, and reciprocity. He challenged the Hallashim to see Rahnami not as a relic of the past, but as the foundation for a peaceful and just future.
      #+begin_quote
@@ -48,13 +51,13 @@
      "The law is not a crown; it is a flame. It must be carried with reverence, lest it burn those who wield it and those they serve."
      #+end_quote
 6. *The Mochveneba Shaman*
-   Early in his reign, Caladhir publicly dismissed a corrupt court official in the market square, exposing their misdeeds before the people. Rather than selecting another noble for the role, he chose a humble Mochveneba merchant from the crowd—a wandering shaman who refused the title outright.
+   Early in his reign, Caladhir publicly dismissed a corrupt court official in the market square, exposing their misdeeds before the people. Rather than selecting another noble for the role, he chose a humble Mochveneba merchant from the crowd—a wandering Rahnami shaman who refused the title outright.
    #+begin_quote
      “Because you do not want it nor the prestige, you are most suitable for the role. What is your title among your people, good sir?”
    #+end_quote
       The merchant straightened slightly, his voice steady but soft as the desert winds.
    #+begin_quote
-     “I am Khaelos Bahrun, a mere foolish shaman. I desire no riches or power.”
+     “I am Khaelos Bahrun, a mere foolish shaman of the Rahnami. I desire no riches or power.”
    #+end_quote
       Caladhir regarded him for a long moment before responding, his tone both amused and solemn.
    #+begin_quote
