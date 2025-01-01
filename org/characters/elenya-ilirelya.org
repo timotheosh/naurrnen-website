@@ -1,5 +1,8 @@
 #+title: Elenya Ilírely
 #+startup: inlineimages
+#+category: Characters
+#+race: Hallashim
+#+enneagram: 9
 
 * Elenya Ilírely
 #+html: <div class="wrap-right-img">

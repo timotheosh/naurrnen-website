@@ -1,5 +1,8 @@
 #+title: Lunara Vashdro
 #+startup: inlineimages
+#+category: Characters
+#+race: Mochveneba
+#+enneagram: 4
 
 * Lunara Vashdro
 #+html: <div class="wrap-right-img">

@@ -1,6 +1,8 @@
 #+title: King Tasfaye
 #+startup: inlineimages
 #+category: Characters
+#+race: Durama
+#+enneagram: 5
 
 * King Tasfaye the Wise
 #+html: <div class="wrap-right-img">

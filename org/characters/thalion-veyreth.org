@@ -1,5 +1,8 @@
 #+title: Thalion Veyreth
 #+startup: inlineimages
+#+category: Characters
+#+race: Edama
+#+enneagram: 1
 
 * Thalion Veyreth
 #+html: <div class="wrap-right-img">

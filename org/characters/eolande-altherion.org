@@ -1,5 +1,7 @@
 #+title: Eolande Altherion
 #+startup: inlineimages
+#+race: Hallashim
+#+enneagram: 1
 
 * Eolande Altherion
 #+html: <div class="wrap-right-img">

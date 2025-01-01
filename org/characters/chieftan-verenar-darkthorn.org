@@ -1,5 +1,8 @@
 #+title: Chieftan Verenar Darkthorn
 #+startup: inlineimages
+#+faction: Horde Gwennath
+#+race: Taurashim
+#+enneagram: 3
 
 * Chieftan Verenar
 #+html: <div class="wrap-right-img">

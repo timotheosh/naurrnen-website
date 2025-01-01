@@ -1,5 +1,8 @@
 #+title: Faelinoril Galathil
 #+startup: inlineimages
+#+category: Characters
+#+race: Hallashim
+#+enneagram: 5
 
 * Faelinoril Galathil
 #+html: <div class="wrap-right-img">
@@ -19,7 +22,7 @@
 - Home ::
     Laurië Citime, in the city of Tanquende
 - Eneagram Scale ::
-    Investigator
+    5 (Investigator)
 - Background ::
 The second era Elves did lay traps throughout the [[../places/athelorion-ruins.org][Athelorion]] underground passages, to dissuade others from discovering their secrets.
 The third era elves are generally not as stingy, but the riddles of Falasha's writings are as much a mystery to them as they are to others.

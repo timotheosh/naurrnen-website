@@ -1,5 +1,8 @@
 #+title: Elias Vashdro
 #+startup: inlineimages
+#+category: Characters
+#+race: Gathashim
+#+enneagram: 7
 
 * Elias Vashdro
 #+html: <div class="wrap-right-img">

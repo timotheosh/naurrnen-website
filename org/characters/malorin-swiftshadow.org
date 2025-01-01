@@ -1,5 +1,9 @@
 #+title: Malorin Swiftshadow
 #+startup: inlineimages
+#+category: Characters
+#+faction: Horde Thalrinder
+#+race: Taurashim
+#+enneagram: 8
 
 * Malorin Swiftshadow
 #+html: <div class="wrap-right-img">

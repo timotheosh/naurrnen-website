@@ -1,5 +1,7 @@
 #+title: Bayetti Falasha
 #+startup: inlineimages
+#+category: Characters
+#+race: Hallashim
 
 * Bayetti Falasha
 #+html: <div class="wrap-right-img">

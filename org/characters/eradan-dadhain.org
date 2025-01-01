@@ -1,5 +1,7 @@
 #+title: Eradan Dadhain
 #+startup: inlineimages
+#+race: Edama
+#+enneagram: 1
 
 * Eradan Dadhain
 #+html: <div class="wrap-right-img">
@@ -19,7 +21,7 @@
 - Home ::
     Ponte Cidade
 - Eneagram Scale ::
-    Perfectionist
+    1 (Perfectionist)
 - Background ::
 The current emperor of the Gran Imperio.
 

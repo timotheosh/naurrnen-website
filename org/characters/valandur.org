@@ -1,6 +1,8 @@
 #+title: Valandur
 #+startup: inlineimages
 #+category: Characters
+#+race: Hallashim
+#+enneagram: 5
 
 * Valandur
 #+html: <div class="wrap-right-img">

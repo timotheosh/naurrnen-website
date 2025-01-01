@@ -1,6 +1,8 @@
 #+title: Prince Amare
 #+startup: inlineimages
 #+category: Characters
+#+race: Durama
+#+enneagram: 3
 
 * Prince Amare
 #+html: <div class="wrap-right-img">
