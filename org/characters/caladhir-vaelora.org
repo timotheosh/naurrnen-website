@@ -35,8 +35,8 @@
 
 * Stories
 For detailed narratives about Caladhir’s life and legacy, see:
-- [[file:~/src/projects/naurrnen-website/org/stories/caladhir-vaelora-history.org::*The Young Court Historian][The Young Court Historian:]] How Caladhir’s scholarly pursuits led to his rediscovery of King Tasfaye.
-- [[file:~/src/projects/naurrnen-website/org/stories/caladhir-vaelora-history.org::*The Five-Year Search][The Five-Year Search:]] The arduous journey to recover lost texts that redefined Hallashim governance.
-- [[file:~/src/projects/naurrnen-website/org/stories/caladhir-vaelora-history.org::*The Reluctant heir to the Thrown][The Reluctant heir to the Thrown:]] The dramatic events leading to his acceptance of the throne.
-- [[file:~/src/projects/naurrnen-website/org/stories/caladhir-vaelora-history.org::*The Mochveneba Shaman][The Mochveneba Shaman:]] The story of his trusted advisor and their role in reshaping Hallashim culture.
-- [[file:~/src/projects/naurrnen-website/org/stories/caladhir-vaelora-history.org::*A Lasting Legacy][A Lasting Legacy:]] How Caladhir’s reforms endured and influenced the Third Era.
+- [[../stories/caladhir-vaelora-history.org::*The Young Court Historian][The Young Court Historian:]] How Caladhir’s scholarly pursuits led to his rediscovery of King Tasfaye.
+- [[../stories/caladhir-vaelora-history.org::*The Five-Year Search][The Five-Year Search:]] The arduous journey to recover lost texts that redefined Hallashim governance.
+- [[../stories/caladhir-vaelora-history.org::*The Reluctant heir to the Thrown][The Reluctant heir to the Thrown:]] The dramatic events leading to his acceptance of the throne.
+- [[../stories/caladhir-vaelora-history.org::*The Mochveneba Shaman][The Mochveneba Shaman:]] The story of his trusted advisor and their role in reshaping Hallashim culture.
+- [[../stories/caladhir-vaelora-history.org::*A Lasting Legacy][A Lasting Legacy:]] How Caladhir’s reforms endured and influenced the Third Era.
