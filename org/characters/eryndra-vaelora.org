@@ -1,0 +1,38 @@
+#+title: Eryndra Vaelora
+#+startup: inlineimages
+#+category: Characters
+#+race: Hallashim
+#+enneagram: 8
+#+enneagram_wing: 7
+
+* Eryndra Vaelora
+#+html: <div class="wrap-right-img">
+#+caption: Eryndra Vaelora
+#+attr_org: :width 300
+#+attr_html: :class portrait :alt Image of Eryndra Vaelora
+#+attr_latex: :width 200p
+[[./img/eryndra-vaelora.jpg]]
+#+html: </div>
+-   *Age:* Died early second century of the third era
+-   *Race:* Hallashim
+-   *Occupation:* Empress of the Hallashim
+-   *Enneagram Scale:* Type 8 (defender of justice) with a wing of 7 (entertaining and spontaneity)
+
+
+** Characteristics
+1. A fiery and commanding presence, with rare but unforgettable displays of temper that instill respect and fear.
+2. Charismatic and engaging, known for her humor and sharp wit, especially in public alongside Caladhir.
+3. Fiercely protective of those she loves and of the vulnerable, with a deep sense of justice and loyalty.
+4. Balances her bold assertiveness with graciousness, earning her a reputation as the merciful Empress.
+5. Adventurous and energetic, bringing vibrancy and warmth to her role, both in the court and among the people.
+6. Relentlessly practical and action-oriented, valuing results over empty gestures or excessive deliberation.
+7. An exceptional judge of character, with an unerring ability to identify corruption and dishonesty.
+
+** Key Achievements
+1. *Rallied Local Leaders to Reform Governance:* Worked alongside Caladhir to empower local leaders, fostering accountability and autonomy at the regional level without relying on centralized imperial control.
+2. *Negotiated Open Borders and Free Trade Agreements:* Used her charm and diplomatic prowess to negotiate open trade agreements, removing tariffs and creating opportunities for prosperity without sacrificing Hallashim independence.
+3. *Advocated for Women in Leadership:* Pushed for the inclusion of women in court and community leadership roles, challenging traditional norms and leaving a lasting legacy of empowerment.
+4. *Led Voluntary Relief Efforts During Crises:* Organized voluntary aid initiatives during famines and disasters, inspiring nobles and commoners alike to contribute resources without the need for government intervention or taxation.
+5. *Publicly Exposed Corruption in the Court:* Known for her rare but fiery temper, Eryndra personally confronted and dismissed corrupt officials, solidifying her reputation as a protector of justice and integrity.
+6. *Humanized Leadership Through Humor and Connection:* Alongside Caladhir, became a symbol of approachable and relatable leadership, using humor and wit to foster unity and trust among the people and the court.
+7. *Balanced Fear and Mercy:* While Caladhir’s calculated threats kept officials on edge, Eryndra’s temper served as a stark reminder of the strength behind her graciousness, ensuring that mercy was respected as a choice rather than a weakness.
