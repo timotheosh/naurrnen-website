@@ -1,5 +1,8 @@
 #+title: Siobhán MacAuley
 #+startup: inlineimages
+#+category: Characters
+#+race: Edama
+#+enneagram: 5
 
 * Siobhán MacAuley
 #+html: <div class="wrap-right-img">
@@ -19,7 +22,7 @@
 - Home ::
     Ponte Cidade
 - Eneagram Scale ::
-    Investigator
+    5 (Investigator)
 - Background ::
 Siobhán MacAuley was born into a family of traders in the bustling city of [[file:../places/saoirse.org::*Saoirse][Saoirse]], nestled within the heart of the [[file:../nations/federation-of-boigna.org][Federation of Boigna]]. From a young age, she displayed an insatiable curiosity about the world of trade and philosophy, a curiosity nurtured by her parents, who were respected traders in their own right.
 
