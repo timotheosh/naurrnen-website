@@ -1,0 +1,90 @@
+#+title: Naurrnen Master Feeder File 1
+#+options: tic:nil
+* Naurrnen Master Feeder File 1
+
+** Intro
+#+include: "./Fantasy-feeder.org"
+#+include: "./Fantasy-feeder 2.org"
+#+include: "./secret-origins.org"
+
+** Books
+#+include: "../org/books/the-rahnami.org"
+#+include: "../org/books/institutes-civil-governance.org"
+#+include: "../org/books/from-dusk-to-dawn.org"
+#+include: "../org/books/in-ayliaremmas-footsteps.org"
+#+include: "../org/books/lament-of-the-divided-path.org"
+#+include: "../org/books/the-ancient-ones.org"
+#+include: "../org/books/the-chronicles-of-athalorion.org"
+#+include: "../org/books/trade-winds-of-prosperity.org"
+#+include: "../org/books/verbal-tapestry.org"
+
+** Characters
+#+include: "../org/characters/aranuir-xanaphia.org"
+#+include: "../org/characters/aravenna-leafwhisper.org"
+#+include: "../org/characters/bayetti-falasha.org"
+#+include: "../org/characters/caladhir-vaelora.org"
+#+include: "../org/characters/chieftan-verenar-darkthorn.org"
+#+include: "../org/characters/elenya-ilirelya.org"
+#+include: "../org/characters/elias-vashdro.org"
+#+include: "../org/characters/eolande-altherion.org"
+#+include: "../org/characters/eradan-dadhain.org"
+#+include: "../org/characters/eryndra-vaelora.org"
+#+include: "../org/characters/faelinoril-galathil.org"
+#+include: "../org/characters/king-tasfaye.org"
+#+include: "../org/characters/legend-of-naethanor.org"
+#+include: "../org/characters/lunara-vashdro.org"
+#+include: "../org/characters/luthien-dusksinger.org"
+#+include: "../org/characters/malorin-swiftshadow.org"
+#+include: "../org/characters/prince-amare.org"
+#+include: "../org/characters/siobhan-macauley.org"
+#+include: "../org/characters/thalia-swiftbrook.org"
+#+include: "../org/characters/thalion-veyreth.org"
+#+include: "../org/characters/valandur.org"
+
+** Factions
+#+include: "../org/factions/aenarim-cult.org"
+#+include: "../org/factions/archivists-guild.org"
+#+include: "../org/factions/horde-caelithra.org"
+#+include: "../org/factions/horde-gwennath.org"
+#+include: "../org/factions/horde-thalrindor.org"
+#+include: "../org/factions/transcript-guild.org"
+#+include: "../org/factions/veiled-thaerith.org"
+
+** History
+#+include: "../org/history/first-era.org"
+#+include: "../org/history/second-era.org"
+#+include: "../org/history/third-era.org"
+
+** Materials
+#+include: "../org/materials/index.org"
+
+** Nations
+#+include: "../org/nations/dathakhian-empire.org"
+#+include: "../org/nations/federation-of-boigna.org"
+#+include: "../org/nations/gran-imperio.org"
+#+include: "../org/nations/kingdom-of-tanquende.org"
+#+include: "../org/nations/principality-of-vilesia.org"
+#+include: "../org/nations/vulwin-horde.org"
+
+** Places
+#+include: "../org/places/athelorion-ruins.org"
+#+include: "../org/places/city-of-gathendor.org"
+#+include: "../org/places/city-of-tanquende.org"
+#+include: "../org/places/kaukloutan-desert.org"
+#+include: "../org/places/laurie-citime.org"
+#+include: "../org/places/ornasion-library.org"
+#+include: "../org/places/ponte-cidade.org"
+#+include: "../org/places/saoirse.org"
+#+include: "../org/places/silvethra.org"
+#+include: "../org/places/siyum-negasi.org"
+#+include: "../org/places/university-of-naethanor.org"
+#+include: "../org/places/vaabhath.org"
+
+** Races
+#+include: "../org/races/adama.org"
+#+include: "../org/races/anashim.org"
+#+include: "../org/races/mochveneba.org"
+
+** Stories
+#+include: "../org/stories/caladhir-vaelora-history.org"
+#+include: "../org/stories/thalion-veyreth.org"

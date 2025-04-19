@@ -69,6 +69,7 @@
   - [[file:characters/bayetti-falasha.org][Bayetti Falasha]]
   - [[file:characters/king-tasfaye.org][King Tasfaye the Wise]]
   - [[file:characters/luthien-dusksinger.org][Luthien Dusksinger]]
+  - [[file:characters/naltherion-almareth.org][Naltherion Almareth]]
   - [[file:characters/eolande-altherion.org][Eolande Altherion]]
   - [[file:characters/thalion-veyreth.org][Thalion Veyreth]]
   - [[file:characters/legend-of-naethanor.org][Legend Of Naethanor]]

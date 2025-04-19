@@ -1,0 +1,40 @@
+#+title: Naltherion Almareth
+#+startup: inlineimages
+#+category: Characters
+#+race: Hallashim (High Aelf)
+#+enneagram: 5
+#+enneagram_wing: 4
+#+enneagram_tritype: 541
+
+* Naltherion Almareth
+#+html: <div class="wrap-right-img">
+#+caption: Naltherion Almareth
+#+attr_org: :width 300
+#+attr_html: :class portrait :alt Image of Naltherion Almareth
+#+attr_latex: :width 200p
+[[./img/naltherion-almareth.jpg]]
+#+html: </div>
+
+- *Age:* Presumed dead in 2E-989 (last seen in the Athelorion Ruins)
+- *Race:* Hallashim
+- *Occupation:* Archaeologist, Linguist, Rogue Historian
+- *Enneagram Scale:* 5w4t1
+
+* Characteristics
+1. *Brilliant but obsessed* – Naltherion’s mind was *his greatest weapon* and his *deepest curse*. He pursued knowledge *at all costs*, believing that truth should be *unbound from rulers and priests*.
+2. *Defiant against authority* – He openly *challenged the Aerithian High Council*, condemning their hoarding of Amearan knowledge.
+3. *Possessed an eidetic memory* – He could recall *entire texts word for word*, a skill that made him *invaluable* to the Transcript Guild before his exile.
+4. *Paranoid yet determined* – In his final years, he feared that the *Hallashim rulers were hunting him*, but refused to abandon his quest.
+5. *Master of ancient languages* – He *deciphered parts of the Amearan script* before any other scholar, but much of his work was lost or hidden.
+
+* Key Achievements
+1. *Authored The Eclipsed Codex* – His magnum opus, rumored to contain *the true key to Amearan vaults*.
+2. *Led the Rogue Expedition to Athelorion* – He and his followers uncovered *a hidden chamber beneath the ruins*, but only his last message—*scrawled onto the walls*—remains.
+3. *Defied the Aerithian High Council* – He was *exiled* for his radical discoveries, yet his works still influence *the Silent Seekers in the Third Era*.
+4. *Mapped lost Amearan passageways* – His *underground maps* remain *highly sought after*, with treasure hunters *killing for them*.
+
+* Stories
+1. *The Last Message* – The final words he left before vanishing:
+   *"We were wrong. It is not a tomb, nor a treasury. It is an ark. It sleeps, waiting for its kind. The key is not in stone or spell, but in the voice of the lost. We have awakened something..."*
+2. *The Betrayal at Laurië Citime* – A rival scholar *sold his research* to the Aerithian Council, leading to a *deadly chase* across the continent.
+3. *Whispers from the Vault* – Silent Seeker operatives claim that *Naltherion's voice* can sometimes be heard *in the ruins*, speaking in *Amearan tongue*.

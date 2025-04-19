@@ -1,0 +1,29 @@
+#+title: ${character-name}
+#+startup: inlineimages
+#+category: Characters
+#+race: ${character-race}
+#+enneagram: ${enneagram}
+#+enneagram_wing: ${enneagram-wing}
+#+enneagram_tritype: ${enneagram-tritype}
+
+* ${character-name}
+#+html: <div class="wrap-right-img">
+#+caption: ${character-name}
+#+attr_org: :width 300
+#+attr_html: :class portrait :alt Image of ${character-name}
+#+attr_latex: :width 200p
+
+#+html: </div>
+
+-   *Age:* ${age-or-year-character-died}
+-   *Race:* ${character-race}
+-   *Occupation:* ${occupation}
+-   *Enneagram Scale:* ${enneagram}w${enneagram-wing}t{$enneagram-tritype}
+
+* Characteristics
+${numbered-list-of-characteristics}
+
+* Key Achievements
+${numbered-list-of-achievements}
+* Stories
+{$character-stories}
